@@ -6,15 +6,39 @@
 
 Le quattro stagioni arrivano in The Sims Legacy Collection. Un temporale può far correre i tuoi Sim al riparo e la neve fresca si posa in giardino. Quando carichi una partita ritrovi il meteo e il calendario del lotto. Questa è una mod non ufficiale creata dagli appassionati.
 
-![Nebbia su un lotto residenziale in The Sims Legacy Collection](../media/weather.png)
+![Il giardino innevato](../media/winter.png)
 
-[Foglie d’autunno](../media/autumn.png) · [Un giardino innevato](../media/winter.png) · [Galleria completa (ZIP, 8 immagini)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Immagini di gioco](#gallery) · [Galleria completa (ZIP, 8 immagini)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Il meteo sul tuo lotto
 
-- Pioggia, temporali, grandine, neve, bufere e nebbia seguono le stagioni. Con la stazione meteorologica facoltativa puoi anche scegliere il tempo, inclusi pioggia e nebbia magiche.
-- In autunno le foglie cambiano colore. In inverno la neve si posa sulle strade, sulla vegetazione e sugli oggetti all’aperto, comprese le lapidi. I bambini possono sguazzare nelle pozzanghere e i Sim possono fare un pupazzo di neve quando lo strato è abbastanza spesso.
-- I Sim, i cani e i gatti possono inzupparsi e cercare riparo. La pioggia può spegnere gli incendi all’aperto. Puoi regolare separatamente gli effetti del meteo sul gioco. Durante il caricamento si sente un brano originale, *Pocztówka z doliny*.
+### La settimana, le stagioni e le previsioni di domani
+
+- La settimana va da lunedì a domenica. Il sabato e la domenica i bambini non vanno a scuola e i Sim che lavorano hanno il fine settimana libero. Non passano né lo scuolabus né l’auto che porta i Sim al lavoro. Il fine settimana non conta come assenza dal lavoro. Il calendario tiene conto anche dei turni di notte.
+- Ogni lotto residenziale ha il proprio calendario. Per impostazione predefinita primavera, estate, autunno e inverno durano sette giorni di gioco ciascuno. Per un anno più lungo puoi scegliere stagioni di 14 o 28 giorni. Apri il calendario con **Ctrl+Alt+R** per impostare stagione, giorno della stagione, giorno della settimana e ora. Quando salvi la famiglia, vengono salvati anche il meteo e il calendario.
+- Il pannello delle previsioni si può richiudere e mostra il giorno della settimana, la stagione, la temperatura e il tempo attuale. Per domani distingue notte, mattina, pomeriggio e sera. Con il meteo automatico i Sim possono anche guardare le previsioni sui televisori compatibili.
+- Sui normali lotti comunitari la famiglia ritrova il meteo e il giorno della stagione che aveva a casa. L’isola delle vacanze ha climi propri. In montagna è inverno, nel bosco è primavera e in spiaggia è estate. Al ritorno, il calendario di casa riprende da dove l’avevi lasciato.
+
+### Il tempo in giardino e in casa
+
+- Pioggia, temporali, grandine, neve, bufere e nebbia possono arrivare spontaneamente. Dopo un acquazzone può formarsi la nebbia. Il vento spinge la pioggia e le foglie autunnali attraverso il lotto. Ai lampi segue il tuono, l’acqua scorre dai tetti e la pioggia normale può spegnere un incendio all’aperto, anche se innescato da un fulmine.
+- La pioggia innaffia le piante a cielo aperto. Le grandinate forti possono danneggiare le piante ornamentali all’esterno. Di notte, soprattutto in estate, le lucciole si accendono vicino a cespugli e fiori. In autunno le foglie cambiano colore. In inverno brina e neve si depositano sul terreno, sui tetti, sulle strade, sulle recinzioni, sulle piante, sugli oggetti all’aperto e sulle lapidi, per poi sciogliersi quando sale la temperatura.
+- Sim, gatti e cani si bagnano all’aperto e si asciugano più rapidamente al riparo. Possono cercare un tetto o lasciare una piccola pozzanghera che si può asciugare con lo spazzolone. Un Sim che rimane fradicio a lungo può ammalarsi, tossire e starnutire. Si riprenderà in un posto asciutto. I bambini possono sguazzare di propria iniziativa nelle pozzanghere all’aperto. Puoi chiedere sia agli adulti sia ai bambini di giocarci.
+- Quando la temperatura scende sotto zero, i Sim all’aperto possono indossare abiti invernali. Acquista per **1 §** una postazione per il pupazzo di neve e sistemala all’aperto. Quando la copertura nevosa raggiunge il **60%**, i Sim possono costruirvi un pupazzo di neve, anche sui lotti comunitari e di vacanza.
+
+### Due nuovi incantesimi nel libro delle magie
+
+Un Sim adulto con una bacchetta può preparare entrambe le ricette nel caricabacchette. Serve un’unità di ciascun ingrediente. Ogni preparazione dà **tre cariche**. Seleziona **Lancia un incantesimo…** sul caricabacchette. Se l’incantesimo riesce, il tempo magico dura **tre ore di gioco**, anche su un lotto senza stazione meteorologica.
+
+- Per **Nebbia dell'incanto** servono Polvere di folletto, Lacrime di drago e Funghi a ombrello. Gli gnomi da giardino e gli spaventapasseri possono prendere vita, i fenicotteri ornamentali possono trasformarsi in ballerini, i pezzi degli scacchi e della dama giocano da soli e le porte dei frigoriferi possono muoversi da sé. Possono spuntare funghi da raccogliere. Presso le tombe adatte, i fantasmi diventano più attivi tra le **22:00 e le 06:00**. Finché dura la nebbia, gli oggetti compatibili possono soddisfare i bisogni di energia, divertimento, igiene, vescica e fame **il 50% più velocemente**. Con gli oggetti per l’apprendimento le abilità migliorano **a velocità doppia**. Puoi regolare la frequenza degli eventi magici e attivare i singoli bonus.
+- Per **Pioggia dell'incanto** servono Polvere di folletto, Lacrime di drago e Coriandoli dei clown. Le gocce colorate lasciano pozzanghere animate dai riflessi arcobaleno. La pioggia innaffia e rinvigorisce le piante vive a cielo aperto e può far maturare le colture. Negli spazi di prato liberi possono crescere fino a **sette** cristalli delle abilità originali di *Magie e Incantesimi*. Rimangono dopo la pioggia e, una volta maturi, possono insegnare i loro poteri ai Sim.
+- Il tempo magico può verificarsi anche spontaneamente. A Magic Town la nebbia magica è più frequente, specialmente di notte. Fuori dall’inverno è più probabile anche la pioggia magica.
+
+### Stazione meteorologica, impostazioni e suono
+
+- Il meteo automatico funziona senza acquistare oggetti. La stazione meteorologica facoltativa costa **10.000 §**. Un Sim con **7 punti in logica** e **6 in meccanica** può usarla per cambiare il meteo e il calendario. Se lo stesso Sim arriva a **10 in entrambe le abilità**, la famiglia può ottenere una stazione gratuita una volta.
+- Nel pannello meteo puoi attivare separatamente gli effetti del bagnarsi, le reazioni alla pioggia, le malattie, gli abiti invernali, la ricerca di riparo dalla grandine, le pozzanghere di pioggia, quelle lasciate quando ci si asciuga, i giochi nelle pozzanghere, i pupazzi di neve, lo spegnimento degli incendi con la pioggia e la nebbia dopo la pioggia. Puoi anche regolare gli effetti, il suono e le prestazioni delle animazioni. Il meteo segue la pausa, la velocità di gioco, lo zoom e la telecamera.
+- La mod comprende schermate di caricamento tradotte e un brano originale per il caricamento, *Pocztówka z doliny*.
 
 ## Download e installazione
 
@@ -40,6 +64,29 @@ La copia comprende `Electronic Arts\The Sims 25` nella cartella dei giochi salva
 Per aggiornare la mod, chiudi il gioco e il programma meteo, estrai il nuovo ZIP in una cartella separata e indica al nuovo programma d’installazione la stessa cartella del gioco. Per rimuovere la mod, chiudi entrambi i programmi e scegli **Opzioni → Disinstalla** nella copia di `Setup.exe` che hai conservato. Verranno ripristinati i file originali, mantenendo salvataggi e backup. Se pensi di riutilizzare gli oggetti della mod, conserva una copia del lotto prima di giocare senza la mod.
 
 Se l’installazione si interrompe, scegli **Opzioni → Annulla modifiche**. Se il ripristino segnala che un file è stato modificato, conserva il messaggio e le copie di sicurezza. Se Windows nega l’accesso in scrittura, esegui `Setup.exe` come amministratore con lo stesso account Windows.
+
+<!-- gallery -->
+<a name="gallery"></a>
+
+## Immagini di gioco
+
+| Pioggia autunnale | Nebbia sul lotto |
+| --- | --- |
+| ![Pioggia autunnale](../media/autumn.png) | ![Nebbia sul lotto](../media/weather.png) |
+
+| Grandine in giardino | Nebbia magica |
+| --- | --- |
+| ![Grandine in giardino](../media/hail.png) | ![Nebbia magica](../media/magic-fog.png) |
+
+| Pioggia e pozzanghere magiche | Schermata di caricamento in inglese |
+| --- | --- |
+| ![Pioggia e pozzanghere magiche](../media/magic-rain.png) | ![Schermata di caricamento in inglese](../media/loading-screen-en.png) |
+
+**Previsioni per domani**
+
+![Previsioni per domani](../media/forecast-en.png)
+
+<!-- /gallery -->
 
 ## Test della beta e segnalazioni
 

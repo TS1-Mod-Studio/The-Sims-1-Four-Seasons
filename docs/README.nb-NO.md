@@ -6,15 +6,39 @@
 
 Fire årstider i The Sims Legacy Collection. Et tordenvær kan få simmene dine til å løpe inn, og nysnø legger seg i hagen. Når du laster inn et lagret spill, får tomten tilbake været og kalenderen sin. Dette er en uoffisiell mod laget av fans.
 
-![Tåke på en boligtomt i The Sims Legacy Collection](../media/weather.png)
+![En snødekt hage](../media/winter.png)
 
-[Høstløv](../media/autumn.png) · [En snødekt hage](../media/winter.png) · [Hele galleriet (ZIP, 8 bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Skjermbilder](#gallery) · [Hele galleriet (ZIP, 8 bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Været på tomten
 
-- Regn, tordenvær, hagl, snø, snøstorm og tåke følger årstidene. Med den valgfrie værstasjonen kan du også velge været selv, blant annet magisk regn og magisk tåke.
-- Om høsten skifter løvet farge. Om vinteren legger snøen seg på veier, planter og gjenstander utendørs, også gravsteiner. Barn kan plaske i sølepytter, og simmene kan lage en snømann når det har kommet nok snø.
-- Simmer, hunder og katter kan bli gjennomvåte og søke ly. Regn kan slukke branner under åpen himmel. Du kan justere de enkelte virkningene været har på spillet. Under innlastingen hører du den nye melodien *Pocztówka z doliny*.
+### Uken, årstidene og værmeldingen for i morgen
+
+- Uken går fra mandag til søndag. På lørdager og søndager har barna fri fra skolen, og simmene som jobber, har fri fra arbeidet. Verken skolebussen eller bilen som henter simmene til jobb, kommer. Helgen teller ikke som fravær fra jobben. Kalenderen tar også hensyn til nattskift.
+- Hver boligtomt har sin egen kalender. Vår, sommer, høst og vinter varer som standard sju dager i spillet hver. Du kan velge 14 eller 28 dager per årstid hvis du vil ha et lengre år. I kalenderen under **Ctrl+Alt+R** kan du stille inn årstid, dag i årstiden, ukedag og klokkeslett. Været og kalenderen lagres sammen med husstanden.
+- Værpanelet kan foldes sammen. Det viser ukedag, årstid, temperatur og været akkurat nå. Morgendagens værmelding er delt inn i natt, morgen, ettermiddag og kveld. Med automatisk vær kan simmene også se værmeldingen på TV-apparater som støtter det.
+- Når familien drar til en vanlig fellestomt, følger været og dagen i årstiden med hjemmefra. Ferieøya har sine egne klimaer. Det er vinter på fjellet, vår i skogen og sommer på stranden. Kalenderen hjemme fortsetter der den slapp når familien kommer tilbake.
+
+### Været i hagen og i huset
+
+- Regn, tordenvær, hagl, snø, snøstorm og tåke kan komme av seg selv. Etter regn kan det legge seg tåke. Vinden driver regn og høstløv over tomten. Etter lynet kommer tordenen, vannet renner fra takene, og vanlig regn kan slukke en brann under åpen himmel, også en som er startet av et lynnedslag.
+- Regnet vanner planter under åpen himmel. Kraftig hagl kan skade prydplanter utendørs. Om natten lyser ildfluer ved busker og blomster, særlig om sommeren. Om høsten skifter løvet farge. Om vinteren legger rim og snø seg på bakken, tak, veier, gjerder, planter og gjenstander utendørs, også på gravsteiner. Når været blir mildere, smelter det igjen.
+- Simmer, katter og hunder blir våte utendørs og tørker raskere under tak. De kan søke ly eller etterlate en liten dam som en sim kan tørke opp. En sim som er gjennomvåt lenge, kan bli syk, hoste og nyse. Simmen kan bli frisk igjen på et tørt sted. Barn kan plaske i sølepytter utendørs på eget initiativ. Du kan også be både voksne og barn om å plaske for moro skyld.
+- Når temperaturen faller under frysepunktet, kan simmene ta på seg vinterklær utendørs. Kjøp en plass for å bygge en snømann for **1 §**, og plasser den ute. Når snødekket når **60 %**, kan simmene bygge en snømann der, også på fellestomter og ferietomter.
+
+### To nye trylleformler i trolldomsboken
+
+En voksen sim med tryllestav kan tilberede begge oppskriftene i tryllestavladeren. Bruk én av hver ingrediens. Hver porsjon gir **tre ladninger**. Velg **Kast trylleformel…** på laderen. En vellykket trylleformel gir **tre timer i spillet** med magisk vær, også på en tomt uten værstasjon.
+
+- Til **Fortryllelsens tåke** trenger du Fe-støv, Dragetårer og Fluesopp. Hagenisser og fugleskremsler kan våkne til liv, hageflamingoer kan forvandles til dansere, sjakk- og dambrikker kan spille av seg selv, og kjøleskapsdører kan bevege seg uten hjelp. Det kan vokse opp fluesopp som simmene kan plukke. Ved graver der spøkelser kan vise seg, øker aktiviteten mellom **kl. 22 og 6**. Så lenge tåken ligger der, kan gjenstander som støttes, dekke behovene for energi, moro, hygiene, toalettbesøk og mat **50 % raskere**. Med gjenstander som trener ferdigheter, lærer simmene **dobbelt så fort**. Du kan justere hvor ofte magiske hendelser inntreffer og slå de enkelte bonusene av og på.
+- Til **Fortryllelsens regn** trenger du Fe-støv, Dragetårer og Klovnekonfetti. Fargede regndråper etterlater animerte sølepytter i regnbuens farger. Regnet vanner og styrker levende planter under åpen himmel og kan få avlinger til å modne. Opptil **sju** av de opprinnelige evnekrystallene fra *Makin’ Magic* kan vokse på ledige gressflater. De blir stående etter bygen, og når de er utvokst, kan simmene lære evnene deres.
+- Magisk vær kan også oppstå naturlig. I Magic Town er magisk tåke vanligere, særlig om natten. Utenom vinteren er det også større sjanse for magisk regn der.
+
+### Værstasjon, innstillinger og lyd
+
+- Det automatiske været fungerer uten at du kjøper noen gjenstander. Den valgfrie værstasjonen koster **10 000 §**. En sim med **7 poeng i logikk** og **6 i mekanikk** kan bruke den til å endre været og kalenderen. Hvis én og samme sim når **10 i begge ferdighetene**, kan husstanden få en gratis stasjon én gang.
+- I værpanelet kan du styre virkningene enkeltvis. Du kan blant annet velge om simmene blir våte, reagerer på regn, blir syke, tar på vinterklær eller søker ly for hagl. Det finnes egne brytere for sølepytter etter regn, dammer som blir igjen når noen tørker, plasking, snømenn, regn som slukker branner og tåke etter regn. Du kan også justere effekter, lyd og animasjonsytelse. Været følger spillets pauser, hastighet, zoom og kamera.
+- Modden inneholder oversatte innlastingsskjermer og en original melodi til innlastingen, *Pocztówka z doliny*.
 
 ## Nedlasting og installasjon
 
@@ -40,6 +64,29 @@ Sikkerhetskopien omfatter `Electronic Arts\The Sims 25` i Windows-mappen for lag
 For å oppdatere lukker du spillet og værprogrammet, pakker ut den nye ZIP-filen i en egen mappe og velger den samme spillmappen i det nye installasjonsprogrammet. For å fjerne modden lukker du begge programmene og velger **Alternativer → Avinstaller** i kopien av `Setup.exe` du har tatt vare på. Originalfilene gjenopprettes, og du beholder lagrede spill og sikkerhetskopier. Hvis du vil bruke gjenstandene fra modden igjen senere, ta vare på en kopi av tomten fra før du spilte uten modden.
 
 Hvis installasjonen ble avbrutt, velger du **Alternativer → Tilbakestill endringer**. Hvis gjenopprettingen melder at en fil er endret, tar du vare på meldingen og sikkerhetskopiene. Hvis Windows nekter skrivetilgang, kjører du `Setup.exe` som administrator fra den samme Windows-kontoen.
+
+<!-- gallery -->
+<a name="gallery"></a>
+
+## Skjermbilder
+
+| Høstregn | Tåke over tomten |
+| --- | --- |
+| ![Høstregn](../media/autumn.png) | ![Tåke over tomten](../media/weather.png) |
+
+| Hagl i hagen | Magisk tåke |
+| --- | --- |
+| ![Hagl i hagen](../media/hail.png) | ![Magisk tåke](../media/magic-fog.png) |
+
+| Magisk regn og sølepytter | Lasteskjermen på engelsk |
+| --- | --- |
+| ![Magisk regn og sølepytter](../media/magic-rain.png) | ![Lasteskjermen på engelsk](../media/loading-screen-en.png) |
+
+**Værmeldingen for i morgen**
+
+![Værmeldingen for i morgen](../media/forecast-en.png)
+
+<!-- /gallery -->
 
 ## Betatesting og feilrapporter
 

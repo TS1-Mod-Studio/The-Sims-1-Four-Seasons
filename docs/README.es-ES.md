@@ -6,15 +6,39 @@
 
 Las cuatro estaciones llegan a The Sims Legacy Collection. Una tormenta puede hacer que tus Sims corran a refugiarse y la nieve recién caída se acumula en el jardín. Al cargar una partida, recuperas el tiempo y el calendario de tu solar. Este mod es una creación no oficial de la comunidad.
 
-![Niebla en un solar residencial de The Sims Legacy Collection](../media/weather.png)
+![Jardín nevado](../media/winter.png)
 
-[Colores de otoño](../media/autumn.png) · [Un jardín nevado](../media/winter.png) · [Galería completa (ZIP, 8 imágenes)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Capturas de pantalla](#gallery) · [Galería completa (ZIP, 8 imágenes)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## El tiempo en tu solar
 
-- La lluvia, las tormentas, el granizo, la nieve, las ventiscas y la niebla siguen el ciclo de las estaciones. Con la estación meteorológica opcional también puedes elegir el tiempo, incluida la lluvia o la niebla mágicas.
-- En otoño cambian de color las hojas. En invierno cuaja la nieve en las carreteras, las plantas y los objetos al aire libre, incluidas las lápidas. Los niños pueden chapotear en los charcos y los Sims pueden hacer un muñeco de nieve cuando se haya acumulado suficiente nieve.
-- Los Sims, los perros y los gatos pueden empaparse y buscar cobijo. La lluvia puede apagar incendios al aire libre. Puedes ajustar por separado los efectos del tiempo en la partida. Durante la carga suena un tema original, *Pocztówka z doliny*.
+### La semana, las estaciones y la previsión de mañana
+
+- La semana va de lunes a domingo. Los sábados y domingos los niños no tienen clase y los Sims que trabajan tienen el fin de semana libre. No pasan ni el autobús escolar ni el coche que los lleva al trabajo. Esos días no cuentan como faltas laborales. También se tienen en cuenta los turnos de noche.
+- Cada solar residencial tiene su propio calendario. Por defecto, la primavera, el verano, el otoño y el invierno duran siete días de juego cada uno. Puedes elegir estaciones de 14 o 28 días para alargar el año. Abre el calendario con **Ctrl+Alt+R** para ajustar la estación, el día de la estación, el día de la semana y la hora. La partida de la familia conserva el tiempo y el calendario.
+- El panel de previsión se puede plegar y muestra el día de la semana, la estación, la temperatura y el tiempo actual. Para mañana distingue cuatro periodos: madrugada, mañana, tarde y noche. Con la meteorología automática, los Sims también pueden ver la previsión en los televisores compatibles.
+- Cuando la familia visita un solar comunitario normal, mantiene el tiempo y el día de la estación que tenía en casa. La isla de vacaciones tiene sus propios climas. En la montaña es invierno, en el bosque es primavera y en la playa es verano. Al volver, el calendario de casa continúa donde lo dejaste.
+
+### El tiempo en el jardín y en casa
+
+- La lluvia, las tormentas, el granizo, la nieve, las ventiscas y la niebla pueden aparecer por sí solos. Después de llover puede formarse niebla. El viento arrastra la lluvia y las hojas de otoño por el solar. Tras los relámpagos se oye el trueno, el agua escurre de los tejados y la lluvia normal puede apagar un incendio al aire libre, incluso si lo ha provocado un rayo.
+- La lluvia riega las plantas que están a cielo abierto. Las granizadas fuertes pueden dañar las plantas ornamentales de exterior. Por la noche, sobre todo en verano, aparecen luciérnagas cerca de los arbustos y las flores. En otoño cambia el color del follaje. En invierno la escarcha y la nieve cubren el suelo, los tejados, las carreteras, las vallas, las plantas, los objetos de exterior y las lápidas. Cuando sube la temperatura, empiezan a derretirse.
+- Los Sims, los perros y los gatos se mojan al aire libre y se secan más deprisa bajo techo. Pueden buscar refugio o dejar un pequeño charco que se puede fregar. Un Sim que pase mucho tiempo empapado puede enfermar, toser y estornudar. Se recuperará en un lugar seco. Los niños pueden chapotear por iniciativa propia en los charcos del exterior. También puedes pedirles a niños y adultos que jueguen en ellos.
+- Cuando la temperatura baja de cero, los Sims pueden ponerse ropa de invierno al salir. Compra por **1 §** un lugar para construir un muñeco de nieve y colócalo al aire libre. Cuando la cobertura de nieve alcance el **60 %**, los Sims podrán construirlo allí, también en solares comunitarios y vacacionales.
+
+### Dos conjuros nuevos en el libro de hechizos
+
+Un Sim adulto con varita puede preparar ambas recetas en el cargador de varitas. Añade una unidad de cada ingrediente. Cada preparación da **tres cargas**. Selecciona **Lanzar conjuro…** en el cargador. Si el conjuro tiene éxito, habrá tiempo mágico durante **tres horas de juego**, incluso en un solar sin estación meteorológica.
+
+- **Niebla del encantamiento** se prepara con Polvo de duendecillo, Lágrimas de dragón y Setas. Los gnomos de jardín y los espantapájaros pueden cobrar vida, los flamencos de adorno pueden convertirse en bailarines, las piezas de ajedrez y de damas juegan solas y las puertas de la nevera pueden moverse por sí mismas. Pueden brotar setas que se pueden recoger. Entre las **22:00 y las 06:00** aumenta la actividad de los fantasmas en las tumbas donde pueden aparecer. Mientras dura la niebla, los objetos compatibles pueden satisfacer las necesidades de energía, diversión, higiene, vejiga y hambre **un 50 % más deprisa**. Con los objetos de aprendizaje se desarrollan las habilidades **al doble de velocidad**. Puedes ajustar la frecuencia de los sucesos mágicos y activar cada bonificación por separado.
+- **Lluvia del encantamiento** se prepara con Polvo de duendecillo, Lágrimas de dragón y Confeti de payaso. Las gotas de colores dejan charcos animados con los tonos del arcoíris. La lluvia riega y revitaliza las plantas vivas a cielo abierto, y puede hacer madurar los cultivos. En la hierba libre pueden crecer hasta **siete** de los cristales de habilidad originales de *Magia Potagia*. Permanecen allí después de la lluvia y, al madurar, pueden enseñar sus habilidades a los Sims.
+- El tiempo mágico también puede darse de forma natural. En Ciudad Mágica es más frecuente la niebla mágica, sobre todo por la noche. Fuera del invierno, también es más probable que caiga lluvia mágica.
+
+### Estación meteorológica, ajustes y sonido
+
+- La meteorología automática funciona sin comprar ningún objeto. La estación meteorológica opcional cuesta **10 000 §**. Un Sim con **7 puntos de Lógica** y **6 de Mecánica** puede usarla para cambiar el tiempo y el calendario. Si un mismo Sim alcanza **10 en ambas habilidades**, la familia puede conseguir una estación gratis una vez.
+- El panel permite activar por separado los efectos de mojarse, las reacciones a la lluvia, las enfermedades, la ropa de invierno, la búsqueda de refugio ante el granizo, los charcos de lluvia, los charcos que se forman al secarse, los juegos en charcos, los muñecos de nieve, la extinción de incendios por la lluvia y la niebla después de llover. También puedes ajustar los efectos, el sonido y el rendimiento de la animación. El tiempo sigue la pausa, la velocidad del juego, el zoom y la cámara.
+- El mod incluye pantallas de carga traducidas y un tema original para la carga, *Pocztówka z doliny*.
 
 ## Descarga e instalación
 
@@ -40,6 +64,29 @@ La copia incluye `Electronic Arts\The Sims 25` en la carpeta de partidas guardad
 Para actualizar el mod, cierra el juego y la aplicación del tiempo, extrae el nuevo ZIP en otra carpeta y selecciona la misma carpeta del juego en el nuevo instalador. Para quitar el mod, cierra ambos programas y elige **Opciones → Desinstalar** en la copia de `Setup.exe` que hayas conservado. Se restauran los archivos originales y se conservan las partidas y sus copias de seguridad. Si piensas volver a usar los objetos del mod, guarda una copia del solar antes de jugar sin él.
 
 Si se interrumpe la instalación, elige **Opciones → Revertir cambios**. Si al restaurar aparece un aviso de que un archivo ha cambiado, conserva el mensaje y las copias de seguridad. Si Windows deniega el acceso de escritura, ejecuta `Setup.exe` como administrador desde la misma cuenta de Windows.
+
+<!-- gallery -->
+<a name="gallery"></a>
+
+## Capturas de pantalla
+
+| Lluvia de otoño | Niebla en el solar |
+| --- | --- |
+| ![Lluvia de otoño](../media/autumn.png) | ![Niebla en el solar](../media/weather.png) |
+
+| Granizo en el jardín | Niebla mágica |
+| --- | --- |
+| ![Granizo en el jardín](../media/hail.png) | ![Niebla mágica](../media/magic-fog.png) |
+
+| Lluvia y charcos mágicos | Pantalla de carga en inglés |
+| --- | --- |
+| ![Lluvia y charcos mágicos](../media/magic-rain.png) | ![Pantalla de carga en inglés](../media/loading-screen-en.png) |
+
+**Pronóstico para mañana**
+
+![Pronóstico para mañana](../media/forecast-en.png)
+
+<!-- /gallery -->
 
 ## Pruebas de la beta y errores
 

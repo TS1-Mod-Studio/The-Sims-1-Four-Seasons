@@ -6,15 +6,39 @@
 
 Les quatre saisons arrivent dans The Sims Legacy Collection. Un orage peut pousser vos Sims à rentrer et la neige tient jusque dans le jardin. Lorsque vous chargez une sauvegarde, vous retrouvez la météo et le calendrier de votre terrain. Ce mod est une création non officielle de fans.
 
-![Brouillard sur un terrain résidentiel dans The Sims Legacy Collection](../media/weather.png)
+![Jardin sous la neige](../media/winter.png)
 
-[Feuillages d’automne](../media/autumn.png) · [Un jardin sous la neige](../media/winter.png) · [Galerie complète (ZIP, 8 images)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Captures d’écran](#gallery) · [Galerie complète (ZIP, 8 images)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## La météo sur votre terrain
 
-- Pluie, orages, grêle, neige, blizzards et brouillard suivent le rythme des saisons. La station météo facultative vous permet aussi de choisir le temps, y compris la pluie ou le brouillard magiques.
-- Le feuillage change de couleur en automne. En hiver, la neige se dépose sur les routes, la végétation et les objets à l’extérieur, jusqu’aux pierres tombales. Les enfants peuvent patauger dans les flaques et les Sims peuvent faire un bonhomme de neige lorsque la couche est assez épaisse.
-- Les Sims, les chiens et les chats peuvent être trempés et chercher un abri. La pluie peut éteindre un incendie à ciel ouvert. Vous pouvez régler séparément les effets de la météo sur le jeu. Le chargement s’accompagne d’un morceau original, *Pocztówka z doliny*.
+### La semaine, les saisons et la météo de demain
+
+- Le calendrier va du lundi au dimanche. Le samedi et le dimanche, les enfants n’ont pas école et les Sims qui travaillent ont congé. Le bus scolaire et la voiture de covoiturage ne passent pas. Le week-end ne compte pas comme une absence au travail. Les horaires de nuit sont pris en compte.
+- Chaque foyer a son propre calendrier. Par défaut, le printemps, l’été, l’automne et l’hiver durent chacun sept jours de jeu. Pour allonger l’année, choisissez 14 ou 28 jours par saison. Ouvrez le calendrier avec **Ctrl+Alt+R** pour régler la saison, le jour de la saison, le jour de la semaine et l’heure. La météo et le calendrier sont enregistrés avec le foyer.
+- Le panneau de prévisions se replie et affiche le jour, la saison, la température et le temps actuel. Pour le lendemain, il détaille la nuit, le matin, l’après-midi et le soir. En mode météo automatique, les Sims peuvent aussi regarder les prévisions sur les téléviseurs compatibles.
+- Quand le foyer visite un terrain communautaire ordinaire, il y retrouve sa météo et le même jour de la saison. Sur l’île des vacances, c’est l’hiver en montagne, le printemps en forêt et l’été à la plage. Le calendrier de la maison reprend au retour là où vous l’aviez laissé.
+
+### Au jardin et dans la maison
+
+- Pluie, orages, grêle, neige, blizzards et brouillard peuvent arriver spontanément. Le brouillard peut s’installer après une averse. Le vent emporte la pluie et les feuilles d’automne à travers le terrain. Le tonnerre suit les éclairs, l’eau ruisselle des toits et une pluie ordinaire peut éteindre un incendie en plein air, même si la foudre l’a provoqué.
+- La pluie arrose les plantes à découvert. Une forte grêle peut abîmer les plantes d’ornement à l’extérieur. La nuit, surtout en été, des lucioles s’allument près des buissons et des fleurs. En automne, le feuillage change de couleur. En hiver, le givre et la neige s’accumulent sur le sol, les routes, les toits, les clôtures, la végétation, les objets de jardin et les pierres tombales, puis fondent avec le redoux.
+- Les Sims, les chats et les chiens se mouillent à l’extérieur et sèchent plus vite à l’abri. Ils peuvent chercher refuge ou laisser une petite flaque qu’un Sim pourra éponger. Un Sim trempé trop longtemps risque de tomber malade, de tousser et d’éternuer. Il peut se rétablir en restant au sec. Les enfants peuvent patauger de leur propre initiative dans les flaques à l’extérieur. Vous pouvez aussi demander aux adultes comme aux enfants d’y jouer.
+- Sous zéro, les Sims peuvent enfiler leurs vêtements d’hiver en sortant. Achetez pour **1 §** un emplacement de bonhomme de neige et placez-le dehors. À partir de **60 %** d’enneigement, les Sims peuvent y construire leur bonhomme, y compris sur les terrains communautaires et de vacances.
+
+### Deux nouveaux sorts dans le grimoire
+
+Un Sim adulte muni d’une baguette peut préparer les deux recettes avec le chargeur de baguette. Il faut un exemplaire de chaque ingrédient. Chaque préparation donne **trois charges**. Sur le chargeur, choisissez **Lancer un sort…**. Un sort réussi déclenche **trois heures de jeu** de météo magique, même sur un terrain sans station météo.
+
+- **Brume d'enchantement** se prépare avec Poussière de lutin, Larmes de dragon et Champignons vénéneux. Nains de jardin et épouvantails peuvent s’animer, les flamants roses se transformer en danseurs, les pièces d’échecs et de dames jouer toutes seules, et les portes de réfrigérateur s’ouvrir d’elles-mêmes. Des champignons à récolter peuvent pousser. Près des tombes qui permettent leur apparition, les fantômes sont plus actifs entre **22 h et 6 h**. Pendant la brume, les objets compatibles satisfont les besoins d’énergie, de divertissement, d’hygiène, de petits besoins et de faim **50 % plus vite**. Les objets d’apprentissage permettent de progresser **deux fois plus vite**. Vous pouvez régler la fréquence des événements magiques et activer les bonus séparément.
+- **Pluie d'enchantement** se prépare avec Poussière de lutin, Larmes de dragon et Confettis de clown. Les gouttes colorées laissent des flaques animées aux reflets arc-en-ciel. La pluie arrose les plantes vivantes à découvert, améliore leur état et peut faire mûrir les cultures. Jusqu’à **sept** cristaux de pouvoir du jeu *Abracadabra* peuvent pousser sur les espaces d’herbe libres. Ils restent après l’averse et, à maturité, permettent aux Sims d’apprendre leurs pouvoirs.
+- La magie peut aussi se manifester spontanément. À Magic Town, la brume magique est plus fréquente, surtout la nuit. Hors de l’hiver, la pluie magique y est aussi plus probable.
+
+### Station météo, réglages et sons
+
+- La météo automatique fonctionne dès votre arrivée sur le terrain. La station météo facultative coûte **10 000 §**. Avec **7 points en logique** et **6 en mécanique**, un Sim peut s’en servir pour modifier la météo ou le calendrier. Si un même Sim atteint **10 dans les deux compétences**, le foyer peut recevoir une station gratuite une fois.
+- Le panneau météo permet de régler séparément les effets suivants : les vêtements et le pelage qui se mouillent, les réactions à la pluie, les maladies, les tenues d’hiver, la recherche d’un abri en cas de grêle, les flaques de pluie, les flaques laissées en séchant, les jeux dans les flaques, les bonshommes de neige, l’extinction des feux par la pluie et le brouillard après la pluie. Vous pouvez aussi régler les effets visuels, le son et les performances de l’animation. La météo suit la pause, la vitesse du jeu, le zoom et la caméra.
+- Le mod comprend des écrans de chargement traduits et un thème musical original, *Pocztówka z doliny*.
 
 ## Télécharger et installer
 
@@ -40,6 +64,29 @@ La sauvegarde inclut `Electronic Arts\The Sims 25` dans le dossier des parties e
 Pour une mise à jour, fermez le jeu et l’application météo, décompressez le nouveau ZIP dans un dossier distinct et choisissez le même dossier du jeu dans le nouveau programme d’installation. Pour retirer le mod, fermez les deux programmes et choisissez **Options → Désinstaller** dans la copie de `Setup.exe` que vous avez conservée. Les fichiers d’origine sont restaurés et vos parties et copies de sauvegarde sont conservées. Si vous souhaitez retrouver les objets du mod, gardez une copie du terrain datant d’avant votre partie sans le mod.
 
 Si l’installation a été interrompue, choisissez **Options → Annuler les modifications**. Si la restauration signale qu’un fichier a été modifié, conservez le message et vos copies de sauvegarde. Si Windows refuse l’accès en écriture, lancez `Setup.exe` en tant qu’administrateur depuis le même compte Windows.
+
+<!-- gallery -->
+<a name="gallery"></a>
+
+## Captures d’écran
+
+| Pluie d’automne | Brouillard sur le terrain |
+| --- | --- |
+| ![Pluie d’automne](../media/autumn.png) | ![Brouillard sur le terrain](../media/weather.png) |
+
+| Grêle dans le jardin | Brume magique |
+| --- | --- |
+| ![Grêle dans le jardin](../media/hail.png) | ![Brume magique](../media/magic-fog.png) |
+
+| Pluie et flaques magiques | Écran de chargement en anglais |
+| --- | --- |
+| ![Pluie et flaques magiques](../media/magic-rain.png) | ![Écran de chargement en anglais](../media/loading-screen-en.png) |
+
+**Prévisions pour demain**
+
+![Prévisions pour demain](../media/forecast-en.png)
+
+<!-- /gallery -->
 
 ## Tester la bêta et signaler un problème
 

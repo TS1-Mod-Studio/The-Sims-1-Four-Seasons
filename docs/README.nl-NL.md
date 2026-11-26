@@ -6,15 +6,39 @@
 
 Vier seizoenen voor The Sims Legacy Collection. Tijdens een onweersbui kunnen je Sims naar binnen vluchten en in de winter blijft de sneeuw in de tuin liggen. Laad je een opgeslagen spel, dan gaan het weer en de kalender van de kavel verder waar je gebleven was. Dit is een onofficiële mod van fans.
 
-![Mist op een woonkavel in The Sims Legacy Collection](../media/weather.png)
+![Een besneeuwde tuin](../media/winter.png)
 
-[Herfstbladeren](../media/autumn.png) · [Een besneeuwde tuin](../media/winter.png) · [Volledige galerij (ZIP, 8 afbeeldingen)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Schermafbeeldingen](#gallery) · [Volledige galerij (ZIP, 8 afbeeldingen)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Wat verandert er op je kavel?
 
-- Afhankelijk van het seizoen krijg je regen, onweer, hagel, sneeuw, sneeuwstormen en mist. Met het optionele weerstation kun je het weer zelf kiezen, ook magische regen en magische mist.
-- In de herfst verkleuren de bladeren. In de winter blijft sneeuw liggen op wegen, planten en voorwerpen buiten, waaronder grafstenen. Kinderen kunnen in plassen spetteren en bij voldoende sneeuw kunnen Sims een sneeuwpop maken.
-- Sims, honden en katten kunnen doorweekt raken en een schuilplaats zoeken. Regen kan buiten een brand blussen. Je bepaalt zelf welke gevolgen het weer voor het spel heeft. Tijdens het laden hoor je de speciaal voor de mod gemaakte muziek *Pocztówka z doliny*.
+### De week, de seizoenen en de weersverwachting
+
+- De kalender loopt van maandag tot en met zondag. Op zaterdag en zondag zijn kinderen vrij van school en hoeven werkende Sims niet naar hun werk. De schoolbus en de carpool komen niet langs. Het weekend telt niet als verzuim, ook bij nachtdiensten.
+- Elke woonkavel heeft een eigen kalender. Lente, zomer, herfst en winter duren elk standaard **7 Simdagen**. Je kunt ook **14 of 28 dagen** kiezen. In de kalender onder **Ctrl+Alt+R** stel je het seizoen, de dag van het seizoen, de weekdag en de tijd in. Als je het huishouden opslaat, blijven het weer en de kalender bewaard.
+- Het inklapbare weerpaneel toont de dag, het seizoen, de temperatuur en het huidige weer. De verwachting voor morgen is verdeeld in nacht, ochtend, middag en avond. Bij automatisch weer kunnen Sims het weerbericht ook bekijken op ondersteunde televisies.
+- Op een gewone openbare kavel reist het weer van het huishouden mee, net als de voortgang van het seizoen. Op het vakantie-eiland is het winter in de bergen, lente in het bos en zomer aan het strand. Bij thuiskomst gaat de kalender verder waar je gebleven was.
+
+### Het weer in de tuin en in huis
+
+- Regen, onweer, hagel, sneeuw, sneeuwstormen en mist kunnen vanzelf opkomen. Na regen kan mist blijven hangen. De wind blaast regen en herfstbladeren over de kavel. Na een bliksemflits hoor je de donder. Water stroomt van de daken en regen kan buiten brand blussen, ook na een blikseminslag.
+- Regen geeft onbeschutte planten water. Zware hagel kan sierplanten beschadigen. Op zomeravonden heb je de meeste kans om vuurvliegjes tussen de struiken en bloemen te zien. In de herfst verkleuren en vallen de bladeren. In de winter verschijnen rijp en sneeuw op de grond, daken, wegen, hekken, planten, tuinvoorwerpen en grafstenen. Bij warmer weer smelt de sneeuw.
+- Sims, honden en katten worden buiten nat, zoeken soms beschutting en drogen sneller onder een dak. Ze kunnen bij het opdrogen een plasje achterlaten dat je kunt dweilen. Een doorweekte Sim kan ziek worden, hoesten en niezen, en herstelt op een droge plek. Kinderen kunnen uit zichzelf in plassen spelen. Ook volwassenen kunnen op verzoek voor hun plezier spetteren.
+- Bij vorst kunnen Sims buiten winterkleren aantrekken. Koop voor **§1** een plek om een sneeuwpop te bouwen en zet die buiten. Vanaf **60% sneeuwbedekking** kunnen ze er een sneeuwpop maken, ook op openbare kavels en op vakantie.
+
+### Twee nieuwe spreuken in het toverboek
+
+Een volwassen Sim met een toverstaf kan de recepten in de toverstafoplader bereiden. Gebruik van elk ingrediënt één stuk voor **drie ladingen**. Kies de spreuk op de oplader. Een geslaagde spreuk brengt **drie Simuren** magisch weer, ook zonder weerstation.
+
+- **Mist der betovering** vraagt om Elfjesstof, Drakentranen en Paddestoelen. Kabouters en vogelverschrikkers kunnen tot leven komen, tuinflamingo’s veranderen in dansers, schaak- en damborden spelen zelf en koelkastdeuren bewegen. Er kunnen plukbare paddenstoelen groeien. Bij geschikte graven worden spoken tussen **22.00 en 06.00 uur** actiever. Ondersteunde voorwerpen kunnen energie, plezier, hygiëne, blaas en honger **50% sneller** aanvullen en vaardigheden **twee keer zo snel** aanleren. De bonussen en de frequentie van magische gebeurtenissen zijn instelbaar.
+- **Regen der betovering** vraagt om Elfjesstof, Drakentranen en Clownsconfetti. De gekleurde regen vormt bewegende regenboogplassen, geeft blootgestelde planten water, verbetert hun conditie en kan gewassen laten rijpen. Op open gras kunnen maximaal **zeven** oorspronkelijke magische vaardigheidskristallen groeien. Ze blijven na de bui staan en leren Sims hun vaardigheden zodra ze volgroeid zijn.
+- Magisch weer komt ook vanzelf voor. In de magische stad is er vaker magische mist, vooral ’s nachts, en buiten de winter vaker magische regen.
+
+### Weerstation, instellingen en geluid
+
+- Voor automatisch weer hoef je niets te kopen. Het weerstation kost **§10.000**. Een Sim met **7 punten logica en 6 punten techniek** kan hiermee het weer en de kalender regelen. Als één Sim **10 punten in beide vaardigheden** heeft, kan het huishouden één keer een gratis station verdienen.
+- In het weerpaneel schakel je afzonderlijk nat worden, regenreacties, ziekte, winterkleding, schuilen voor hagel, plassen door regen of opdrogen, spetteren, sneeuwpoppen, het blussen van branden en mist na regen in of uit. Je kunt effecten, geluid en animatieprestaties aanpassen. Het weer volgt de pauze, de snelheid, de zoom en de camera.
+- De mod bevat vertaalde laadschermen en eigen laadschermmuziek, *Pocztówka z doliny*.
 
 ## Downloaden en installeren
 
@@ -40,6 +64,29 @@ De back-up bevat `Electronic Arts\The Sims 25` in de Windows-map voor opgeslagen
 Voor een update sluit je het spel en het weerprogramma, pak je het nieuwe ZIP-bestand uit in een aparte map en kies je bij de installatie dezelfde spelmap. Om de mod te verwijderen sluit je beide programma’s en kies je **Opties → Verwijderen** in de bewaarde `Setup.exe`. De oorspronkelijke bestanden worden hersteld. Je opgeslagen spellen en back-ups blijven bewaard. Wil je de voorwerpen uit de mod later weer gebruiken, bewaar dan een kopie van de kavel van vóór het spelen zonder de mod.
 
 Is de installatie onderbroken, kies dan **Opties → Wijzigingen terugdraaien**. Meldt het herstelprogramma dat een bestand is gewijzigd, bewaar dan de melding en de back-ups. Als Windows schrijftoegang weigert, voer je `Setup.exe` vanuit hetzelfde Windows-account als administrator uit.
+
+<!-- gallery -->
+<a name="gallery"></a>
+
+## Schermafbeeldingen
+
+| Herfstregen | Mist op de kavel |
+| --- | --- |
+| ![Herfstregen](../media/autumn.png) | ![Mist op de kavel](../media/weather.png) |
+
+| Hagel in de tuin | Magische mist |
+| --- | --- |
+| ![Hagel in de tuin](../media/hail.png) | ![Magische mist](../media/magic-fog.png) |
+
+| Magische regen en plassen | Engels laadscherm |
+| --- | --- |
+| ![Magische regen en plassen](../media/magic-rain.png) | ![Engels laadscherm](../media/loading-screen-en.png) |
+
+**De verwachting voor morgen**
+
+![De verwachting voor morgen](../media/forecast-en.png)
+
+<!-- /gallery -->
 
 ## Bèta testen en fouten melden
 

@@ -6,15 +6,39 @@
 
 As quatro estações chegam ao The Sims Legacy Collection. Uma tempestade pode fazer seus Sims correrem para dentro de casa, e a neve fresca se acumula no jardim. Ao carregar uma partida, o lote retoma o clima e o calendário que tinha quando você salvou. Este é um mod não oficial feito por fãs.
 
-![Neblina em um lote residencial no The Sims Legacy Collection](../media/weather.png)
+![Jardim coberto de neve](../media/winter.png)
 
-[Folhagem de outono](../media/autumn.png) · [Um jardim coberto de neve](../media/winter.png) · [Galeria completa (ZIP, 8 imagens)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Capturas de tela](#gallery) · [Galeria completa (ZIP, 8 imagens)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## O clima no seu lote
 
-- Chuva, tempestades, granizo, neve, nevascas e neblina acompanham as estações. Com a estação meteorológica opcional, você também pode escolher o clima, inclusive chuva e neblina mágicas.
-- No outono, as folhas mudam de cor. No inverno, a neve cobre as ruas, as plantas e os objetos ao ar livre, até as lápides. As crianças podem brincar nas poças, e os Sims podem fazer um boneco de neve quando houver neve suficiente.
-- Sims, cães e gatos podem ficar encharcados e procurar abrigo. A chuva pode apagar incêndios ao ar livre. Você pode ajustar separadamente os efeitos do clima na jogabilidade. Durante o carregamento, toca uma música original, *Pocztówka z doliny*.
+### A semana, as estações e a previsão de amanhã
+
+- A semana vai de segunda-feira a domingo. Aos sábados e domingos, as crianças não têm aula e os Sims que trabalham têm folga. O ônibus escolar e a carona para o trabalho não passam. O fim de semana não conta como falta no trabalho. O calendário também leva em conta quem trabalha no turno da noite.
+- Cada lote residencial tem seu próprio calendário. Por padrão, primavera, verão, outono e inverno duram sete dias de jogo cada. Para ter um ano mais longo, escolha 14 ou 28 dias por estação. Abra o calendário com **Ctrl+Alt+R** para ajustar a estação, o dia da estação, o dia da semana e o horário. Quando você salva a família, o clima e o calendário são salvos junto com ela.
+- O painel de previsão pode ser recolhido e mostra o dia da semana, a estação, a temperatura e o tempo atual. A previsão de amanhã se divide em madrugada, manhã, tarde e noite. No modo de clima automático, os Sims também podem assistir à previsão nos televisores compatíveis.
+- Quando a família visita um lote comunitário comum, encontra o mesmo tempo e o mesmo dia da estação que tinha em casa. A ilha de férias tem seus próprios climas. É inverno nas montanhas, primavera na floresta e verão na praia. Quando a família volta, o calendário de casa continua de onde parou.
+
+### O tempo no jardim e dentro de casa
+
+- Chuva, tempestades, granizo, neve, nevascas e neblina podem surgir naturalmente. Depois de uma chuva, pode se formar neblina. O vento espalha a chuva e as folhas de outono pelo lote. O trovão vem depois do relâmpago, a água escorre dos telhados e a chuva comum pode apagar um incêndio ao ar livre, mesmo que ele tenha começado com um raio.
+- A chuva rega as plantas a céu aberto. Uma chuva forte de granizo pode danificar plantas ornamentais que estão do lado de fora. À noite, principalmente no verão, surgem vaga-lumes perto dos arbustos e das flores. No outono, a folhagem muda de cor. No inverno, a geada e a neve cobrem o chão, telhados, ruas, cercas, plantas, objetos ao ar livre e lápides. Tudo começa a derreter quando a temperatura sobe.
+- Sims, cães e gatos se molham ao ar livre e secam mais rápido debaixo de um teto. Eles podem procurar abrigo ou deixar uma pequena poça que dá para secar com um esfregão. Um Sim que passa muito tempo encharcado pode adoecer, tossir e espirrar. Ele pode se recuperar em um lugar seco. As crianças podem brincar por conta própria nas poças ao ar livre. Você também pode mandar adultos e crianças brincarem nelas.
+- Quando a temperatura cai abaixo de zero, os Sims podem vestir roupas de inverno ao sair. Compre por **§1** um local para fazer um boneco de neve e coloque-o ao ar livre. Quando a cobertura de neve chegar a **60%**, os Sims poderão montar o boneco ali, inclusive em lotes comunitários e de férias.
+
+### Dois novos feitiços no livro de magia
+
+Um Sim adulto com uma varinha pode preparar as duas receitas no carregador de varinhas. Use uma unidade de cada ingrediente. Cada preparo rende **três cargas**. Escolha **Lançar feitiço…** no carregador. Quando o feitiço dá certo, o clima mágico dura **três horas de jogo**, mesmo em um lote sem estação meteorológica.
+
+- **Névoa do encantamento** usa Pó da Maga, Lágrimas de Dragão e Cogumelos. Gnomos de jardim e espantalhos podem ganhar vida, flamingos de jardim podem virar dançarinos, peças de xadrez e damas podem jogar sozinhas, e portas de geladeira podem se mexer por conta própria. Podem brotar cogumelos que os Sims podem colher. Entre **22h e 6h**, os fantasmas podem ficar mais ativos nas sepulturas de onde conseguem sair. Enquanto a névoa durar, os objetos compatíveis podem satisfazer as necessidades de energia, diversão, higiene, bexiga e fome **50% mais rápido**. Com os objetos de aprendizado, os Sims desenvolvem habilidades **ao dobro da velocidade**. Você pode ajustar a frequência dos eventos mágicos e ativar cada bônus separadamente.
+- **Chuva do encantamento** usa Pó da Maga, Lágrimas de Dragão e Serpentina de Palhaço. As gotas coloridas deixam poças animadas com as cores do arco-íris. A chuva rega e recupera as plantas vivas a céu aberto e pode fazer amadurecer o que foi plantado na horta. Nos espaços livres do gramado podem crescer até **sete** cristais de habilidades originais de *Num Passe de Mágica*. Eles ficam no lote depois da chuva e, quando amadurecem, podem ensinar seus poderes aos Sims.
+- O clima mágico também pode surgir naturalmente. Em Magic Town, a névoa mágica é mais frequente, principalmente à noite. Fora do inverno, a chuva mágica também é mais provável por lá.
+
+### Estação meteorológica, ajustes e som
+
+- O clima automático funciona sem precisar comprar nenhum objeto. A estação meteorológica opcional custa **§10.000**. Um Sim com **7 pontos de Lógica** e **6 de Mecânica** pode usá-la para alterar o clima e o calendário. Se o mesmo Sim atingir **10 nas duas habilidades**, a família pode ganhar uma estação grátis uma vez.
+- O painel permite controlar separadamente o efeito de se molhar, as reações à chuva, as doenças, as roupas de inverno, a procura de abrigo contra granizo, as poças de chuva, as poças deixadas ao secar, as brincadeiras nas poças, os bonecos de neve, a chuva apagando incêndios e a neblina depois da chuva. Você também pode ajustar os efeitos, o som e o desempenho das animações. O clima acompanha a pausa, a velocidade do jogo, o zoom e a câmera.
+- O mod inclui telas de carregamento traduzidas e um tema musical original para o carregamento, *Pocztówka z doliny*.
 
 ## Download e instalação
 
@@ -40,6 +64,29 @@ O backup inclui `Electronic Arts\The Sims 25` na pasta de jogos salvos do Window
 Para atualizar o mod, feche o jogo e o aplicativo de clima, extraia o novo ZIP para uma pasta separada e selecione a mesma pasta do jogo no novo instalador. Para remover o mod, feche os dois programas e escolha **Opções → Desinstalar** na cópia de `Setup.exe` que você guardou. Os arquivos originais serão restaurados e as partidas e os backups serão preservados. Se pretende voltar a usar os objetos do mod, guarde uma cópia do lote antes de jogar sem ele.
 
 Se a instalação for interrompida, escolha **Opções → Reverter alterações**. Se a restauração indicar que um arquivo foi modificado, guarde a mensagem e os backups. Se o Windows negar acesso de gravação, execute `Setup.exe` como administrador usando a mesma conta do Windows.
+
+<!-- gallery -->
+<a name="gallery"></a>
+
+## Capturas de tela
+
+| Chuva de outono | Neblina sobre o lote |
+| --- | --- |
+| ![Chuva de outono](../media/autumn.png) | ![Neblina sobre o lote](../media/weather.png) |
+
+| Granizo no jardim | Névoa mágica |
+| --- | --- |
+| ![Granizo no jardim](../media/hail.png) | ![Névoa mágica](../media/magic-fog.png) |
+
+| Chuva e poças mágicas | Tela de carregamento em inglês |
+| --- | --- |
+| ![Chuva e poças mágicas](../media/magic-rain.png) | ![Tela de carregamento em inglês](../media/loading-screen-en.png) |
+
+**Previsão para amanhã**
+
+![Previsão para amanhã](../media/forecast-en.png)
+
+<!-- /gallery -->
 
 ## Testes da beta e relatos de erros
 

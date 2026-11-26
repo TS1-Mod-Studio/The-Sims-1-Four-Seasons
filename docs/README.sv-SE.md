@@ -6,15 +6,39 @@
 
 Fyra årstider i The Sims Legacy Collection. Ett åskväder kan få dina simmar att springa inomhus, och nysnö lägger sig i trädgården. När du laddar ett sparat spel får tomten tillbaka sitt väder och sin kalender. Det här är en inofficiell mod gjord av fans.
 
-![Dimma på en bostadstomt i The Sims Legacy Collection](../media/weather.png)
+![En snötäckt trädgård](../media/winter.png)
 
-[Höstlöv](../media/autumn.png) · [En snötäckt trädgård](../media/winter.png) · [Hela galleriet (ZIP, 8 bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Skärmbilder](#gallery) · [Hela galleriet (ZIP, 8 bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Väder på tomten
 
-- Regn, åska, hagel, snö, snöstormar och dimma följer årstiderna. Med den valfria väderstationen kan du också välja väder själv, till exempel magiskt regn eller magisk dimma.
-- Löven skiftar färg på hösten. På vintern lägger sig snön på vägar, växter och föremål utomhus, även gravstenar. Barn kan plaska i vattenpölar och simmar kan bygga en snögubbe när det finns tillräckligt med snö.
-- Simmar, hundar och katter kan bli genomblöta och söka skydd. Regn kan släcka bränder under bar himmel. Du väljer själv vilka effekter vädret har på spelet. Under laddningen spelas den nyskrivna melodin *Pocztówka z doliny*.
+### Veckan, årstiderna och morgondagens väder
+
+- Veckan går från måndag till söndag. På lördagar och söndagar är barnen lediga från skolan och simmar som arbetar är lediga från jobbet. Varken skolbussen eller skjutsen till jobbet kommer. Helgen räknas inte som frånvaro från jobbet. Kalendern tar också hänsyn till nattskift.
+- Varje bostadstomt har sin egen kalender. Som standard varar våren, sommaren, hösten och vintern sju dagar i spelet vardera. Välj 14 eller 28 dagar per årstid om du vill ha ett längre år. I kalendern under **Ctrl+Alt+R** kan du ställa in årstid, dag i årstiden, veckodag och klockslag. Vädret och kalendern sparas tillsammans med hushållet.
+- Väderpanelen går att fälla ihop. Den visar veckodag, årstid, temperatur och aktuellt väder. Morgondagens prognos är uppdelad i natt, morgon, eftermiddag och kväll. Med automatiskt väder kan simmarna också se väderprognosen på de tv-apparater som stöder den.
+- När familjen åker till en vanlig allmän tomt följer vädret och dagen i årstiden med hemifrån. Semesterön har egna klimat. Det är vinter i bergen, vår i skogen och sommar på stranden. När familjen kommer hem fortsätter kalendern där den stannade.
+
+### Vädret i trädgården och i huset
+
+- Regn, åskväder, hagel, snö, snöstormar och dimma kan dra in av sig själva. Efter regn kan det bli dimma. Vinden sveper med sig regn och höstlöv över tomten. Efter blixten hörs åskan, vatten rinner från taken och vanligt regn kan släcka en brand under bar himmel, även en som startats av ett blixtnedslag.
+- Regnet vattnar växterna under bar himmel. Kraftiga hagelskurar kan skada prydnadsväxter utomhus. På natten syns eldflugor kring buskar och blommor, särskilt på sommaren. Om hösten skiftar löven färg. På vintern lägger sig frost och snö på mark, tak, vägar, staket, växter och föremål utomhus, även på gravstenar. Allt tinar när det blir varmare.
+- Simmar, katter och hundar blir våta utomhus och torkar fortare under tak. De kan söka skydd eller lämna en liten pöl som går att torka upp. En sim som är genomblöt länge kan bli sjuk, hosta och nysa. Simmen kan tillfriskna på en torr plats. Barn kan självmant plaska i vattenpölar utomhus. Du kan också be både vuxna och barn att plaska för skojs skull.
+- När temperaturen går under noll kan simmarna byta till vinterkläder utomhus. Köp en plats för att bygga snögubbar för **1 §** och ställ den utomhus. När snötäcket når **60 %** kan simmarna bygga en snögubbe där, även på allmänna tomter och semestertomter.
+
+### Två nya besvärjelser i trollformelboken
+
+En vuxen sim med trollstav kan tillreda båda recepten i trollstavsladdaren. Använd en av varje ingrediens. Varje sats ger **tre laddningar**. Välj **Kasta besvärjelse…** på laddaren. En lyckad besvärjelse ger **tre timmar i spelet** med magiskt väder, även på en tomt utan väderstation.
+
+- Till **Förtrollningens dimma** behövs Trolldamm, Draktårar och Giftsvamp. Trädgårdstomtar och fågelskrämmor kan vakna till liv, trädgårdsflamingor kan förvandlas till dansare, schack- och dambräden kan spela av sig själva och kylskåpsdörrar kan röra sig på egen hand. Det kan växa upp giftsvampar som simmarna kan plocka. Mellan **kl. 22 och 6** kan spöken bli mer aktiva vid gravar där de brukar kunna visa sig. Medan dimman ligger kvar kan föremål som stöds tillgodose behoven av energi, nöje, hygien, toalettbesök och mat **50 % snabbare**. Med föremål som tränar färdigheter går inlärningen **dubbelt så fort**. Du kan justera hur ofta magiska händelser inträffar och slå på eller av varje bonus för sig.
+- Till **Förtrollningens regn** behövs Trolldamm, Draktårar och Clown-konfetti. Färgade regndroppar lämnar animerade, regnbågsskimrande vattenpölar. Regnet vattnar och stärker levande växter under bar himmel och kan få odlade grödor att mogna. Upp till **sju** av de ursprungliga förmågekristallerna från *Makin’ Magic* kan växa på lediga gräsytor. De finns kvar efter skuren och när de har vuxit färdigt kan simmarna lära sig deras förmågor.
+- Magiskt väder kan också uppstå naturligt. I Magic Town är magisk dimma vanligare, särskilt på natten. Där är magiskt regn också mer sannolikt när det inte är vinter.
+
+### Väderstation, inställningar och ljud
+
+- Det automatiska vädret fungerar utan att du köper något föremål. Den valfria väderstationen kostar **10 000 §**. En sim med **7 poäng i logik** och **6 i mekanik** kan använda den för att ändra vädret och kalendern. Om samma sim når **10 i båda färdigheterna** kan hushållet få en gratis station en gång.
+- I väderpanelen kan du styra varje effekt för sig: att bli blöt, reaktioner på regn, sjukdomar, vinterkläder, att söka skydd för hagel, pölar efter regn, pölar som blir kvar när någon torkar, plaskande, snögubbar, regn som släcker bränder och dimma efter regn. Du kan också justera effekter, ljud och animeringsprestanda. Vädret följer spelets pauser, hastighet, zoom och kamera.
+- Modden innehåller översatta laddningsskärmar och det nyskrivna laddningstemat *Pocztówka z doliny*.
 
 ## Ladda ner och installera
 
@@ -40,6 +64,29 @@ Säkerhetskopian omfattar `Electronic Arts\The Sims 25` i Windows-mappen för sp
 För att uppdatera stänger du spelet och väderprogrammet, packar upp den nya ZIP-filen i en separat mapp och väljer samma spelmapp i det nya installationsprogrammet. För att ta bort modden stänger du båda programmen och väljer **Alternativ → Avinstallera** i den sparade kopian av `Setup.exe`. Originalfilerna återställs och dina sparade spel och säkerhetskopior finns kvar. Vill du använda moddens föremål igen senare, behåll en kopia av tomten från innan du spelade utan modden.
 
 Om installationen avbröts väljer du **Alternativ → Ångra ändringar**. Om återställningen rapporterar att en fil har ändrats, behåll felmeddelandet och säkerhetskopiorna. Om Windows nekar skrivåtkomst, kör `Setup.exe` som administratör från samma Windows-konto.
+
+<!-- gallery -->
+<a name="gallery"></a>
+
+## Skärmbilder
+
+| Höstregn | Dimma över tomten |
+| --- | --- |
+| ![Höstregn](../media/autumn.png) | ![Dimma över tomten](../media/weather.png) |
+
+| Hagel i trädgården | Magisk dimma |
+| --- | --- |
+| ![Hagel i trädgården](../media/hail.png) | ![Magisk dimma](../media/magic-fog.png) |
+
+| Magiskt regn och vattenpölar | Laddningsskärmen på engelska |
+| --- | --- |
+| ![Magiskt regn och vattenpölar](../media/magic-rain.png) | ![Laddningsskärmen på engelska](../media/loading-screen-en.png) |
+
+**Morgondagens väderprognos**
+
+![Morgondagens väderprognos](../media/forecast-en.png)
+
+<!-- /gallery -->
 
 ## Betatest och felrapporter
 
