@@ -97,7 +97,7 @@ Po przerwanej instalacji wybierz **Opcje → Cofnij zmiany**. Jeśli odzyskiwani
 
 | Magiczny deszcz i kałuże | Angielski ekran ładowania |
 | --- | --- |
-| ![Magiczny deszcz i kałuże](../media/magic-rain.png) | ![Angielski ekran ładowania](../media/loading-screen-en.png) |
+| ![Magiczny deszcz i kałuże](../media/magic-rain.png) | ![Ekran ładowania](../media/loading-screen-pl.png) |
 
 **Prognoza na jutro**
 
