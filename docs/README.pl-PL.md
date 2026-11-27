@@ -14,7 +14,7 @@ Cztery Pory Roku to fanowski dodatek do The Sims Legacy Collection. Każda rodzi
 
 *Zimowa parcela z zaśnieżonymi dachami i roślinami*
 
-[Zrzuty ekranu](#gallery) · [Pełna galeria (ZIP, 9 obrazów)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Zrzuty ekranu](#gallery)
 
 ## Co zmienia się na parceli
 
@@ -97,7 +97,7 @@ Po przerwanej instalacji wybierz **Opcje → Cofnij zmiany**. Jeśli odzyskiwani
 
 | Magiczny deszcz i kałuże | Angielski ekran ładowania |
 | --- | --- |
-| ![Magiczny deszcz i kałuże](../media/magic-rain.png) | ![Ekran ładowania](../media/loading-screen-pl.png) |
+| ![Magiczny deszcz i kałuże](../media/magic-rain.png) | ![Angielski ekran ładowania](../media/loading-screen-en.png) |
 
 **Prognoza na jutro**
 

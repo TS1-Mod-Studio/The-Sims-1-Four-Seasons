@@ -14,7 +14,7 @@ Four Seasons is a fan-made expansion for The Sims Legacy Collection. Each househ
 
 *A snowy lot with white roofs and plants*
 
-[Screenshots](#gallery) · [Full gallery (ZIP, 9 images)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Screenshots](#gallery)
 
 ## What changes on your lot
 

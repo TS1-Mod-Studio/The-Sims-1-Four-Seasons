@@ -14,7 +14,7 @@ Avec cette extension créée par des fans pour The Sims Legacy Collection, chaqu
 
 *Un terrain hivernal aux toits et aux plantes enneigés*
 
-[Captures d’écran](#gallery) · [Galerie complète (ZIP, 9 images)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Captures d’écran](#gallery)
 
 ## La météo sur votre terrain
 

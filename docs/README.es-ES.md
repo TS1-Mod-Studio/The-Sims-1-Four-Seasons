@@ -14,7 +14,7 @@ Con esta expansión creada por aficionados para The Sims Legacy Collection, cada
 
 *Un solar de invierno con tejados y plantas nevados*
 
-[Capturas de pantalla](#gallery) · [Galería completa (ZIP, 9 imágenes)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Capturas de pantalla](#gallery)
 
 ## El tiempo en tu solar
 

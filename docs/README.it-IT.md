@@ -14,7 +14,7 @@ Con questa espansione creata dagli appassionati per The Sims Legacy Collection, 
 
 *Un lotto invernale con tetti e piante innevati*
 
-[Immagini di gioco](#gallery) · [Galleria completa (ZIP, 9 immagini)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Immagini di gioco](#gallery)
 
 ## Il meteo sul tuo lotto
 

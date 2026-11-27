@@ -14,7 +14,7 @@
 
 *屋根や植物に雪が積もった冬の区画*
 
-[スクリーンショット](#gallery) · [ギャラリー全体（ZIP、画像9枚）](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[スクリーンショット](#gallery)
 
 ## 区画に起こる変化
 

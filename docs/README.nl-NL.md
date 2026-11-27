@@ -14,7 +14,7 @@ Met deze door fans gemaakte uitbreiding voor The Sims Legacy Collection krijgt e
 
 *Een winterkavel met besneeuwde daken en planten*
 
-[Schermafbeeldingen](#gallery) · [Volledige galerij (ZIP, 9 afbeeldingen)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Schermafbeeldingen](#gallery)
 
 ## Wat verandert er op je kavel?
 

@@ -14,7 +14,7 @@ Dette fanmod til The Sims Legacy Collection giver hver husstand et år med fire 
 
 *En vintergrund med snedækkede tage og planter*
 
-[Skærmbilleder](#gallery) · [Hele galleriet (ZIP, 9 billeder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Skærmbilleder](#gallery)
 
 ## Vejret på din grund
 

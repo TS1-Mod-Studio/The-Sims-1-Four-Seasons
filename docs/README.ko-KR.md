@@ -14,7 +14,7 @@
 
 *지붕과 식물이 눈으로 덮인 겨울 부지*
 
-[스크린샷](#gallery) · [전체 갤러리(ZIP, 이미지 9장)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[스크린샷](#gallery)
 
 ## 부지에서 달라지는 점
 
