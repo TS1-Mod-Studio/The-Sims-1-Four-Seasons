@@ -97,7 +97,7 @@ After an interrupted installation, use **Options → Roll back**. If restoration
 
 | Magical rain and puddles | English loading screen |
 | --- | --- |
-| ![Magical rain and puddles](media/magic-rain.png) | ![English loading screen](media/loading-screen-en.png) |
+| ![Magical rain and puddles](media/magic-rain.png) | ![Loading screen](media/media/loading-screen-pl.png) |
 
 **Tomorrow’s forecast**
 
