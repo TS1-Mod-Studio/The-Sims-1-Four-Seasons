@@ -14,7 +14,7 @@ Die Fan-Erweiterung Vier Jahreszeiten gibt jedem Haushalt in The Sims Legacy Col
 
 *Ein Wintergrundstück mit verschneiten Dächern und Pflanzen*
 
-[Bilder aus dem Spiel](#gallery) · [Vollständige Galerie (ZIP, 11 Bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Bilder aus dem Spiel](#gallery) · [Vollständige Galerie (ZIP, 9 Bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Das Wetter auf deinem Grundstück
 
@@ -82,10 +82,6 @@ Wurde die Installation unterbrochen, wähle **Optionen → Änderungen zurückse
 <a name="gallery"></a>
 
 ## Bilder aus dem Spiel
-
-| Herbstlaub | Wetterstation |
-| --- | --- |
-| ![Herbstlaub](../media/autumn-foliage.png) | ![Wetterstation](../media/weather-station.png) |
 
 **Wettereinstellungen · Regen**
 

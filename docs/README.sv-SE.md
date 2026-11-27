@@ -14,7 +14,7 @@ Den här fanskapade modden ger hushållen i The Sims Legacy Collection ett år m
 
 *En vintertomt med snötäckta tak och växter*
 
-[Skärmbilder](#gallery) · [Hela galleriet (ZIP, 11 bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Skärmbilder](#gallery) · [Hela galleriet (ZIP, 9 bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Väder på tomten
 
@@ -80,10 +80,6 @@ Om installationen avbröts väljer du **Alternativ → Ångra ändringar**. Om �
 <a name="gallery"></a>
 
 ## Skärmbilder
-
-| Höstfärger | Väderstation |
-| --- | --- |
-| ![Höstfärger](../media/autumn-foliage.png) | ![Väderstation](../media/weather-station.png) |
 
 **Väderinställningar · Regn**
 

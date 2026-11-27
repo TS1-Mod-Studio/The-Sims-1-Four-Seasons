@@ -14,7 +14,7 @@ Tämä fanien tekemä modi tuo The Sims Legacy Collectioniin neljä vuodenaikaa 
 
 *Talvitontti, jonka katot ja kasvit ovat lumen peitossa*
 
-[Kuvakaappaukset](#gallery) · [Koko galleria (ZIP, 11 kuvaa)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Kuvakaappaukset](#gallery) · [Koko galleria (ZIP, 9 kuvaa)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Sää tontillasi
 
@@ -80,10 +80,6 @@ Jos asennus keskeytyi, valitse **Asetukset → Kumoa muutokset**. Jos palautus i
 <a name="gallery"></a>
 
 ## Kuvakaappaukset
-
-| Syksyn värit | Sääasema |
-| --- | --- |
-| ![Syksyn värit](../media/autumn-foliage.png) | ![Sääasema](../media/weather-station.png) |
 
 **Sääasetukset · Sade**
 

@@ -14,7 +14,7 @@ Cztery Pory Roku to fanowski dodatek do The Sims Legacy Collection. Każda rodzi
 
 *Zimowa parcela z zaśnieżonymi dachami i roślinami*
 
-[Zrzuty ekranu](#gallery) · [Pełna galeria (ZIP, 11 obrazów)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Zrzuty ekranu](#gallery) · [Pełna galeria (ZIP, 9 obrazów)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Co zmienia się na parceli
 
@@ -82,10 +82,6 @@ Po przerwanej instalacji wybierz **Opcje → Cofnij zmiany**. Jeśli odzyskiwani
 <a name="gallery"></a>
 
 ## Zrzuty ekranu
-
-| Jesienne przebarwienia drzew | Stacja pogodowa |
-| --- | --- |
-| ![Jesienne przebarwienia drzew](../media/autumn-foliage.png) | ![Stacja pogodowa](../media/weather-station.png) |
 
 **Panel pogody · Deszcz**
 

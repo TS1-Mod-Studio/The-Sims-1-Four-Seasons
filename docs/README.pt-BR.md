@@ -14,7 +14,7 @@ Com esta expansão criada por fãs para The Sims Legacy Collection, cada famíli
 
 *Lote no inverno com telhados e plantas cobertos de neve*
 
-[Capturas de tela](#gallery) · [Galeria completa (ZIP, 11 imagens)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[Capturas de tela](#gallery) · [Galeria completa (ZIP, 9 imagens)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## O clima no seu lote
 
@@ -82,10 +82,6 @@ Se a instalação for interrompida, escolha **Opções → Reverter alterações
 <a name="gallery"></a>
 
 ## Capturas de tela
-
-| Cores de outono | Estação meteorológica |
-| --- | --- |
-| ![Cores de outono](../media/autumn-foliage.png) | ![Estação meteorológica](../media/weather-station.png) |
 
 **Configurações do clima · Chuva**
 

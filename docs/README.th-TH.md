@@ -14,7 +14,7 @@
 
 *พื้นที่ฤดูหนาวที่มีหิมะปกคลุมหลังคาและต้นไม้*
 
-[ภาพหน้าจอ](#gallery) · [แกลเลอรีทั้งหมด (ZIP, 11 ภาพ)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[ภาพหน้าจอ](#gallery) · [แกลเลอรีทั้งหมด (ZIP, 9 ภาพ)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## ฤดูกาลในพื้นที่ของคุณ
 
@@ -80,10 +80,6 @@
 <a name="gallery"></a>
 
 ## ภาพหน้าจอ
-
-| สีสันของใบไม้ในฤดูใบไม้ร่วง | สถานีตรวจอากาศ |
-| --- | --- |
-| ![สีสันของใบไม้ในฤดูใบไม้ร่วง](../media/autumn-foliage.png) | ![สถานีตรวจอากาศ](../media/weather-station.png) |
 
 **การตั้งค่าสภาพอากาศ · ฝน**
 

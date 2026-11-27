@@ -14,7 +14,7 @@
 
 *屋頂和植物覆蓋著積雪的冬日地段*
 
-[遊戲截圖](#gallery) · [完整圖集（ZIP，11 張圖片）](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+[遊戲截圖](#gallery) · [完整圖集（ZIP，9 張圖片）](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## 用地裡的四季
 
@@ -80,10 +80,6 @@
 <a name="gallery"></a>
 
 ## 遊戲截圖
-
-| 秋日樹葉 | 氣象站 |
-| --- | --- |
-| ![秋日樹葉](../media/autumn-foliage.png) | ![氣象站](../media/weather-station.png) |
 
 **天氣設定 · 降雨**
 
