@@ -2,13 +2,19 @@
 
 **Primeira beta pública · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![Baixar o mod](https://img.shields.io/badge/Baixar%20o%20mod-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![Guia de instalação](https://img.shields.io/badge/Guia%20de%20instala%C3%A7%C3%A3o-526378?style=for-the-badge)](#installation) [![Relatar um erro](https://img.shields.io/badge/Relatar%20um%20erro-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · **Português (Brasil)** · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 Com esta expansão criada por fãs para The Sims Legacy Collection, cada família ganha um calendário de estações e uma previsão do tempo local. Os Sims têm folga da escola e do trabalho nos fins de semana. A chuva rega o jardim, um Sim que passa muito tempo encharcado pode adoecer e, quando há neve suficiente, a família pode montar um boneco de neve. Com dois novos feitiços, os Sims que têm uma varinha podem trazer chuva ou névoa mágica para o lote.
 
-![Jardim coberto de neve](../media/winter.png)
+![Lote no inverno com telhados e plantas cobertos de neve](../media/winter.png)
 
-[Capturas de tela](#gallery) · [Galeria completa (ZIP, 8 imagens)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*Lote no inverno com telhados e plantas cobertos de neve*
+
+[Capturas de tela](#gallery) · [Galeria completa (ZIP, 11 imagens)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## O clima no seu lote
 
@@ -41,11 +47,13 @@ Um Sim adulto com uma varinha pode preparar as duas receitas no carregador de va
 - O painel permite controlar separadamente o efeito de se molhar, as reações à chuva, as doenças, as roupas de inverno, a procura de abrigo contra granizo, as poças de chuva, as poças deixadas ao secar, as brincadeiras nas poças, os bonecos de neve, a chuva apagando incêndios e a neblina depois da chuva. Você também pode ajustar os efeitos, o som e o desempenho das animações. O clima acompanha a pausa, a velocidade do jogo, o zoom e a câmera.
 - O mod inclui telas de carregamento traduzidas e um tema musical original para o carregamento, *Pocztówka z doliny*.
 
+<a name="installation"></a>
+
 ## Download e instalação
 
 Você precisa ter o The Sims Legacy Collection completo, versão **1.10.0** ou **1.10.7**, instalado no Windows de 64 bits, além do [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0). Reserve alguns GB de espaço livre e espaço extra para uma cópia das suas partidas salvas.
 
-1. Na página do projeto no GitHub, abra [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1), escolha a versão **1.0.0-beta.1** e baixe `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` na seção **Assets**.
+1. Na página do projeto no GitHub, abra [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1), escolha a versão **1.0.0-beta.1** e baixe `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` na seção **Assets**.
 2. Salve a partida e feche o jogo e o aplicativo de clima. Extraia todo o ZIP para uma nova pasta. Deixe a pasta `data` ao lado de `Setup.exe`.
 3. Execute `Setup.exe` e selecione a pasta do jogo que contém `sims.exe`. Clique em **Verificar compatibilidade** e depois em **Instalar**. O instalador verifica os arquivos, cria cópias de segurança e aplica as alterações aos arquivos do seu jogo. Um conflito em um arquivo obrigatório interrompe a instalação.
 4. Aguarde a confirmação. Para jogar, use o atalho **The Sims Cztery Pory Roku** na área de trabalho ou `Launch-weather.cmd` na pasta do aplicativo instalado. Assim, o jogo é iniciado junto com o clima e o componente que recupera o clima das partidas salvas.
@@ -75,6 +83,14 @@ Se a instalação for interrompida, escolha **Opções → Reverter alterações
 
 ## Capturas de tela
 
+| Cores de outono | Estação meteorológica |
+| --- | --- |
+| ![Cores de outono](../media/autumn-foliage.png) | ![Estação meteorológica](../media/weather-station.png) |
+
+**Configurações do clima · Chuva**
+
+![Configurações do clima · Chuva](../media/weather-controls.png)
+
 | Chuva de outono | Neblina sobre o lote |
 | --- | --- |
 | ![Chuva de outono](../media/autumn.png) | ![Neblina sobre o lote](../media/fog.png) |
@@ -98,3 +114,8 @@ Se a instalação for interrompida, escolha **Opções → Reverter alterações
 Os testes de instalação abrangem as duas versões compatíveis do jogo. Relatos de partidas longas nos 17 idiomas e de testes em outros PCs, inclusive em máquinas mais modestas, são bem-vindos. Se os efeitos de clima estiverem lentos com a sobreposição da NVIDIA ativada, teste o jogo com ela desativada.
 
 Use a seção [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues) no GitHub para relatar um problema. Informe as versões do jogo e do mod, o idioma e os passos para reproduzir o erro. Em caso de falha visual, inclua uma captura de tela e indique o clima, o zoom, o ângulo da câmera, o andar e a visualização das paredes. Para falhas de instalação, inclua a mensagem completa. Confira se os logs contêm caminhos de arquivos pessoais antes de compartilhá-los.
+
+<!-- fan-project -->
+---
+
+Esta é uma modificação não oficial feita por fãs. Ela não é afiliada, aprovada nem patrocinada pela Electronic Arts ou pela Maxis. The Sims é uma marca comercial da Electronic Arts.

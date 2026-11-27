@@ -2,13 +2,19 @@
 
 **Pierwsza publiczna beta · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![Pobierz mod](https://img.shields.io/badge/Pobierz%20mod-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![Instrukcja instalacji](https://img.shields.io/badge/Instrukcja%20instalacji-526378?style=for-the-badge)](#installation) [![Zgłoś błąd](https://img.shields.io/badge/Zg%C5%82o%C5%9B%20b%C5%82%C4%85d-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · **Polski** · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 Cztery Pory Roku to fanowski dodatek do The Sims Legacy Collection. Każda rodzina ma własny kalendarz pór roku i lokalną prognozę pogody, a w weekendy Simowie mają wolne od szkoły i pracy. Deszcz podlewa ogród, przemoczony Sim może się przeziębić, a kiedy zimą uzbiera się dość śniegu, domownicy mogą ulepić bałwana. Simowie z różdżką dostają dwa nowe zaklęcia, którymi przywołają magiczną mgłę lub deszcz.
 
-![Ogród pod śniegiem](../media/winter.png)
+![Zimowa parcela z zaśnieżonymi dachami i roślinami](../media/winter.png)
 
-[Zrzuty ekranu](#gallery) · [Pełna galeria (ZIP, 8 obrazów)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*Zimowa parcela z zaśnieżonymi dachami i roślinami*
+
+[Zrzuty ekranu](#gallery) · [Pełna galeria (ZIP, 11 obrazów)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Co zmienia się na parceli
 
@@ -41,11 +47,13 @@ Dorosły Sim z różdżką może przygotować oba zaklęcia w ładowarce. Dodaj 
 - W panelu pogody możesz osobno włączać i wyłączać przemoczenie, reakcje na deszcz, choroby, zimowe ubrania, szukanie schronienia przed gradem, kałuże po opadach i podczas schnięcia, chlapanie, lepienie bałwana, gaszenie pożarów oraz mgłę po deszczu. Możesz też dopasować wygląd efektów, dźwięki i płynność animacji. Pogoda reaguje na pauzę, tempo gry, zbliżenie i ruch kamery.
 - Mod ma przetłumaczone ekrany ładowania i własny motyw muzyczny *Pocztówka z doliny*.
 
+<a name="installation"></a>
+
 ## Pobieranie i instalacja
 
 Potrzebujesz pełnej gry The Sims Legacy Collection w wersji **1.10.0** lub **1.10.7**, zainstalowanej w 64-bitowym systemie Windows, oraz środowiska [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0). Przygotuj kilka GB wolnego miejsca i uwzględnij rozmiar kopii swoich zapisów.
 
-1. Na stronie projektu w GitHubie otwórz [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1), wybierz wydanie **1.0.0-beta.1** i pobierz `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` z sekcji **Assets**.
+1. Na stronie projektu w GitHubie otwórz [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1), wybierz wydanie **1.0.0-beta.1** i pobierz `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` z sekcji **Assets**.
 2. Zapisz rozgrywkę, a następnie zamknij grę i program pogody. Rozpakuj cały ZIP do nowego folderu. Folder `data` powinien leżeć obok `Setup.exe`.
 3. Uruchom `Setup.exe` i wskaż folder gry zawierający `sims.exe`. Wybierz **Sprawdź zgodność**, a po sprawdzeniu plików **Zainstaluj**. Instalator weryfikuje pliki, tworzy kopie i nanosi poprawki na zasoby Twojej gry. Konflikt wymaganego pliku zatrzyma instalację.
 4. Poczekaj na zakończenie. Odtąd uruchamiaj grę przez skrót **The Sims Cztery Pory Roku** na pulpicie lub `Uruchom pogode.cmd` w folderze zainstalowanego programu. Razem z grą wystartują pogoda i moduł odtwarzający ją po wczytaniu zapisu.
@@ -75,6 +83,14 @@ Po przerwanej instalacji wybierz **Opcje → Cofnij zmiany**. Jeśli odzyskiwani
 
 ## Zrzuty ekranu
 
+| Jesienne przebarwienia drzew | Stacja pogodowa |
+| --- | --- |
+| ![Jesienne przebarwienia drzew](../media/autumn-foliage.png) | ![Stacja pogodowa](../media/weather-station.png) |
+
+**Panel pogody · Deszcz**
+
+![Panel pogody · Deszcz](../media/weather-controls.png)
+
 | Jesienny deszcz | Mgła nad parcelą |
 | --- | --- |
 | ![Jesienny deszcz](../media/autumn.png) | ![Mgła nad parcelą](../media/fog.png) |
@@ -98,3 +114,8 @@ Po przerwanej instalacji wybierz **Opcje → Cofnij zmiany**. Jeśli odzyskiwani
 Testy instalatora obejmują obie obsługiwane wersje gry. Nadal przydadzą się testy na innych komputerach, na słabszym sprzęcie i podczas dłuższej gry w każdym z 17 języków. Jeśli animacja pogody zwalnia przy aktywnej nakładce NVIDIA, sprawdź działanie po jej wyłączeniu.
 
 Zgłoś problem w zakładce [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues) na GitHubie. Podaj wersje gry i moda, język oraz kroki potrzebne do powtórzenia błędu. W przypadku usterki grafiki dołącz zrzut ekranu i opisz pogodę, zbliżenie, obrót kamery, piętro oraz widok ścian. Przy błędzie instalacji podaj pełny komunikat. Przed udostępnieniem dzienników sprawdź, czy zawierają prywatne ścieżki plików.
+
+<!-- fan-project -->
+---
+
+To nieoficjalna modyfikacja stworzona przez fanów. Electronic Arts i Maxis nie są z nią powiązane, nie zatwierdziły jej ani jej nie sponsorują. The Sims jest znakiem towarowym Electronic Arts.

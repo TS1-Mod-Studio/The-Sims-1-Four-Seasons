@@ -2,13 +2,19 @@
 
 **Erste öffentliche Beta · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![Mod herunterladen](https://img.shields.io/badge/Mod%20herunterladen-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![Installationsanleitung](https://img.shields.io/badge/Installationsanleitung-526378?style=for-the-badge)](#installation) [![Fehler melden](https://img.shields.io/badge/Fehler%20melden-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · **Deutsch** · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 Die Fan-Erweiterung Vier Jahreszeiten gibt jedem Haushalt in The Sims Legacy Collection einen eigenen Jahreszeitenkalender und eine örtliche Wettervorhersage. Am Wochenende haben die Sims frei von Schule und Arbeit. Regen bewässert den Garten, durchnässte Sims können sich erkälten und bei genügend Schnee kann die Familie einen Schneemann bauen. Mit zwei neuen Zaubersprüchen können Sims magisches Wetter auf ihr Grundstück holen.
 
-![Ein verschneiter Garten](../media/winter.png)
+![Ein Wintergrundstück mit verschneiten Dächern und Pflanzen](../media/winter.png)
 
-[Bilder aus dem Spiel](#gallery) · [Vollständige Galerie (ZIP, 8 Bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*Ein Wintergrundstück mit verschneiten Dächern und Pflanzen*
+
+[Bilder aus dem Spiel](#gallery) · [Vollständige Galerie (ZIP, 11 Bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Das Wetter auf deinem Grundstück
 
@@ -41,11 +47,13 @@ Ein erwachsener Sim mit Zauberstab kann beide Rezepte am Zauberstabladegerät zu
 - Im Wetterfenster lassen sich Durchnässung, Regenreaktionen, Krankheit, Winterkleidung, Schutzsuche bei Hagel, Regenpfützen, Pfützen beim Trocknen, Planschen, Schneemänner, das Löschen von Bränden durch Regen und Nebel nach Regen einzeln ein- oder ausschalten. Du kannst auch Effekte, Ton und Animationsleistung einstellen. Das Wetter folgt Spielpause, Spielgeschwindigkeit, Zoom und Kamera.
 - Der Mod enthält lokalisierte Ladebildschirme und das eigens komponierte Ladebildschirmstück *Pocztówka z doliny*.
 
+<a name="installation"></a>
+
 ## Download und Installation
 
 Du brauchst eine installierte Vollversion von The Sims Legacy Collection in Version **1.10.0** oder **1.10.7**, Windows mit 64 Bit und die [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0). Plane mehrere GB freien Speicherplatz sowie Platz für eine Kopie deiner Spielstände ein.
 
-1. Öffne auf der GitHub-Projektseite [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1), wähle **1.0.0-beta.1** und lade unter **Assets** das Archiv `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` herunter.
+1. Öffne auf der GitHub-Projektseite [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1), wähle **1.0.0-beta.1** und lade unter **Assets** das Archiv `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` herunter.
 2. Speichere dein Spiel und schließe das Spiel und das Wetterprogramm. Entpacke das gesamte ZIP-Archiv in einen neuen Ordner. `data` und `Setup.exe` müssen im selben Ordner liegen.
 3. Starte `Setup.exe` und wähle den Spielordner mit `sims.exe` aus. Klicke zuerst auf **Kompatibilität prüfen** und anschließend auf **Installieren**. Das Programm prüft und sichert die Dateien und wendet die Patches auf deine Spieldaten an. Bei einem Konflikt mit einer erforderlichen Datei bricht es die Installation ab.
 4. Warte, bis die Installation abgeschlossen ist. Starte das Spiel künftig über die Desktopverknüpfung **The Sims Cztery Pory Roku** oder über `Launch-weather.cmd` im Installationsordner des Wetterprogramms. So starten Spiel, Wetter und Spielstandverarbeitung gemeinsam.
@@ -75,6 +83,14 @@ Wurde die Installation unterbrochen, wähle **Optionen → Änderungen zurückse
 
 ## Bilder aus dem Spiel
 
+| Herbstlaub | Wetterstation |
+| --- | --- |
+| ![Herbstlaub](../media/autumn-foliage.png) | ![Wetterstation](../media/weather-station.png) |
+
+**Wettereinstellungen · Regen**
+
+![Wettereinstellungen · Regen](../media/weather-controls.png)
+
 | Herbstregen | Nebel über dem Grundstück |
 | --- | --- |
 | ![Herbstregen](../media/autumn.png) | ![Nebel über dem Grundstück](../media/fog.png) |
@@ -98,3 +114,8 @@ Wurde die Installation unterbrochen, wähle **Optionen → Änderungen zurückse
 Die Installationstests decken beide unterstützten Spielversionen ab. Rückmeldungen zu anderen PCs, schwächerer Hardware und längeren Spielsitzungen in allen 17 Sprachen sind willkommen. Ruckelt die Wetterdarstellung bei aktivem NVIDIA-Overlay, teste sie auch mit ausgeschaltetem Overlay.
 
 Melde Fehler unter [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues) auf GitHub. Gib Spiel- und Mod-Version, Sprache und die Schritte zum Nachstellen an. Bei Grafikfehlern helfen ein Screenshot sowie Angaben zu Wetter, Zoom, Kamerawinkel, Stockwerk und Wandansicht. Bei Installationsfehlern füge die vollständige Fehlermeldung bei. Prüfe Protokolle vor dem Hochladen auf persönliche Dateipfade.
+
+<!-- fan-project -->
+---
+
+Dies ist eine inoffizielle, von Fans erstellte Modifikation. Sie steht in keiner Verbindung zu Electronic Arts oder Maxis und wird von diesen weder unterstützt noch gesponsert. The Sims ist eine Marke von Electronic Arts.

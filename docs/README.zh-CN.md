@@ -2,13 +2,19 @@
 
 **首个公开测试版 · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![下载模组](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%E6%A8%A1%E7%BB%84-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![安装指南](https://img.shields.io/badge/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97-526378?style=for-the-badge)](#installation) [![报告问题](https://img.shields.io/badge/%E6%8A%A5%E5%91%8A%E9%97%AE%E9%A2%98-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · **简体中文** · [繁體中文](README.zh-TW.md)
 
 这款玩家制作的模组为 The Sims Legacy Collection 加入春夏秋冬和按周运行的家庭日历。到了周末，孩子不用上学，上班的模拟市民也能休息。秋天树叶变色，冬天花园积雪。模拟市民可以看电视了解明天的天气，在水坑里玩耍，堆雪人，还能学习两种改变天气的咒语。
 
-![积雪的花园](../media/winter.png)
+![屋顶和植物覆盖着积雪的冬日地段](../media/winter.png)
 
-[游戏截图](#gallery) · [完整图集（ZIP，8 张图片）](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*屋顶和植物覆盖着积雪的冬日地段*
+
+[游戏截图](#gallery) · [完整图集（ZIP，11 张图片）](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## 地段里的四季
 
@@ -41,11 +47,13 @@
 - 在天气面板里，你可以分别开关淋湿、对雨的反应、生病、冬装、躲避冰雹、雨后水坑、身体变干时留下水坑、踩水、堆雪人、降雨灭火和雨后起雾。视觉效果、音量和动画性能也可调整。天气效果会跟随游戏的暂停、速度、镜头移动和缩放。
 - 模组提供各语言的加载画面，以及专为加载画面创作的主题曲《Pocztówka z doliny》。
 
+<a name="installation"></a>
+
 ## 下载与安装
 
 需要在 64 位 Windows 上安装完整版 The Sims Legacy Collection（游戏版本 **1.10.0** 或 **1.10.7**）和 [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0)。请预留几 GB 的磁盘空间，另留足够空间备份游戏存档。
 
-1. 在 GitHub 的 [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) 页面打开 **1.0.0-beta.1**，从 **Assets** 区域下载 `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip`。
+1. 在 GitHub 的 [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) 页面打开 **1.0.0-beta.1**，从 **Assets** 区域下载 `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip`。
 2. 先保存游戏，再退出游戏和天气程序。把整个 ZIP 解压到新文件夹，让 `data` 文件夹和 `Setup.exe` 位于同一目录。
 3. 运行 `Setup.exe`，选择包含 `sims.exe` 的游戏文件夹。先点击 **检查兼容性** 检查文件，再点击 **安装**。安装程序会校验并备份文件，然后给电脑上已有的游戏资源打补丁。如果某个必需文件与预期不符，安装会停止。
 4. 等待安装完成提示。以后请通过桌面上的 **The Sims Cztery Pory Roku** 快捷方式，或天气程序安装目录中的 `Launch-weather.cmd` 启动游戏。天气服务和读档时恢复天气的功能会一起启动。
@@ -73,6 +81,14 @@
 
 ## 游戏截图
 
+| 秋日树叶 | 气象站 |
+| --- | --- |
+| ![秋日树叶](../media/autumn-foliage.png) | ![气象站](../media/weather-station.png) |
+
+**天气设置 · 降雨**
+
+![天气设置 · 降雨](../media/weather-controls.png)
+
 | 秋雨 | 笼罩用地的雾 |
 | --- | --- |
 | ![秋雨](../media/autumn.png) | ![笼罩用地的雾](../media/fog.png) |
@@ -96,3 +112,8 @@
 安装程序已针对上述两个游戏版本进行检查。其他电脑、较低配置硬件和全部 17 种语言的完整游戏流程仍在测试中。若开启 NVIDIA 游戏内覆盖后天气显示卡顿，可以关闭该覆盖功能再试一次。
 
 请在 GitHub 的 [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues) 提交游戏版本、模组版本、语言及复现步骤。遇到画面问题时，请附上截图，并注明当时的天气、缩放级别、镜头方向、楼层和墙壁显示模式。安装问题请提供完整的报错信息。公开日志前请检查其中是否包含带有个人信息的文件路径。
+
+<!-- fan-project -->
+---
+
+这是玩家制作的非官方模组，与 Electronic Arts 或 Maxis 无关联，也未获得两家公司的认可或赞助。The Sims 是 Electronic Arts 的商标。

@@ -2,13 +2,19 @@
 
 **Første offentlige betaversion · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![Hent moddet](https://img.shields.io/badge/Hent%20moddet-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![Installationsvejledning](https://img.shields.io/badge/Installationsvejledning-526378?style=for-the-badge)](#installation) [![Rapportér en fejl](https://img.shields.io/badge/Rapport%C3%A9r%20en%20fejl-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · **Dansk** · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 Dette fanmod til The Sims Legacy Collection giver hver husstand et år med fire årstider og en uge med fri fra skole og arbejde i weekenden. Om efteråret skifter træerne farve, og om vinteren dækker sneen haven. Dine simmere kan se morgendagens vejrudsigt på tv, hoppe i vandpytter, bygge snemænd og lære to besværgelser, der ændrer vejret.
 
-![En snedækket have](../media/winter.png)
+![En vintergrund med snedækkede tage og planter](../media/winter.png)
 
-[Skærmbilleder](#gallery) · [Hele galleriet (ZIP, 8 billeder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*En vintergrund med snedækkede tage og planter*
+
+[Skærmbilleder](#gallery) · [Hele galleriet (ZIP, 11 billeder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Vejret på din grund
 
@@ -41,11 +47,13 @@ En voksen simmer med en tryllestav kan tilberede begge opskrifter i stavopladere
 - I vejrpanelet kan du slå de enkelte virkninger til og fra. Det gælder, om simmerne bliver våde, deres reaktioner på regn, sygdom, vintertøj, at søge ly for hagl, vandpytter efter regn eller tørring, leg i vandpytter, snemænd, regn der slukker brande og tåge efter regn. Du kan også justere de visuelle effekter, lyden og animationens ydeevne. Vejret følger pauser, spilhastighed, zoom og kamera.
 - Moddet indeholder oversatte indlæsningsskærme og en original melodi til indlæsningen, *Pocztówka z doliny*.
 
+<a name="installation"></a>
+
 ## Download og installation
 
 Du skal have den fulde udgave af The Sims Legacy Collection **1.10.0** eller **1.10.7** installeret på 64-bit Windows samt [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0). Sørg for flere GB ledig plads og ekstra plads til en kopi af dine gemte spil.
 
-1. Åbn [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) på projektets GitHub-side, vælg **1.0.0-beta.1**, og hent `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` under **Assets**.
+1. Åbn [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) på projektets GitHub-side, vælg **1.0.0-beta.1**, og hent `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` under **Assets**.
 2. Gem dit spil, og luk både spillet og vejrprogrammet. Pak hele ZIP-filen ud i en ny mappe. Lad mappen `data` ligge ved siden af `Setup.exe`.
 3. Kør `Setup.exe`, og vælg den spilmappe, der indeholder `sims.exe`. Vælg **Kontrollér kompatibilitet** og derefter **Installer**. Installationsprogrammet kontrollerer og sikkerhedskopierer filerne, før det ændrer dine egne spilfiler. En konflikt i en nødvendig fil standser installationen.
 4. Vent, til installationen er gennemført. Start fremover spillet via genvejen **The Sims Cztery Pory Roku** på skrivebordet eller via `Launch-weather.cmd` i den installerede programmappe. Så starter spillet sammen med vejret og det modul, der gendanner vejret i gemte spil.
@@ -73,6 +81,14 @@ Hvis installationen blev afbrudt, skal du vælge **Indstillinger → Fortryd æn
 
 ## Skærmbilleder
 
+| Efterårets løv | Vejrstation |
+| --- | --- |
+| ![Efterårets løv](../media/autumn-foliage.png) | ![Vejrstation](../media/weather-station.png) |
+
+**Vejrindstillinger · Regn**
+
+![Vejrindstillinger · Regn](../media/weather-controls.png)
+
 | Efterårsregn | Tåge over grunden |
 | --- | --- |
 | ![Efterårsregn](../media/autumn.png) | ![Tåge over grunden](../media/fog.png) |
@@ -96,3 +112,8 @@ Hvis installationen blev afbrudt, skal du vælge **Indstillinger → Fortryd æn
 Installationen er testet med begge understøttede spilversioner. Vi modtager gerne erfaringer fra andre pc’er, mindre kraftige computere og længere spilforløb på de 17 sprog. Hvis vejreffekterne hakker med NVIDIA-overlayet slået til, så prøv at slå det fra.
 
 Meld fejl under [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues) på GitHub. Angiv spilversion, modversion, sprog og de trin, der udløser fejlen. Ved grafikfejl kan du vedlægge et skærmbillede og beskrive vejr, zoom, kameravinkel, etage og vægvisning. Ved installationsfejl skal du medtage hele fejlmeddelelsen. Gennemgå logfiler for personlige filstier, før du deler dem.
+
+<!-- fan-project -->
+---
+
+Dette er en uofficiel, fanskabt modifikation. Den er hverken tilknyttet, godkendt eller sponsoreret af Electronic Arts eller Maxis. The Sims er et varemærke tilhørende Electronic Arts.

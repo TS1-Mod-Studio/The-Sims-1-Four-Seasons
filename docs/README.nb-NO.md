@@ -2,13 +2,19 @@
 
 **Første offentlige betaversjon · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![Last ned modden](https://img.shields.io/badge/Last%20ned%20modden-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![Installasjonsveiledning](https://img.shields.io/badge/Installasjonsveiledning-526378?style=for-the-badge)](#installation) [![Meld fra om en feil](https://img.shields.io/badge/Meld%20fra%20om%20en%20feil-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · **Norsk bokmål** · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 Denne fanlagde modden gir hver husstand i The Sims Legacy Collection et år med fire årstider og en uke med fri fra skole og jobb i helgene. Om høsten skifter trærne farge, og om vinteren legger snøen seg i hagen. Simmene kan se morgendagens værmelding på TV, plaske i sølepytter, bygge snømenn og lære to trylleformler som forandrer været.
 
-![En snødekt hage](../media/winter.png)
+![En vintertomt med snødekte tak og planter](../media/winter.png)
 
-[Skjermbilder](#gallery) · [Hele galleriet (ZIP, 8 bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*En vintertomt med snødekte tak og planter*
+
+[Skjermbilder](#gallery) · [Hele galleriet (ZIP, 11 bilder)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Været på tomten
 
@@ -41,11 +47,13 @@ En voksen sim med tryllestav kan tilberede begge oppskriftene i tryllestavladere
 - I værpanelet kan du styre virkningene enkeltvis. Du kan blant annet velge om simmene blir våte, reagerer på regn, blir syke, tar på vinterklær eller søker ly for hagl. Det finnes egne brytere for sølepytter etter regn, dammer som blir igjen når noen tørker, plasking, snømenn, regn som slukker branner og tåke etter regn. Du kan også justere effekter, lyd og animasjonsytelse. Været følger spillets pauser, hastighet, zoom og kamera.
 - Modden inneholder oversatte innlastingsskjermer og en original melodi til innlastingen, *Pocztówka z doliny*.
 
+<a name="installation"></a>
+
 ## Nedlasting og installasjon
 
 Du trenger fullversjonen av The Sims Legacy Collection **1.10.0** eller **1.10.7** installert på 64-biters Windows, samt [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0). Sett av flere GB ledig plass i tillegg til plass til en kopi av de lagrede spillene dine.
 
-1. Åpne [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) på prosjektets GitHub-side, velg **1.0.0-beta.1** og last ned `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` under **Assets**.
+1. Åpne [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) på prosjektets GitHub-side, velg **1.0.0-beta.1** og last ned `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` under **Assets**.
 2. Lagre spillet og lukk både spillet og værprogrammet. Pakk ut hele ZIP-filen i en ny mappe. La mappen `data` ligge ved siden av `Setup.exe`.
 3. Kjør `Setup.exe` og velg spillmappen som inneholder `sims.exe`. Velg **Sjekk kompatibilitet** og deretter **Installer**. Installasjonsprogrammet kontrollerer og sikkerhetskopierer filene før det gjør endringer i dine egne spillfiler. En konflikt i en nødvendig fil stopper installasjonen.
 4. Vent til installasjonen er ferdig. Start deretter spillet med skrivebordssnarveien **The Sims Cztery Pory Roku** eller med `Launch-weather.cmd` i mappen til det installerte programmet. Da starter spillet sammen med været og modulen som henter tilbake været fra lagrede spill.
@@ -73,6 +81,14 @@ Hvis installasjonen ble avbrutt, velger du **Alternativer → Tilbakestill endri
 
 ## Skjermbilder
 
+| Høstfarger | Værstasjon |
+| --- | --- |
+| ![Høstfarger](../media/autumn-foliage.png) | ![Værstasjon](../media/weather-station.png) |
+
+**Værinnstillinger · Regn**
+
+![Værinnstillinger · Regn](../media/weather-controls.png)
+
 | Høstregn | Tåke over tomten |
 | --- | --- |
 | ![Høstregn](../media/autumn.png) | ![Tåke over tomten](../media/fog.png) |
@@ -96,3 +112,8 @@ Hvis installasjonen ble avbrutt, velger du **Alternativer → Tilbakestill endri
 Installasjonen er testet på begge spillversjonene som støttes. Vi tar gjerne imot erfaringer fra andre PC-er, svakere maskinvare og lengre spilløkter på alle de 17 språkene. Hvis væreffektene hakker med NVIDIA-overlegget aktivert, kan du prøve å slå det av.
 
 Meld feil under [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues) på GitHub. Oppgi spillversjon, modversjon, språk og fremgangsmåten som utløser feilen. Ved grafikkfeil hjelper det med et skjermbilde og opplysninger om vær, zoom, kameravinkel, etasje og veggvisning. Ved installasjonsfeil legger du ved hele feilmeldingen. Se etter personlige filbaner i loggene før du deler dem.
+
+<!-- fan-project -->
+---
+
+Dette er en uoffisiell modifikasjon laget av fans. Den er ikke tilknyttet, godkjent eller sponset av Electronic Arts eller Maxis. The Sims er et varemerke som tilhører Electronic Arts.

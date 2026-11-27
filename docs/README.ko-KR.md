@@ -2,13 +2,19 @@
 
 **첫 공개 베타 · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![모드 다운로드](https://img.shields.io/badge/%EB%AA%A8%EB%93%9C%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![설치 안내](https://img.shields.io/badge/%EC%84%A4%EC%B9%98%20%EC%95%88%EB%82%B4-526378?style=for-the-badge)](#installation) [![버그 신고](https://img.shields.io/badge/%EB%B2%84%EA%B7%B8%20%EC%8B%A0%EA%B3%A0-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · **한국어** · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 이 팬 모드는 The Sims Legacy Collection에 봄, 여름, 가을, 겨울과 주간 달력을 추가합니다. 주말이면 아이들은 학교를 쉬고 일하는 심은 출근을 쉽니다. 가을에는 나무에 단풍이 들고 겨울에는 정원에 눈이 쌓입니다. 심은 TV로 내일 날씨를 확인하고, 물웅덩이에서 놀거나 눈사람을 만들 수 있습니다. 날씨를 바꾸는 주문 두 가지도 배울 수 있습니다.
 
-![눈 덮인 정원](../media/winter.png)
+![지붕과 식물이 눈으로 덮인 겨울 부지](../media/winter.png)
 
-[스크린샷](#gallery) · [전체 갤러리(ZIP, 이미지 8장)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*지붕과 식물이 눈으로 덮인 겨울 부지*
+
+[스크린샷](#gallery) · [전체 갤러리(ZIP, 이미지 11장)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## 부지에서 달라지는 점
 
@@ -41,11 +47,13 @@
 - 날씨 패널에서 비에 젖기, 비에 반응하기, 질병, 겨울옷, 우박 피하기, 빗물 웅덩이, 몸이 마르면서 생기는 물웅덩이, 물장구, 눈사람 만들기, 빗물로 불 끄기, 비 온 뒤 안개를 개별 설정할 수 있습니다. 시각 효과와 음량, 애니메이션 성능도 조절할 수 있습니다. 날씨 효과는 일시 정지, 게임 속도, 카메라 이동과 확대·축소에 맞춰 움직입니다.
 - 각 언어의 로딩 화면과 이 모드를 위해 만든 로딩 테마곡 *Pocztówka z doliny*가 들어 있습니다.
 
+<a name="installation"></a>
+
 ## 다운로드 및 설치
 
 64비트 Windows에 The Sims Legacy Collection 정식 게임 **1.10.0** 또는 **1.10.7** 버전과 [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0)을 설치해야 합니다. 몇 GB의 디스크 여유 공간과 저장 데이터를 백업할 공간이 필요합니다.
 
-1. GitHub에서 [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1)의 **1.0.0-beta.1**을 열고 **Assets** 항목에서 `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` 파일을 받습니다.
+1. GitHub에서 [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1)의 **1.0.0-beta.1**을 열고 **Assets** 항목에서 `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` 파일을 받습니다.
 2. 게임을 저장한 뒤 게임과 날씨 앱을 모두 종료합니다. 새 폴더에 ZIP 전체를 풀어 `data` 폴더와 `Setup.exe` 파일을 같은 위치에 둡니다.
 3. `Setup.exe` 파일을 실행하고 `sims.exe` 파일이 있는 게임 폴더를 선택합니다. **호환성 확인** 버튼으로 파일을 확인한 뒤 **설치** 버튼을 누릅니다. 설치 프로그램은 기존 파일을 확인하고 백업한 후 설치된 게임 파일에 패치를 적용합니다. 필수 파일이 예상과 다르면 설치가 중단됩니다.
 4. 완료 메시지가 뜰 때까지 기다립니다. 이후에는 바탕 화면의 **The Sims Cztery Pory Roku** 바로 가기나 앱 설치 폴더의 `Launch-weather.cmd` 파일로 실행하세요. 게임과 함께 날씨 기능 및 저장된 날씨를 복원하는 기능이 시작됩니다.
@@ -73,6 +81,14 @@
 
 ## 스크린샷
 
+| 가을 단풍 | 기상 관측소 |
+| --- | --- |
+| ![가을 단풍](../media/autumn-foliage.png) | ![기상 관측소](../media/weather-station.png) |
+
+**날씨 설정 · 비**
+
+![날씨 설정 · 비](../media/weather-controls.png)
+
 | 가을비 | 부지를 뒤덮은 안개 |
 | --- | --- |
 | ![가을비](../media/autumn.png) | ![부지를 뒤덮은 안개](../media/fog.png) |
@@ -96,3 +112,8 @@
 위 두 게임 버전에 대해 설치 프로그램을 검사했습니다. 다른 PC와 저사양 PC에서의 테스트, 17개 언어 각각으로 진행하는 전체 플레이 테스트는 계속 진행 중입니다. NVIDIA 오버레이를 사용할 때 날씨 효과가 느려지면 오버레이를 끈 상태로 실행해 보세요.
 
 GitHub의 [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues)에 게임 및 모드 버전, 언어, 문제를 재현하는 방법을 알려 주세요. 화면 표시 문제라면 스크린샷과 함께 날씨, 확대 수준, 카메라 방향, 층, 벽 표시 모드도 적어 주세요. 설치 오류라면 오류 메시지 전문을 첨부해 주세요. 로그를 공개하기 전에 개인 정보가 담긴 파일 경로가 있는지 확인해 주세요.
+
+<!-- fan-project -->
+---
+
+이 모드는 팬이 만든 비공식 모드입니다. Electronic Arts 또는 Maxis와 제휴하지 않았으며, 이들 회사의 승인이나 후원을 받지 않았습니다. The Sims는 Electronic Arts의 상표입니다.

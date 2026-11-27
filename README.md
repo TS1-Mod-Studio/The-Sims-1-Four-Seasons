@@ -2,13 +2,19 @@
 
 **First public beta · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![Download mod](https://img.shields.io/badge/Download%20mod-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![Installation guide](https://img.shields.io/badge/Installation%20guide-526378?style=for-the-badge)](#installation) [![Report a bug](https://img.shields.io/badge/Report%20a%20bug-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 **English** · [Polski](docs/README.pl-PL.md) · [Dansk](docs/README.da-DK.md) · [Deutsch](docs/README.de-DE.md) · [Español](docs/README.es-ES.md) · [Suomi](docs/README.fi-FI.md) · [Français](docs/README.fr-FR.md) · [Italiano](docs/README.it-IT.md) · [日本語](docs/README.ja-JP.md) · [한국어](docs/README.ko-KR.md) · [Norsk bokmål](docs/README.nb-NO.md) · [Nederlands](docs/README.nl-NL.md) · [Português (Brasil)](docs/README.pt-BR.md) · [Svenska](docs/README.sv-SE.md) · [ไทย](docs/README.th-TH.md) · [简体中文](docs/README.zh-CN.md) · [繁體中文](docs/README.zh-TW.md)
 
 Four Seasons is a fan-made expansion for The Sims Legacy Collection. Each household has its own seasonal calendar and local weather forecast, with weekends off from school and work. Rain waters the garden, a Sim who stays soaked can fall ill, and deep winter snow gives the family a chance to build a snowman. Two new spells let Sims with wands summon magical mist or rain on their lot.
 
-![A snow-covered garden](media/winter.png)
+![A snowy lot with white roofs and plants](media/winter.png)
 
-[Screenshots](#gallery) · [Full gallery (ZIP, 8 images)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*A snowy lot with white roofs and plants*
+
+[Screenshots](#gallery) · [Full gallery (ZIP, 11 images)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## What changes on your lot
 
@@ -41,11 +47,13 @@ An adult Sim with a wand can prepare either recipe in the wand charger. Use one 
 - The weather panel has individual switches for wetness, rain reactions, illness, winter clothes, shelter from hail, rain puddles, drying puddles, splashing, snowmen, firefighting by rain and fog after rain. You can also tune effects, sound and animation performance. Weather follows the game’s pause, speed, zoom and camera.
 - The mod includes localized loading screens and an original loading theme, *Pocztówka z doliny*.
 
+<a name="installation"></a>
+
 ## Download and install
 
 You need the full The Sims Legacy Collection installed on 64-bit Windows, game build **1.10.0** or **1.10.7**, and [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0). Allow several GB of free space plus room for a copy of your saves.
 
-1. On the project’s GitHub page, open [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1), choose **1.0.0-beta.1**, and download `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` under **Assets**.
+1. On the project’s GitHub page, open [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1), choose **1.0.0-beta.1**, and download `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` under **Assets**.
 2. Save your game and close both the game and the weather app. Extract the entire ZIP to a new folder. Keep `data` beside `Setup.exe`.
 3. Run `Setup.exe` and select the game folder containing `sims.exe`. Choose **Check compatibility** to check the files, then **Install**. The installer verifies the files, backs them up and applies patches to your own game assets. A conflicting required file stops the installation.
 4. Wait for the completion message. Start future sessions with the **The Sims Cztery Pory Roku** desktop shortcut or `Launch-weather.cmd` in the installed app folder. This starts the game and its weather and save services together.
@@ -75,6 +83,14 @@ After an interrupted installation, use **Options → Roll back**. If restoration
 
 ## Screenshots
 
+| Autumn foliage | Weather station |
+| --- | --- |
+| ![Autumn foliage](media/autumn-foliage.png) | ![Weather station](media/weather-station.png) |
+
+**Weather settings · Rain**
+
+![Weather settings · Rain](media/weather-controls.png)
+
 | Autumn rain | Fog over the lot |
 | --- | --- |
 | ![Autumn rain](media/autumn.png) | ![Fog over the lot](media/fog.png) |
@@ -98,3 +114,8 @@ After an interrupted installation, use **Options → Roll back**. If restoration
 Installer checks cover both supported builds. Testing on other PCs, lower-end hardware and full play sessions in all 17 languages is ongoing. If the weather display slows down with the NVIDIA overlay active, try a session with that overlay disabled.
 
 Use [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues) on GitHub. Include your game and mod versions, language and steps to reproduce. For a visual issue, add a screenshot and note the weather, zoom, camera angle, floor and wall mode. For installation issues, include the full error text. Check logs for personal file paths before sharing.
+
+<!-- fan-project -->
+---
+
+This is an unofficial, fan-made modification. It is not affiliated with, endorsed by, or sponsored by Electronic Arts or Maxis. The Sims is a trademark of Electronic Arts.

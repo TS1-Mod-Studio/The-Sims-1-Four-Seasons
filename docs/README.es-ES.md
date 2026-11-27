@@ -2,13 +2,19 @@
 
 **Primera beta pública · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![Descargar el mod](https://img.shields.io/badge/Descargar%20el%20mod-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![Guía de instalación](https://img.shields.io/badge/Gu%C3%ADa%20de%20instalaci%C3%B3n-526378?style=for-the-badge)](#installation) [![Informar de un error](https://img.shields.io/badge/Informar%20de%20un%20error-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · **Español** · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 Con esta expansión creada por aficionados para The Sims Legacy Collection, cada familia tiene su propio calendario estacional y su previsión del tiempo. Los fines de semana se descansa del trabajo y de las clases. La lluvia riega el jardín, un Sim que pase mucho tiempo empapado puede enfermar y, cuando se acumula suficiente nieve, la familia puede hacer un muñeco de nieve. Dos hechizos nuevos permiten a los Sims con varita invocar fenómenos meteorológicos mágicos en su solar.
 
-![Jardín nevado](../media/winter.png)
+![Un solar de invierno con tejados y plantas nevados](../media/winter.png)
 
-[Capturas de pantalla](#gallery) · [Galería completa (ZIP, 8 imágenes)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*Un solar de invierno con tejados y plantas nevados*
+
+[Capturas de pantalla](#gallery) · [Galería completa (ZIP, 11 imágenes)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## El tiempo en tu solar
 
@@ -41,11 +47,13 @@ Un Sim adulto con varita puede preparar ambas recetas en el cargador de varitas.
 - El panel permite activar por separado los efectos de mojarse, las reacciones a la lluvia, las enfermedades, la ropa de invierno, la búsqueda de refugio ante el granizo, los charcos de lluvia, los charcos que se forman al secarse, los juegos en charcos, los muñecos de nieve, la extinción de incendios por la lluvia y la niebla después de llover. También puedes ajustar los efectos, el sonido y el rendimiento de la animación. El tiempo sigue la pausa, la velocidad del juego, el zoom y la cámara.
 - El mod incluye pantallas de carga traducidas y un tema original para la carga, *Pocztówka z doliny*.
 
+<a name="installation"></a>
+
 ## Descarga e instalación
 
 Necesitas tener instalada la versión completa de The Sims Legacy Collection **1.10.0** o **1.10.7** en Windows de 64 bits, además de [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0). Reserva varios GB de espacio libre y espacio adicional para una copia de tus partidas guardadas.
 
-1. Abre [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) en GitHub, selecciona la versión **1.0.0-beta.1** y descarga `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` en **Assets**.
+1. Abre [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) en GitHub, selecciona la versión **1.0.0-beta.1** y descarga `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` en **Assets**.
 2. Guarda la partida y cierra el juego y la aplicación del tiempo. Extrae todo el ZIP en una carpeta nueva. Deja la carpeta `data` junto a `Setup.exe`.
 3. Ejecuta `Setup.exe` y selecciona la carpeta del juego que contiene `sims.exe`. Pulsa **Comprobar compatibilidad** y después **Instalar**. El instalador verifica los archivos, hace copias de seguridad y aplica los parches a los archivos de tu juego. Si detecta un conflicto en un archivo necesario, detiene la instalación.
 4. Espera a que termine. Para jugar, utiliza el acceso directo **The Sims Cztery Pory Roku** del escritorio o `Launch-weather.cmd` en la carpeta de la aplicación instalada. Así se inician juntos el juego, el tiempo y el componente que recupera el tiempo de la partida guardada.
@@ -75,6 +83,14 @@ Si se interrumpe la instalación, elige **Opciones → Revertir cambios**. Si al
 
 ## Capturas de pantalla
 
+| Colores de otoño | Estación meteorológica |
+| --- | --- |
+| ![Colores de otoño](../media/autumn-foliage.png) | ![Estación meteorológica](../media/weather-station.png) |
+
+**Ajustes del tiempo · Lluvia**
+
+![Ajustes del tiempo · Lluvia](../media/weather-controls.png)
+
 | Lluvia de otoño | Niebla en el solar |
 | --- | --- |
 | ![Lluvia de otoño](../media/autumn.png) | ![Niebla en el solar](../media/fog.png) |
@@ -98,3 +114,8 @@ Si se interrumpe la instalación, elige **Opciones → Revertir cambios**. Si al
 Las pruebas del instalador abarcan las dos versiones compatibles del juego. Agradecemos las pruebas en otros equipos, en ordenadores menos potentes y en partidas largas en cualquiera de los 17 idiomas. Si los efectos meteorológicos van lentos con la superposición de NVIDIA activada, prueba a desactivarla.
 
 Comunica los problemas en [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues) en GitHub. Indica las versiones del juego y del mod, el idioma y los pasos para reproducir el fallo. Si el problema es visual, añade una captura de pantalla, el tiempo, el nivel de zoom, el ángulo de la cámara, el piso y el modo de las paredes. En caso de error de instalación, incluye el mensaje completo. Revisa los registros por si contienen rutas personales antes de compartirlos.
+
+<!-- fan-project -->
+---
+
+Esta es una modificación no oficial creada por fans. No está afiliada a Electronic Arts ni a Maxis, ni cuenta con su aprobación o patrocinio. The Sims es una marca comercial de Electronic Arts.

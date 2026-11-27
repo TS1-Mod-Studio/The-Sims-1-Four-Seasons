@@ -2,13 +2,19 @@
 
 **Ensimmäinen julkinen beetaversio · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![Lataa modi](https://img.shields.io/badge/Lataa%20modi-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![Asennusohje](https://img.shields.io/badge/Asennusohje-526378?style=for-the-badge)](#installation) [![Ilmoita virheestä](https://img.shields.io/badge/Ilmoita%20virheest%C3%A4-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · **Suomi** · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 Tämä fanien tekemä modi tuo The Sims Legacy Collectioniin neljä vuodenaikaa ja viikkokalenterin, jossa lauantai ja sunnuntai ovat vapaita työstä ja koulusta. Syksyllä puut saavat ruskavärit, ja talvella puutarhan peittää lumi. Simit voivat katsoa huomisen sääennusteen televisiosta, leikkiä lätäköissä, rakentaa lumiukkoja ja opetella kaksi säähän vaikuttavaa loitsua.
 
-![Luminen puutarha](../media/winter.png)
+![Talvitontti, jonka katot ja kasvit ovat lumen peitossa](../media/winter.png)
 
-[Kuvakaappaukset](#gallery) · [Koko galleria (ZIP, 8 kuvaa)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*Talvitontti, jonka katot ja kasvit ovat lumen peitossa*
+
+[Kuvakaappaukset](#gallery) · [Koko galleria (ZIP, 11 kuvaa)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Sää tontillasi
 
@@ -41,11 +47,13 @@ Taikasauvan omistava aikuinen sim valmistaa loitsun sauvan latauslaitteessa. Yks
 - Sääpaneelista voi säätää erikseen kastumista, sadereaktioita, sairautta, talvivaatetusta, rakeilta suojautumista, sateen tai kuivumisen synnyttämiä lätäköitä, loiskuttelua, lumiukkoja, tulipalojen sammumista sateessa ja sateenjälkeistä sumua. Myös tehosteita, ääniä ja animaation suorituskykyä voi säätää. Sää seuraa taukoa, pelinopeutta, zoomausta ja kameraa.
 - Modissa on käännetyt latausruudut sekä oma latausmusiikki, *Pocztówka z doliny*.
 
+<a name="installation"></a>
+
 ## Lataus ja asennus
 
 Tarvitset 64-bittisen Windowsin, asennetun The Sims Legacy Collectionin täysversion **1.10.0** tai **1.10.7** sekä [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0) -ajoympäristön. Varaa useita gigatavuja vapaata levytilaa sekä tilaa tallennustesi varmuuskopiolle.
 
-1. Avaa GitHub-projektin [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1), valitse julkaisu **1.0.0-beta.1** ja lataa `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` kohdasta **Assets**.
+1. Avaa GitHub-projektin [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1), valitse julkaisu **1.0.0-beta.1** ja lataa `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` kohdasta **Assets**.
 2. Tallenna peli ja sulje sekä peli että sääohjelma. Pura koko ZIP-paketti uuteen kansioon. Jätä `data` samaan kansioon kuin `Setup.exe`.
 3. Käynnistä `Setup.exe` ja valitse pelikansio, jossa `sims.exe` sijaitsee. Valitse ensin **Tarkista yhteensopivuus** ja sitten **Asenna**. Asennusohjelma tarkistaa tiedostot, tekee varmuuskopiot ja päivittää oman peliasennuksesi tiedostot. Asennus keskeytyy, jos jokin vaadituista tiedostoista ei ole yhteensopiva.
 4. Odota, että asennus valmistuu. Käynnistä peli jatkossa työpöydän **The Sims Cztery Pory Roku** -pikakuvakkeesta tai asennetun sääohjelman kansiossa olevalla `Launch-weather.cmd`-tiedostolla. Näin myös sääohjelma ja tallennusten sään palauttava osa käynnistyvät.
@@ -73,6 +81,14 @@ Jos asennus keskeytyi, valitse **Asetukset → Kumoa muutokset**. Jos palautus i
 
 ## Kuvakaappaukset
 
+| Syksyn värit | Sääasema |
+| --- | --- |
+| ![Syksyn värit](../media/autumn-foliage.png) | ![Sääasema](../media/weather-station.png) |
+
+**Sääasetukset · Sade**
+
+![Sääasetukset · Sade](../media/weather-controls.png)
+
 | Syksyinen sade | Tontti sumun peitossa |
 | --- | --- |
 | ![Syksyinen sade](../media/autumn.png) | ![Tontti sumun peitossa](../media/fog.png) |
@@ -96,3 +112,8 @@ Jos asennus keskeytyi, valitse **Asetukset → Kumoa muutokset**. Jos palautus i
 Asennustestit kattavat molemmat tuetut peliversiot. Palaute muunlaisilta tietokoneilta, heikommalta laitteistolta ja pidemmistä pelikerroista kaikilla 17 kielellä on tervetullutta. Jos säätehosteet nykivät NVIDIA-peittokuvan ollessa käytössä, kokeile peliä myös peittokuva poistettuna käytöstä.
 
 Ilmoita virheestä GitHubin [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues)-osiossa. Kerro pelin ja modin versiot, kieli sekä vaiheet, joilla ongelman voi toistaa. Jos ongelma näkyy ruudulla, liitä kuvakaappaus ja kerro sää, zoomaus, kameran kulma, kerros ja seinien näyttötapa. Liitä asennusongelmista koko virheilmoitus. Tarkista lokit henkilökohtaisten tiedostopolkujen varalta ennen jakamista.
+
+<!-- fan-project -->
+---
+
+Tämä on epävirallinen fanien tekemä pelimuutos. Se ei liity Electronic Artsiin tai Maxisiin, eivätkä ne tue tai sponsoroi sitä. The Sims on Electronic Artsin tavaramerkki.

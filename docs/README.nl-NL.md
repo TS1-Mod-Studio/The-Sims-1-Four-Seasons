@@ -2,13 +2,19 @@
 
 **Eerste openbare bèta · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![Mod downloaden](https://img.shields.io/badge/Mod%20downloaden-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![Installatiehandleiding](https://img.shields.io/badge/Installatiehandleiding-526378?style=for-the-badge)](#installation) [![Meld een bug](https://img.shields.io/badge/Meld%20een%20bug-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · **Nederlands** · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 Met deze door fans gemaakte uitbreiding voor The Sims Legacy Collection krijgt elk huishouden een eigen seizoenskalender en een plaatselijke weersverwachting. In het weekend zijn je Sims vrij van school en werk. Regen geeft de tuin water, een Sim die lang doorweekt blijft kan ziek worden en bij genoeg sneeuw kan de familie een sneeuwpop maken. Sims met een toverstaf krijgen twee nieuwe spreuken waarmee ze magisch weer kunnen oproepen op hun kavel.
 
-![Een besneeuwde tuin](../media/winter.png)
+![Een winterkavel met besneeuwde daken en planten](../media/winter.png)
 
-[Schermafbeeldingen](#gallery) · [Volledige galerij (ZIP, 8 afbeeldingen)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*Een winterkavel met besneeuwde daken en planten*
+
+[Schermafbeeldingen](#gallery) · [Volledige galerij (ZIP, 11 afbeeldingen)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## Wat verandert er op je kavel?
 
@@ -41,11 +47,13 @@ Een volwassen Sim met een toverstaf kan de recepten in de toverstafoplader berei
 - In het weerpaneel schakel je afzonderlijk nat worden, regenreacties, ziekte, winterkleding, schuilen voor hagel, plassen door regen of opdrogen, spetteren, sneeuwpoppen, het blussen van branden en mist na regen in of uit. Je kunt effecten, geluid en animatieprestaties aanpassen. Het weer volgt de pauze, de snelheid, de zoom en de camera.
 - De mod bevat vertaalde laadschermen en eigen laadschermmuziek, *Pocztówka z doliny*.
 
+<a name="installation"></a>
+
 ## Downloaden en installeren
 
 Je hebt een geïnstalleerde volledige versie van The Sims Legacy Collection **1.10.0** of **1.10.7**, 64-bits Windows en [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0) nodig. Zorg voor enkele GB vrije ruimte en extra ruimte voor een kopie van je opgeslagen spellen.
 
-1. Open [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) op de GitHub-pagina van het project, kies **1.0.0-beta.1** en download `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` onder **Assets**.
+1. Open [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) op de GitHub-pagina van het project, kies **1.0.0-beta.1** en download `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` onder **Assets**.
 2. Sla je spel op en sluit het spel en het weerprogramma. Pak het hele ZIP-bestand uit in een nieuwe map. Laat de map `data` naast `Setup.exe` staan.
 3. Start `Setup.exe` en kies de spelmap waarin `sims.exe` staat. Kies eerst **Compatibiliteit controleren** en daarna **Installeren**. Het installatieprogramma controleert de bestanden, maakt back-ups en past de wijzigingen toe op je eigen spelbestanden. Bij een conflict met een vereist bestand stopt de installatie.
 4. Wacht tot de installatie klaar is. Start het spel voortaan met de snelkoppeling **The Sims Cztery Pory Roku** op het bureaublad of met `Launch-weather.cmd` in de installatiemap van het weerprogramma. Zo starten het spel en de onderdelen voor het weer en je opgeslagen spel tegelijk.
@@ -75,6 +83,14 @@ Is de installatie onderbroken, kies dan **Opties → Wijzigingen terugdraaien**.
 
 ## Schermafbeeldingen
 
+| Herfstkleuren | Weerstation |
+| --- | --- |
+| ![Herfstkleuren](../media/autumn-foliage.png) | ![Weerstation](../media/weather-station.png) |
+
+**Weerinstellingen · Regen**
+
+![Weerinstellingen · Regen](../media/weather-controls.png)
+
 | Herfstregen | Mist op de kavel |
 | --- | --- |
 | ![Herfstregen](../media/autumn.png) | ![Mist op de kavel](../media/fog.png) |
@@ -98,3 +114,8 @@ Is de installatie onderbroken, kies dan **Opties → Wijzigingen terugdraaien**.
 Het installatieprogramma is voor beide ondersteunde spelversies getest. Ervaringen op andere pc’s, op minder krachtige computers en tijdens langere speelsessies in de 17 talen zijn welkom. Hapert het weerbeeld wanneer de NVIDIA-overlay actief is, probeer het dan ook met die overlay uitgeschakeld.
 
 Meld een probleem op GitHub onder [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues). Vermeld de spelversie, modversie, taal en de stappen waarmee je het probleem kunt herhalen. Voeg bij een beeldfout een schermafbeelding toe en vermeld het weer, de zoomstand, camerahoek, verdieping en muurweergave. Geef bij installatiefouten de hele foutmelding door. Controleer logbestanden voor het delen op persoonlijke bestandspaden.
+
+<!-- fan-project -->
+---
+
+Dit is een onofficiële, door fans gemaakte modificatie. Ze is niet verbonden aan, goedgekeurd of gesponsord door Electronic Arts of Maxis. The Sims is een handelsmerk van Electronic Arts.

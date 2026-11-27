@@ -2,13 +2,19 @@
 
 **Première bêta publique · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![Télécharger le mod](https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20le%20mod-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![Guide d’installation](https://img.shields.io/badge/Guide%20d%E2%80%99installation-526378?style=for-the-badge)](#installation) [![Signaler un bug](https://img.shields.io/badge/Signaler%20un%20bug-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · **Français** · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 Avec cette extension créée par des fans pour The Sims Legacy Collection, chaque foyer a un calendrier des saisons et des prévisions météo locales. L’école et le travail s’arrêtent le week-end. La pluie arrose le jardin, un Sim trempé peut prendre froid et, lorsque la couche de neige est assez épaisse, toute la famille peut faire un bonhomme de neige. Deux nouveaux sorts permettent aux Sims munis d’une baguette de invoquer une brume ou une pluie magique sur leur terrain.
 
-![Jardin sous la neige](../media/winter.png)
+![Un terrain hivernal aux toits et aux plantes enneigés](../media/winter.png)
 
-[Captures d’écran](#gallery) · [Galerie complète (ZIP, 8 images)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*Un terrain hivernal aux toits et aux plantes enneigés*
+
+[Captures d’écran](#gallery) · [Galerie complète (ZIP, 11 images)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## La météo sur votre terrain
 
@@ -41,11 +47,13 @@ Un Sim adulte muni d’une baguette peut préparer les deux recettes avec le cha
 - Le panneau météo permet de régler séparément les effets suivants : les vêtements et le pelage qui se mouillent, les réactions à la pluie, les maladies, les tenues d’hiver, la recherche d’un abri en cas de grêle, les flaques de pluie, les flaques laissées en séchant, les jeux dans les flaques, les bonshommes de neige, l’extinction des feux par la pluie et le brouillard après la pluie. Vous pouvez aussi régler les effets visuels, le son et les performances de l’animation. La météo suit la pause, la vitesse du jeu, le zoom et la caméra.
 - Le mod comprend des écrans de chargement traduits et un thème musical original, *Pocztówka z doliny*.
 
+<a name="installation"></a>
+
 ## Télécharger et installer
 
 La version complète de The Sims Legacy Collection **1.10.0** ou **1.10.7** doit être installée sur Windows 64 bits. Installez également [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0). Prévoyez plusieurs Go d’espace libre, en plus de la place nécessaire à une copie de vos sauvegardes.
 
-1. Sur GitHub, ouvrez la page de la version **1.0.0-beta.1** dans [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) et téléchargez `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` sous **Assets**.
+1. Sur GitHub, ouvrez la page de la version **1.0.0-beta.1** dans [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) et téléchargez `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` sous **Assets**.
 2. Sauvegardez votre partie, puis fermez le jeu et l’application météo. Décompressez toute l’archive ZIP dans un nouveau dossier. Le dossier `data` doit se trouver à côté de `Setup.exe`.
 3. Lancez `Setup.exe` et sélectionnez le dossier du jeu qui contient `sims.exe`. Cliquez sur **Vérifier la compatibilité**, puis sur **Installer**. Le programme vérifie et sauvegarde les fichiers avant d’appliquer les correctifs à votre installation. Un conflit avec un fichier indispensable interrompt l’installation.
 4. Attendez la fin de l’installation. Pour jouer, utilisez le raccourci **The Sims Cztery Pory Roku** sur le bureau ou `Launch-weather.cmd` dans le dossier de l’application installée. Le jeu, la météo et le suivi des sauvegardes démarrent ensemble.
@@ -75,6 +83,14 @@ Si l’installation a été interrompue, choisissez **Options → Annuler les mo
 
 ## Captures d’écran
 
+| Feuillage d’automne | Station météo |
+| --- | --- |
+| ![Feuillage d’automne](../media/autumn-foliage.png) | ![Station météo](../media/weather-station.png) |
+
+**Réglages météo · Pluie**
+
+![Réglages météo · Pluie](../media/weather-controls.png)
+
 | Pluie d’automne | Brouillard sur le terrain |
 | --- | --- |
 | ![Pluie d’automne](../media/autumn.png) | ![Brouillard sur le terrain](../media/fog.png) |
@@ -98,3 +114,8 @@ Si l’installation a été interrompue, choisissez **Options → Annuler les mo
 Les tests d’installation couvrent les deux versions du jeu prises en charge. Les retours sur d’autres PC, sur du matériel moins puissant et après de longues parties dans les 17 langues sont les bienvenus. En cas de ralentissement des effets météo, essayez de désactiver la superposition NVIDIA si elle est active.
 
 Signalez le problème dans [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues) sur GitHub. Indiquez les versions du jeu et du mod, la langue et les étapes permettant de le reproduire. Pour un défaut visuel, joignez une capture d’écran et précisez le temps, le zoom, l’angle de la caméra, l’étage et le mode d’affichage des murs. En cas d’échec de l’installation, joignez le message d’erreur complet. Vérifiez que les journaux ne contiennent pas de chemins de fichiers personnels avant de les partager.
+
+<!-- fan-project -->
+---
+
+Ceci est une modification non officielle créée par des fans. Elle n’est ni affiliée à Electronic Arts ou Maxis, ni approuvée ou parrainée par ces entreprises. The Sims est une marque d’Electronic Arts.

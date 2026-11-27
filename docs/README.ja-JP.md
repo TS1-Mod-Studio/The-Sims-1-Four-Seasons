@@ -2,13 +2,19 @@
 
 **初の公開ベータ版 · 1.0.0-beta.1**
 
+<!-- quick-links -->
+[![MODをダウンロード](https://img.shields.io/badge/MOD%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-202a35?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-1.0.0-beta.1.zip) [![インストールガイド](https://img.shields.io/badge/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%82%AC%E3%82%A4%E3%83%89-526378?style=for-the-badge)](#installation) [![不具合を報告](https://img.shields.io/badge/%E4%B8%8D%E5%85%B7%E5%90%88%E3%82%92%E5%A0%B1%E5%91%8A-526378?style=for-the-badge)](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues/new)
+<!-- /quick-links -->
+
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · **日本語** · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 このファン制作の MOD は、The Sims Legacy Collection に春夏秋冬と週単位のカレンダーを追加します。土日は学校も仕事も休み。秋は木々が色づき、冬は庭に雪が積もります。シムはテレビで明日の天気を確かめたり、水たまりで遊んだり、雪だるまを作ったりできます。天気を変える呪文も2種類加わります。
 
-![雪が積もった庭](../media/winter.png)
+![屋根や植物に雪が積もった冬の区画](../media/winter.png)
 
-[スクリーンショット](#gallery) · [ギャラリー全体（ZIP、画像8枚）](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
+*屋根や植物に雪が積もった冬の区画*
+
+[スクリーンショット](#gallery) · [ギャラリー全体（ZIP、画像11枚）](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/download/v1.0.0-beta.1/The-Sims-1-Four-Seasons-Screenshots.zip)
 
 ## 区画に起こる変化
 
@@ -41,11 +47,13 @@
 - 天気パネルでは、ぬれ具合、雨への反応、病気、冬服、ひょうからの避難、雨の水たまり、体が乾いたときの水たまり、水遊び、雪だるま、雨による消火、雨上がりの霧を個別に切り替えられます。視覚効果、音量、アニメーションの負荷も調整できます。天気の演出は一時停止、ゲーム速度、カメラの移動やズームに連動します。
 - 各言語のロード画面と、ロード用のオリジナル曲「Pocztówka z doliny」を収録しています。
 
+<a name="installation"></a>
+
 ## ダウンロードとインストール
 
 64 ビット版 Windows に製品版の The Sims Legacy Collection（ゲームバージョン **1.10.0** または **1.10.7**）と [Microsoft .NET Desktop Runtime 10 (x64)](https://dotnet.microsoft.com/download/dotnet/10.0) をインストールしてください。数 GB の空き容量に加え、セーブデータのバックアップ用の空き容量も必要です。
 
-1. GitHub の [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) で **1.0.0-beta.1** を開き、**Assets** から `TheSimsCzteryPoryRoku-1.0.0-beta.1.zip` をダウンロードします。
+1. GitHub の [Releases](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/releases/tag/v1.0.0-beta.1) で **1.0.0-beta.1** を開き、**Assets** から `The-Sims-1-Four-Seasons-1.0.0-beta.1.zip` をダウンロードします。
 2. ゲームをセーブし、ゲームと天気アプリを終了します。ZIP 全体を新しいフォルダーに展開し、`data` フォルダーを `Setup.exe` と同じ場所に置きます。
 3. `Setup.exe` を起動し、`sims.exe` があるゲームフォルダーを選びます。**互換性を確認** で確認してから **インストール** を選んでください。インストーラーは元のファイルを検証してバックアップを取り、インストール済みのゲームデータにパッチを適用します。必須ファイルが想定と異なる場合は処理が停止します。
 4. 完了のメッセージが出るまでお待ちください。以後はデスクトップの **The Sims Cztery Pory Roku** ショートカットか、インストール先の `Launch-weather.cmd` から起動します。天気の処理と、セーブ読み込み時に天気を復元する機能がゲームと一緒に起動します。
@@ -73,6 +81,14 @@ Windows の「保存したゲーム」にある `Electronic Arts\The Sims 25` �
 
 ## スクリーンショット
 
+| 紅葉 | 気象観測ステーション |
+| --- | --- |
+| ![紅葉](../media/autumn-foliage.png) | ![気象観測ステーション](../media/weather-station.png) |
+
+**天気設定・雨**
+
+![天気設定・雨](../media/weather-controls.png)
+
 | 秋の雨 | 霧に包まれた区画 |
 | --- | --- |
 | ![秋の雨](../media/autumn.png) | ![霧に包まれた区画](../media/fog.png) |
@@ -96,3 +112,8 @@ Windows の「保存したゲーム」にある `Electronic Arts\The Sims 25` �
 インストーラーの検証対象は上記の 2 バージョンです。ほかの PC や低スペックの PC での動作、全 17 言語での通しプレイは引き続き検証中です。NVIDIA オーバーレイ使用中に天気の描画が遅くなる場合は、オーバーレイを無効にしてお試しください。
 
 GitHub の [Issues](https://github.com/TS1-Mod-Studio/The-Sims-1-Four-Seasons/issues) にゲームと MOD のバージョン、言語、再現手順をお知らせください。表示の不具合はスクリーンショットに加え、天気、ズーム倍率、カメラの向き、階、壁の表示状態も添えてください。インストール時のエラーは全文をご記入ください。ログを公開する前に、個人名を含むファイルパスなどがないか確認してください。
+
+<!-- fan-project -->
+---
+
+これはファンが制作した非公式のMODです。Electronic ArtsおよびMaxisとは提携関係になく、両社の承認や協賛を受けていません。The SimsはElectronic Artsの商標です。
