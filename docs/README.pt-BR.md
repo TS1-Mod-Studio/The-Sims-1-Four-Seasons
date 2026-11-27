@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · **Português (Brasil)** · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
-As quatro estações chegam ao The Sims Legacy Collection. Uma tempestade pode fazer seus Sims correrem para dentro de casa, e a neve fresca se acumula no jardim. Ao carregar uma partida, o lote retoma o clima e o calendário que tinha quando você salvou. Este é um mod não oficial feito por fãs.
+Com esta expansão criada por fãs para The Sims Legacy Collection, cada família ganha um calendário de estações e uma previsão do tempo local. Os Sims têm folga da escola e do trabalho nos fins de semana. A chuva rega o jardim, um Sim que passa muito tempo encharcado pode adoecer e, quando há neve suficiente, a família pode montar um boneco de neve. Com dois novos feitiços, os Sims que têm uma varinha podem trazer chuva ou névoa mágica para o lote.
 
 ![Jardim coberto de neve](../media/winter.png)
 
@@ -22,9 +22,9 @@ As quatro estações chegam ao The Sims Legacy Collection. Uma tempestade pode f
 ### O tempo no jardim e dentro de casa
 
 - Chuva, tempestades, granizo, neve, nevascas e neblina podem surgir naturalmente. Depois de uma chuva, pode se formar neblina. O vento espalha a chuva e as folhas de outono pelo lote. O trovão vem depois do relâmpago, a água escorre dos telhados e a chuva comum pode apagar um incêndio ao ar livre, mesmo que ele tenha começado com um raio.
-- A chuva rega as plantas a céu aberto. Uma chuva forte de granizo pode danificar plantas ornamentais que estão do lado de fora. À noite, principalmente no verão, surgem vaga-lumes perto dos arbustos e das flores. No outono, a folhagem muda de cor. No inverno, a geada e a neve cobrem o chão, telhados, ruas, cercas, plantas, objetos ao ar livre e lápides. Tudo começa a derreter quando a temperatura sobe.
+- A chuva rega as plantas a céu aberto. Uma chuva forte de granizo pode danificar plantas ornamentais que estão do lado de fora. À noite, principalmente no verão, surgem vaga-lumes perto dos arbustos e das flores. No outono, a folhagem muda de cor. No inverno, a neve cobre o gramado, os telhados, as ruas, as cercas, as plantas, os objetos de jardim e as lápides. Ela derrete aos poucos quando a temperatura sobe.
 - Sims, cães e gatos se molham ao ar livre e secam mais rápido debaixo de um teto. Eles podem procurar abrigo ou deixar uma pequena poça que dá para secar com um esfregão. Um Sim que passa muito tempo encharcado pode adoecer, tossir e espirrar. Ele pode se recuperar em um lugar seco. As crianças podem brincar por conta própria nas poças ao ar livre. Você também pode mandar adultos e crianças brincarem nelas.
-- Quando a temperatura cai abaixo de zero, os Sims podem vestir roupas de inverno ao sair. Compre por **§1** um local para fazer um boneco de neve e coloque-o ao ar livre. Quando a cobertura de neve chegar a **60%**, os Sims poderão montar o boneco ali, inclusive em lotes comunitários e de férias.
+- Quando a temperatura cai abaixo de zero, os Sims dão uma voltinha para vestir a roupa de inverno ao ar livre. Ao entrar, voltam à roupa anterior. Eles usam o traje de inverno que compraram. Quem ainda não tem um recebe um traje sorteado e continua usando o mesmo nas próximas saídas. Compre por **§1** um local para fazer um boneco de neve e coloque-o ao ar livre. Quando a cobertura de neve chegar a **60%**, os Sims poderão montar o boneco ali, inclusive em lotes comunitários e de férias. Flores silvestres crescem ali enquanto as plantas estão sem neve. Quando as plantas ficam cobertas de neve, as flores dão lugar a um monte de neve.
 
 ### Dois novos feitiços no livro de magia
 
@@ -36,7 +36,8 @@ Um Sim adulto com uma varinha pode preparar as duas receitas no carregador de va
 
 ### Estação meteorológica, ajustes e som
 
-- O clima automático funciona sem precisar comprar nenhum objeto. A estação meteorológica opcional custa **§10.000**. Um Sim com **7 pontos de Lógica** e **6 de Mecânica** pode usá-la para alterar o clima e o calendário. Se o mesmo Sim atingir **10 nas duas habilidades**, a família pode ganhar uma estação grátis uma vez.
+- **Como ganhar a estação meteorológica.** A estação só pode ser obtida como recompensa, uma vez por família. Um único Sim precisa atingir **10 pontos de Lógica e 10 de Mecânica**. O jogo coloca a estação em um quadrado livre a céu aberto no lote residencial e exibe uma mensagem. Se o quintal estiver lotado, abra espaço. A estação acompanha a família quando ela se muda.
+- **Como usar a estação.** Selecione um Sim com pelo menos **7 pontos de Lógica e 6 de Mecânica** e clique na estação. Você pode escolher a intensidade da chuva, dos temporais, do granizo, da neve e das nevascas, além da densidade da neblina. A chuva mágica e a névoa mágica têm opções próprias. Também é possível encerrar o fenômeno atual, mudar a estação do ano ou escolher o dia da semana. Um Sim que ainda está aprendendo pode consultar os requisitos. O tempo muda automaticamente assim que você carrega o lote.
 - O painel permite controlar separadamente o efeito de se molhar, as reações à chuva, as doenças, as roupas de inverno, a procura de abrigo contra granizo, as poças de chuva, as poças deixadas ao secar, as brincadeiras nas poças, os bonecos de neve, a chuva apagando incêndios e a neblina depois da chuva. Você também pode ajustar os efeitos, o som e o desempenho das animações. O clima acompanha a pausa, a velocidade do jogo, o zoom e a câmera.
 - O mod inclui telas de carregamento traduzidas e um tema musical original para o carregamento, *Pocztówka z doliny*.
 
@@ -51,9 +52,13 @@ Você precisa ter o The Sims Legacy Collection completo, versão **1.10.0** ou *
 
 Deixe o instalador aplicar as alterações nos arquivos do jogo. Ele verifica as somas de verificação antes e depois de cada alteração e mantém `sims.exe` intacto. Os objetos opcionais só recebem as alterações se você já tiver instalado uma versão compatível deles.
 
-## Durante o jogo
+## O aplicativo de clima para Windows
 
-Carregue um lote para ver o clima automático. Pressione `Ctrl+Alt+R` para ajustar a precipitação, o som, o calendário e os efeitos na jogabilidade. Os menus dos objetos usam o idioma do jogo. Por padrão, o painel de clima também usa esse idioma. Se você escolher outro idioma para o painel, a mudança entrará em vigor na próxima vez que iniciar o jogo.
+O atalho do mod abre o aplicativo de clima junto com o jogo. Pressione `Ctrl+Alt+R` durante a partida ou clique duas vezes no ícone do clima ao lado do relógio do Windows para abrir as configurações. Você pode usá-las com qualquer família, mesmo antes de um Sim ganhar a estação.
+
+Escolha um perfil de precipitação ou ajuste detalhes como a quantidade de gotas de chuva, o tamanho dos flocos de neve e o volume do vento durante um temporal. Você pode regular o vento e a nebulosidade do lote e depois voltar ao modo automático. No calendário, é possível mudar a duração das estações, o dia e a hora do lote residencial ativo. As opções de jogabilidade definem como o clima afeta os Sims e os animais de estimação. Também é possível limitar os efeitos climáticos a 30 quadros por segundo.
+
+Os menus dos objetos usam o idioma do jogo. Por padrão, o aplicativo usa o mesmo idioma. Se você escolher outro para o aplicativo, a mudança entrará em vigor na próxima vez que abri-lo.
 
 ## Backup, atualização e desinstalação
 
@@ -72,7 +77,7 @@ Se a instalação for interrompida, escolha **Opções → Reverter alterações
 
 | Chuva de outono | Neblina sobre o lote |
 | --- | --- |
-| ![Chuva de outono](../media/autumn.png) | ![Neblina sobre o lote](../media/weather.png) |
+| ![Chuva de outono](../media/autumn.png) | ![Neblina sobre o lote](../media/fog.png) |
 
 | Granizo no jardim | Névoa mágica |
 | --- | --- |

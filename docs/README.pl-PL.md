@@ -4,7 +4,7 @@
 
 [English](../README.md) · **Polski** · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
-Cztery pory roku w The Sims Legacy Collection. Burza może zagnać Simów pod dach, świeży śnieg osiada w ogrodzie, a po wczytaniu zapisu wracają pogoda i kalendarz danej parceli. To nieoficjalny mod fanowski.
+Cztery Pory Roku to fanowski dodatek do The Sims Legacy Collection. Każda rodzina ma własny kalendarz pór roku i lokalną prognozę pogody, a w weekendy Simowie mają wolne od szkoły i pracy. Deszcz podlewa ogród, przemoczony Sim może się przeziębić, a kiedy zimą uzbiera się dość śniegu, domownicy mogą ulepić bałwana. Simowie z różdżką dostają dwa nowe zaklęcia, którymi przywołają magiczną mgłę lub deszcz.
 
 ![Ogród pod śniegiem](../media/winter.png)
 
@@ -22,9 +22,9 @@ Cztery pory roku w The Sims Legacy Collection. Burza może zagnać Simów pod da
 ### Pogoda w ogrodzie i codzienne życie Simów
 
 - Deszcz, burze, grad, śnieg, zamiecie i mgła mogą nadejść same. Po deszczu nad parcelą może zawisnąć mgła. Wiatr niesie krople i jesienne liście, po błysku pioruna słychać grzmot, a z dachów spływa woda. Zwykły deszcz i ulewa podczas burzy mogą ugasić pożar pod gołym niebem, także ten wywołany uderzeniem pioruna.
-- Deszcz podlewa odsłonięte rośliny. Silny grad potrafi uszkodzić rośliny ozdobne. Nocą przy krzewach i kwiatach pojawiają się świetliki, najczęściej latem. Jesienią liście zmieniają kolor i opadają. Zimą widać szron, a śnieg przykrywa dachy, drogi, płoty, rośliny, sprzęty ogrodowe i nagrobki. Pokrywa śnieżna stopniowo topnieje po ociepleniu.
+- Deszcz podlewa odsłonięte rośliny. Silny grad potrafi uszkodzić rośliny ozdobne. Nocą przy krzewach i kwiatach pojawiają się świetliki, najczęściej latem. Jesienią liście zmieniają kolor i opadają. Zimą śnieg przykrywa trawniki, dachy, drogi, płoty, rośliny, sprzęty ogrodowe i nagrobki. Pokrywa śnieżna stopniowo topnieje po ociepleniu.
 - Simowie, psy i koty mokną na dworze i szybciej schną pod dachem. Mogą szukać schronienia, a podczas schnięcia zostawić kałużkę do wytarcia. Po długim przemoczeniu Sim może zachorować, kaszleć i kichać. W suchym miejscu stopniowo zdrowieje. Dzieci potrafią same pobiec pochlapać się w kałuży. Możesz też polecić tę zabawę dziecku lub dorosłemu.
-- Przy temperaturze poniżej zera Simowie mogą wychodzić w zimowych ubraniach. Żeby ulepić bałwana, kup **miejsce do lepienia za §1** i postaw je na dworze. Simowie mogą z niego skorzystać przy pokrywie śnieżnej wynoszącej co najmniej **60%**, także na parcelach publicznych i wakacyjnych.
+- Na mrozie Simowie obrotem przebierają się w zimowy strój, a po wejściu do środka wracają do poprzedniego ubrania. Zakładają strój kupiony w sklepie. Kto go nie ma, dostaje losowo wybrany zestaw, który zachowuje na kolejne wyjścia. Żeby ulepić bałwana, kup w katalogu **„Kupkę śniegu” za §1** i postaw je na dworze. Simowie mogą z niego skorzystać przy pokrywie śnieżnej wynoszącej co najmniej **60%**, także na parcelach publicznych i wakacyjnych. Kupka śniegu pojawia się, gdy rośliny pokrywają się śniegiem. Kiedy śnieg na roślinach topnieje, na jej miejscu wracają polne kwiaty.
 
 ### Dwa nowe czary w księdze zaklęć
 
@@ -36,7 +36,8 @@ Dorosły Sim z różdżką może przygotować oba zaklęcia w ładowarce. Dodaj 
 
 ### Stacja pogodowa, ustawienia i dźwięk
 
-- Pogoda działa automatycznie od wejścia na parcelę. Opcjonalna stacja za **§10 000** pozwala sterować pogodą i kalendarzem Simowi, który ma **7 punktów logiki i 6 techniki**. Jeśli ten sam Sim zdobędzie **po 10 punktów obu umiejętności**, rodzina może raz otrzymać stację za darmo.
+- **Jak zdobyć stację.** Stację pogodową można zdobyć wyłącznie jako nagrodę, raz na rodzinę. Otrzymasz ją, gdy jeden z domowników osiągnie **10 punktów logiki i 10 punktów techniki**. Na parceli domowej gra ustawia stację na wolnej kratce pod gołym niebem i wyświetla komunikat o nagrodzie. Jeśli podwórko jest zastawione, zostaw na nim wolne miejsce. Przy przeprowadzce stacja podąża za rodziną.
+- **Jak sterować pogodą.** Wybierz Sima z co najmniej **7 punktami logiki i 6 punktami techniki** i kliknij stację. Możesz dobrać siłę deszczu, burzy, gradu, śniegu lub zamieci, a także gęstość mgły. Magiczny deszcz i magiczna mgła mają osobne pozycje w menu. Stacja pozwala też wyłączyć trwające zjawisko, zmienić porę roku albo wybrać dzień tygodnia. Sim z niższymi umiejętnościami może wybrać **Sprawdź kwalifikacje**. Pogoda działa automatycznie od chwili wczytania parceli.
 - W panelu pogody możesz osobno włączać i wyłączać przemoczenie, reakcje na deszcz, choroby, zimowe ubrania, szukanie schronienia przed gradem, kałuże po opadach i podczas schnięcia, chlapanie, lepienie bałwana, gaszenie pożarów oraz mgłę po deszczu. Możesz też dopasować wygląd efektów, dźwięki i płynność animacji. Pogoda reaguje na pauzę, tempo gry, zbliżenie i ruch kamery.
 - Mod ma przetłumaczone ekrany ładowania i własny motyw muzyczny *Pocztówka z doliny*.
 
@@ -51,9 +52,13 @@ Potrzebujesz pełnej gry The Sims Legacy Collection w wersji **1.10.0** lub **1.
 
 Pozwól instalatorowi nanieść poprawki na pliki gry. Sprawdza on sumy kontrolne przed zmianą i po niej. Plik `sims.exe` pozostaje bez zmian. Poprawki do dodatkowych obiektów są stosowane tylko wtedy, gdy masz zainstalowaną ich obsługiwaną wersję.
 
-## W grze
+## Program do zarządzania pogodą
 
-Po wczytaniu parceli pogoda działa automatycznie. Naciśnij `Ctrl+Alt+R`, aby zmienić ustawienia opadów, dźwięku, kalendarza i rozgrywki. Menu obiektów korzystają z języka gry. Panel pogody domyślnie też go używa. Jeśli wybierzesz inny język panelu, zmiana zacznie działać przy następnym uruchomieniu.
+Skrót moda uruchamia program razem z grą. Jego okno otworzysz skrótem `Ctrl+Alt+R` podczas gry albo dwukrotnym kliknięciem ikony pogody w obszarze powiadomień Windows, obok zegara. Z ustawień możesz korzystać w każdej rodzinie, również zanim którykolwiek Sim zdobędzie stację.
+
+W zakładkach opadów wybierzesz gotowy wariant lub samodzielnie ustawisz m.in. liczbę kropli deszczu, wielkość płatków śniegu czy głośność wiatru podczas burzy. Wiatr i zachmurzenie możesz zmienić na danej parceli i przywrócić ich automatyczny dobór. W **Kalendarzu** ustawisz długość pór roku, dzień i godzinę aktywnej parceli domowej. W **Rozgrywce** wybierzesz, jak pogoda wpływa na Simów i zwierzęta. Dostępny jest też limit 30 klatek na sekundę dla efektów pogodowych.
+
+Menu obiektów wyświetlają się w języku gry. Program domyślnie używa tego samego języka. Jeśli wybierzesz inny, zmiana zacznie działać przy następnym uruchomieniu programu.
 
 ## Kopie zapasowe, aktualizacje i odinstalowanie
 
@@ -72,7 +77,7 @@ Po przerwanej instalacji wybierz **Opcje → Cofnij zmiany**. Jeśli odzyskiwani
 
 | Jesienny deszcz | Mgła nad parcelą |
 | --- | --- |
-| ![Jesienny deszcz](../media/autumn.png) | ![Mgła nad parcelą](../media/weather.png) |
+| ![Jesienny deszcz](../media/autumn.png) | ![Mgła nad parcelą](../media/fog.png) |
 
 | Grad w ogrodzie | Magiczna mgła |
 | --- | --- |

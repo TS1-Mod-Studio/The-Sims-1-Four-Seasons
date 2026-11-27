@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · **Español** · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
-Las cuatro estaciones llegan a The Sims Legacy Collection. Una tormenta puede hacer que tus Sims corran a refugiarse y la nieve recién caída se acumula en el jardín. Al cargar una partida, recuperas el tiempo y el calendario de tu solar. Este mod es una creación no oficial de la comunidad.
+Con esta expansión creada por aficionados para The Sims Legacy Collection, cada familia tiene su propio calendario estacional y su previsión del tiempo. Los fines de semana se descansa del trabajo y de las clases. La lluvia riega el jardín, un Sim que pase mucho tiempo empapado puede enfermar y, cuando se acumula suficiente nieve, la familia puede hacer un muñeco de nieve. Dos hechizos nuevos permiten a los Sims con varita invocar fenómenos meteorológicos mágicos en su solar.
 
 ![Jardín nevado](../media/winter.png)
 
@@ -22,9 +22,9 @@ Las cuatro estaciones llegan a The Sims Legacy Collection. Una tormenta puede ha
 ### El tiempo en el jardín y en casa
 
 - La lluvia, las tormentas, el granizo, la nieve, las ventiscas y la niebla pueden aparecer por sí solos. Después de llover puede formarse niebla. El viento arrastra la lluvia y las hojas de otoño por el solar. Tras los relámpagos se oye el trueno, el agua escurre de los tejados y la lluvia normal puede apagar un incendio al aire libre, incluso si lo ha provocado un rayo.
-- La lluvia riega las plantas que están a cielo abierto. Las granizadas fuertes pueden dañar las plantas ornamentales de exterior. Por la noche, sobre todo en verano, aparecen luciérnagas cerca de los arbustos y las flores. En otoño cambia el color del follaje. En invierno la escarcha y la nieve cubren el suelo, los tejados, las carreteras, las vallas, las plantas, los objetos de exterior y las lápidas. Cuando sube la temperatura, empiezan a derretirse.
+- La lluvia riega las plantas que están a cielo abierto. Las granizadas fuertes pueden dañar las plantas ornamentales de exterior. Por la noche, sobre todo en verano, aparecen luciérnagas cerca de los arbustos y las flores. En otoño cambia el color del follaje. En invierno, la nieve cubre el césped, los tejados, las carreteras, las vallas, las plantas, los objetos de exterior y las lápidas. Se derrite poco a poco cuando sube la temperatura.
 - Los Sims, los perros y los gatos se mojan al aire libre y se secan más deprisa bajo techo. Pueden buscar refugio o dejar un pequeño charco que se puede fregar. Un Sim que pase mucho tiempo empapado puede enfermar, toser y estornudar. Se recuperará en un lugar seco. Los niños pueden chapotear por iniciativa propia en los charcos del exterior. También puedes pedirles a niños y adultos que jueguen en ellos.
-- Cuando la temperatura baja de cero, los Sims pueden ponerse ropa de invierno al salir. Compra por **1 §** un lugar para construir un muñeco de nieve y colócalo al aire libre. Cuando la cobertura de nieve alcance el **60 %**, los Sims podrán construirlo allí, también en solares comunitarios y vacacionales.
+- Cuando hiela, los Sims dan una vuelta para ponerse la ropa de invierno al salir y recuperan su ropa anterior al entrar. Usan el conjunto que compraron. Si un Sim aún no tiene uno, se le asigna uno al azar que conservará para las siguientes salidas. Compra por **1 §** un lugar para construir un muñeco de nieve y colócalo al aire libre. Cuando la cobertura de nieve alcance el **60 %**, los Sims podrán construirlo allí, también en solares comunitarios y vacacionales. En ese lugar crecen flores silvestres mientras las plantas estén libres de nieve. Las flores se convierten en un montón cuando la nieve cubre las plantas.
 
 ### Dos conjuros nuevos en el libro de hechizos
 
@@ -36,7 +36,8 @@ Un Sim adulto con varita puede preparar ambas recetas en el cargador de varitas.
 
 ### Estación meteorológica, ajustes y sonido
 
-- La meteorología automática funciona sin comprar ningún objeto. La estación meteorológica opcional cuesta **10 000 §**. Un Sim con **7 puntos de Lógica** y **6 de Mecánica** puede usarla para cambiar el tiempo y el calendario. Si un mismo Sim alcanza **10 en ambas habilidades**, la familia puede conseguir una estación gratis una vez.
+- **Conseguir la estación meteorológica.** Solo se consigue como recompensa, una vez por familia. Se concede cuando un mismo Sim alcanza **10 puntos de Lógica y 10 de Mecánica**. Aparecerá un mensaje y encontrarás la estación en una casilla libre al aire libre en el solar residencial. Si el jardín está lleno, deja un hueco. La estación acompaña a la familia cuando se muda.
+- **Usar la estación.** Selecciona a un Sim con al menos **7 puntos de Lógica y 6 de Mecánica** y haz clic en la estación. Puedes elegir la intensidad de la lluvia, las tormentas, el granizo, las nevadas y las ventiscas, o la densidad de la niebla. La lluvia mágica y la niebla mágica tienen sus propios controles. También puedes detener el fenómeno en curso, cambiar de estación del año o elegir el día de la semana. Un Sim que aún esté aprendiendo puede consultar los requisitos. El tiempo cambia automáticamente desde que cargas el solar.
 - El panel permite activar por separado los efectos de mojarse, las reacciones a la lluvia, las enfermedades, la ropa de invierno, la búsqueda de refugio ante el granizo, los charcos de lluvia, los charcos que se forman al secarse, los juegos en charcos, los muñecos de nieve, la extinción de incendios por la lluvia y la niebla después de llover. También puedes ajustar los efectos, el sonido y el rendimiento de la animación. El tiempo sigue la pausa, la velocidad del juego, el zoom y la cámara.
 - El mod incluye pantallas de carga traducidas y un tema original para la carga, *Pocztówka z doliny*.
 
@@ -51,9 +52,13 @@ Necesitas tener instalada la versión completa de The Sims Legacy Collection **1
 
 Deja que el instalador aplique los parches a los archivos del juego. Comprueba sus sumas de verificación antes y después de cada cambio y conserva `sims.exe` intacto. Solo modifica los objetos opcionales si ya tienes instalada una versión compatible de esos objetos.
 
-## En el juego
+## La aplicación del tiempo para Windows
 
-Carga un solar para que el tiempo cambie de forma automática. Pulsa `Ctrl+Alt+R` para ajustar las precipitaciones, el sonido, el calendario y los efectos en la partida. Los menús de los objetos usan el idioma del juego. El panel del tiempo también lo utiliza de forma predeterminada. Si eliges otro idioma para el panel, el cambio se aplicará la próxima vez que inicies el juego.
+El acceso directo del mod abre la aplicación del tiempo junto con el juego. Pulsa `Ctrl+Alt+R` mientras juegas o haz doble clic en el icono del tiempo junto al reloj de Windows para abrir los ajustes. Puedes usarlos con cualquier familia, incluso antes de que un Sim consiga la estación.
+
+Elige un ajuste predefinido de precipitaciones o cambia detalles como la cantidad de gotas de lluvia, el tamaño de los copos de nieve o el volumen del viento durante una tormenta. También puedes ajustar el viento y la nubosidad en el solar y volver al modo automático. En el calendario se pueden cambiar la duración de las estaciones, el día y la hora del solar residencial activo. Las opciones de juego permiten elegir cómo afecta el tiempo a los Sims y sus mascotas. Si lo prefieres, puedes limitar los efectos meteorológicos a 30 fotogramas por segundo.
+
+Los menús de los objetos usan el idioma del juego. La aplicación también lo utiliza de forma predeterminada. Si eliges otro idioma para la aplicación, el cambio se aplicará la próxima vez que la abras.
 
 ## Copias de seguridad, actualizaciones y desinstalación
 
@@ -72,7 +77,7 @@ Si se interrumpe la instalación, elige **Opciones → Revertir cambios**. Si al
 
 | Lluvia de otoño | Niebla en el solar |
 | --- | --- |
-| ![Lluvia de otoño](../media/autumn.png) | ![Niebla en el solar](../media/weather.png) |
+| ![Lluvia de otoño](../media/autumn.png) | ![Niebla en el solar](../media/fog.png) |
 
 | Granizo en el jardín | Niebla mágica |
 | --- | --- |

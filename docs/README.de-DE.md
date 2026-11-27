@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · **Deutsch** · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
-Vier Jahreszeiten für The Sims Legacy Collection. Ein Gewitter kann deine Sims ins Haus treiben, frischer Schnee bleibt im Garten liegen, und beim Laden eines Spielstands kehren Wetter und Kalender des Grundstücks zurück. Dies ist eine inoffizielle Fan-Mod.
+Die Fan-Erweiterung Vier Jahreszeiten gibt jedem Haushalt in The Sims Legacy Collection einen eigenen Jahreszeitenkalender und eine örtliche Wettervorhersage. Am Wochenende haben die Sims frei von Schule und Arbeit. Regen bewässert den Garten, durchnässte Sims können sich erkälten und bei genügend Schnee kann die Familie einen Schneemann bauen. Mit zwei neuen Zaubersprüchen können Sims magisches Wetter auf ihr Grundstück holen.
 
 ![Ein verschneiter Garten](../media/winter.png)
 
@@ -22,9 +22,9 @@ Vier Jahreszeiten für The Sims Legacy Collection. Ein Gewitter kann deine Sims 
 ### Wetter im Garten und im Haus
 
 - Regen, Gewitter, Hagel, Schnee, Schneestürme und Nebel können von selbst aufziehen. Nach Regen kann sich Nebel bilden. Wind weht Regen und Herbstlaub über das Grundstück. Auf Blitze folgt Donner, Wasser läuft von den Dächern, und gewöhnlicher Regen kann draußen sogar einen durch Blitzschlag ausgelösten Brand löschen.
-- Regen bewässert Pflanzen unter freiem Himmel. Starker Hagel kann Zierpflanzen im Freien beschädigen. Nachts erscheinen Glühwürmchen in der Nähe von Büschen und Blumen, vor allem im Sommer. Im Herbst färbt sich das Laub. Im Winter bedecken Reif und Schnee Boden, Dächer, Straßen, Zäune, Pflanzen, Gegenstände im Freien und Grabsteine. Wird es wärmer, tauen sie wieder ab.
+- Regen bewässert Pflanzen unter freiem Himmel. Starker Hagel kann Zierpflanzen im Freien beschädigen. Nachts erscheinen Glühwürmchen in der Nähe von Büschen und Blumen, vor allem im Sommer. Im Herbst färbt sich das Laub. Im Winter bedeckt Schnee den Rasen, Dächer, Straßen, Zäune, Pflanzen, Gegenstände im Freien und Grabsteine. Bei wärmerem Wetter schmilzt er allmählich.
 - Sims, Katzen und Hunde werden draußen nass und trocknen unter einem Dach schneller. Sie können Schutz suchen oder eine kleine Pfütze hinterlassen, die sich aufwischen lässt. Bleibt ein Sim lange durchnässt, kann er krank werden, husten und niesen. Im Trockenen erholt er sich. Kinder können draußen von sich aus in Pfützen planschen. Auf deine Anweisung tun das auch Erwachsene.
-- Bei Minusgraden können Sims draußen Winterkleidung anziehen. Kaufe für **1 §** einen Bauplatz für einen Schneemann und platziere ihn im Freien. Ab **60 %** Schneebedeckung können Sims dort einen Schneemann bauen, auch auf Gemeinschafts- und Urlaubsgrundstücken.
+- Bei Minusgraden drehen sich Sims draußen einmal um und schlüpfen in ihre Winterkleidung. Drinnen ziehen sie sich wieder um. Sie tragen ihr gekauftes Winteroutfit. Wer noch keines hat, bekommt ein zufällig ausgewähltes Outfit und trägt es auch bei späteren Ausflügen. Kaufe für **1 §** einen Bauplatz für einen Schneemann und platziere ihn im Freien. Ab **60 %** Schneebedeckung können Sims dort einen Schneemann bauen, auch auf Gemeinschafts- und Urlaubsgrundstücken. Dort wachsen Wildblumen, solange die Pflanzen schneefrei sind. Werden die Pflanzen eingeschneit, verwandeln sich die Blumen in einen Schneehaufen.
 
 ### Zwei neue Zauber im Zauberbuch
 
@@ -36,7 +36,8 @@ Ein erwachsener Sim mit Zauberstab kann beide Rezepte am Zauberstabladegerät zu
 
 ### Wetterstation, Einstellungen und Ton
 
-- Das automatische Wetter funktioniert ohne gekauften Gegenstand. Die optionale Wetterstation kostet **10.000 §**. Ein Sim mit **7 Logikpunkten** und **6 Mechanikpunkten** kann daran Wetter und Kalender ändern. Erreicht derselbe Sim **10 Punkte in beiden Fähigkeiten**, kann der Haushalt einmalig eine kostenlose Station erhalten.
+- **Die Wetterstation verdienen.** Die Station gibt es ausschließlich als einmalige Belohnung für den Haushalt. Du erhältst sie, sobald ein einzelner Sim **10 Punkte in Logik und 10 in Mechanik** erreicht. Das Spiel stellt sie auf ein freies Feld unter freiem Himmel auf dem Wohngrundstück und meldet den Erfolg. Ist der Hof vollgestellt, schaffe draußen etwas Platz. Bei einem Umzug folgt die Station der Familie.
+- **Die Station bedienen.** Wähle einen Sim mit mindestens **7 Punkten in Logik und 6 in Mechanik** und klicke auf die Station. Du kannst die Stärke von Regen, Gewittern, Hagel, Schneefall und Schneestürmen sowie die Dichte des Nebels einstellen. Magischer Regen und magischer Nebel haben eigene Menüpunkte. Du kannst auch das aktuelle Wetterphänomen beenden, die Jahreszeit wechseln oder einen Wochentag wählen. Ein Sim mit geringeren Fähigkeiten kann sich die Voraussetzungen anzeigen lassen. Die automatische Wettersteuerung läuft, sobald du das Grundstück lädst.
 - Im Wetterfenster lassen sich Durchnässung, Regenreaktionen, Krankheit, Winterkleidung, Schutzsuche bei Hagel, Regenpfützen, Pfützen beim Trocknen, Planschen, Schneemänner, das Löschen von Bränden durch Regen und Nebel nach Regen einzeln ein- oder ausschalten. Du kannst auch Effekte, Ton und Animationsleistung einstellen. Das Wetter folgt Spielpause, Spielgeschwindigkeit, Zoom und Kamera.
 - Der Mod enthält lokalisierte Ladebildschirme und das eigens komponierte Ladebildschirmstück *Pocztówka z doliny*.
 
@@ -51,9 +52,13 @@ Du brauchst eine installierte Vollversion von The Sims Legacy Collection in Vers
 
 Überlasse das Ändern der Spieldateien dem Installationsprogramm. Es prüft vor und nach jedem Patch die Prüfsummen und lässt `sims.exe` unverändert. Optionale Objekte werden nur angepasst, wenn eine unterstützte Version davon bereits installiert ist.
 
-## Im Spiel
+## Das Wetterprogramm für Windows
 
-Sobald du ein Grundstück lädst, wechselt das Wetter automatisch. Mit `Ctrl+Alt+R` öffnest du die Einstellungen für Niederschlag, Ton, Kalender und Spielmechanik. Die Objektmenüs verwenden die Spielsprache, das Wetterfenster übernimmt sie standardmäßig ebenfalls. Eine andere Sprache für das Wetterfenster wird beim nächsten Start aktiv.
+Die Desktopverknüpfung startet das Wetterprogramm zusammen mit dem Spiel. Drücke während des Spiels `Ctrl+Alt+R` oder doppelklicke auf das Wettersymbol im Infobereich von Windows neben der Uhr. Diese Einstellungen stehen dir bei jedem Haushalt zur Verfügung, auch wenn noch kein Sim die Station verdient hat.
+
+Wähle eine Voreinstellung für den Niederschlag oder passe einzelne Werte wie die Zahl der Regentropfen, die Größe der Schneeflocken und die Lautstärke des Sturmwinds an. Wind und Bewölkung lassen sich für das Grundstück einstellen und wieder auf Automatik schalten. Im Kalender kannst du die Länge der Jahreszeiten, den Tag und die Uhrzeit auf dem aktiven Wohngrundstück ändern. Die Spieloptionen bestimmen, wie sich das Wetter auf Sims und Haustiere auswirkt. Die Wettereffekte lassen sich auf 30 Bilder pro Sekunde begrenzen.
+
+Die Objektmenüs verwenden die Spielsprache. Das Wetterprogramm übernimmt sie standardmäßig. Wählst du für das Programm eine andere Sprache, gilt sie ab dem nächsten Start.
 
 ## Sicherung, Aktualisierung und Deinstallation
 
@@ -72,7 +77,7 @@ Wurde die Installation unterbrochen, wähle **Optionen → Änderungen zurückse
 
 | Herbstregen | Nebel über dem Grundstück |
 | --- | --- |
-| ![Herbstregen](../media/autumn.png) | ![Nebel über dem Grundstück](../media/weather.png) |
+| ![Herbstregen](../media/autumn.png) | ![Nebel über dem Grundstück](../media/fog.png) |
 
 | Hagel im Garten | Magischer Nebel |
 | --- | --- |

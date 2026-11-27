@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · **Suomi** · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
-Neljä vuodenaikaa The Sims Legacy Collectioniin. Ukkoskuuro voi ajaa simit sisälle, ja tuore lumi peittää pihan. Kun lataat tallennetun pelin, myös tontin sää ja kalenteri palautuvat. Tämä on fanien tekemä epävirallinen modi.
+Tämä fanien tekemä modi tuo The Sims Legacy Collectioniin neljä vuodenaikaa ja viikkokalenterin, jossa lauantai ja sunnuntai ovat vapaita työstä ja koulusta. Syksyllä puut saavat ruskavärit, ja talvella puutarhan peittää lumi. Simit voivat katsoa huomisen sääennusteen televisiosta, leikkiä lätäköissä, rakentaa lumiukkoja ja opetella kaksi säähän vaikuttavaa loitsua.
 
 ![Luminen puutarha](../media/winter.png)
 
@@ -22,9 +22,9 @@ Neljä vuodenaikaa The Sims Legacy Collectioniin. Ukkoskuuro voi ajaa simit sis�
 ### Sää puutarhassa ja simien arjessa
 
 - Sadetta, ukkosta, rakeita, lunta, lumimyrskyjä ja sumua esiintyy automaattisesti. Sateen jälkeen voi nousta sumu. Tuuli kuljettaa pisaroita ja syksyn lehtiä. Salamaa seuraa jyrähdys, katoilta valuu vettä, ja sade voi sammuttaa taivasalla palavan tulen, myös salaman sytyttämän.
-- Sade kastelee suojattomat kasvit, ja voimakas raekuuro voi vahingoittaa koristekasveja. Öisin pensaiden ja kukkien luona näkyy tulikärpäsiä, varsinkin kesällä. Syksyllä lehdet saavat ruskavärit ja putoavat. Talvella syntyy kuuraa, ja lumi peittää maan, katot, tiet, aidat, kasvit, pihatavarat ja hautakivet. Sään lämmetessä lumi sulaa.
+- Sade kastelee suojattomat kasvit, ja voimakas raekuuro voi vahingoittaa koristekasveja. Öisin pensaiden ja kukkien luona näkyy tulikärpäsiä, varsinkin kesällä. Syksyllä lehdet saavat ruskavärit ja putoavat. Talvella lumi peittää maan, katot, tiet, aidat, kasvit, pihatavarat ja hautakivet. Sään lämmetessä lumi sulaa.
 - Simit, koirat ja kissat kastuvat ulkona ja kuivuvat nopeammin katon alla. Ne voivat hakeutua suojaan ja jättää kuivuessaan mopattavan lätäkön. Pitkään läpimärkänä ollut sim voi sairastua, yskiä ja aivastella. Hän toipuu kuivassa paikassa. Lapset voivat mennä oma-aloitteisesti leikkimään lätäkköön. Myös aikuiset voivat käskystä loiskutella huvikseen.
-- Pakkasella simit voivat vaihtaa ulkona talvivaatteisiin. Osta **§1** maksava lumiukon rakennuspaikka pihalle. Kun lumipeite yltää **60 prosenttiin**, siinä voi rakentaa lumiukon myös yhteisö- ja lomatonteilla.
+- Pakkasella simit vaihtavat ulkona talviasuun pyörähtämällä ja pukevat sisällä taas aiemmat vaatteensa. He käyttävät ostamaansa talviasua. Jos simillä ei ole omaa talviasua, hänelle arvotaan asu myös tulevia ulkoiluja varten. Osta **§1** maksava lumiukon rakennuspaikka pihalle. Kun lumipeite yltää **60 prosenttiin**, siinä voi rakentaa lumiukon myös yhteisö- ja lomatonteilla. Paikalla kasvaa luonnonkukkia, kun kasvit ovat lumettomia. Kun kasvit peittyvät lumeen, kukat vaihtuvat lumikasaksi.
 
 ### Kaksi uutta loitsua loitsukirjaan
 
@@ -36,7 +36,8 @@ Taikasauvan omistava aikuinen sim valmistaa loitsun sauvan latauslaitteessa. Yks
 
 ### Sääasema, asetukset ja äänet
 
-- Automaattinen sää toimii ilman hankintoja. **§10 000** maksavalla sääasemalla voi muuttaa säätä ja kalenteria, kun simillä on **7 logiikka- ja 6 mekaniikkapistettä**. Jos sama sim saa **10 pistettä molemmissa taidoissa**, perhe voi saada yhden sääaseman palkinnoksi.
+- **Sääaseman ansaitseminen.** Kun yksi perheen sim saa **10 pistettä sekä logiikassa että mekaniikassa**, perhe saa palkinnoksi sääaseman. Se sijoitetaan vapaaseen ulkopaikkaan kotitontilla. Sääaseman saa vain palkintona ja vain kerran perhettä kohden. Sää vaihtuu automaattisesti jo ennen palkinnon saamista.
+- **Sääaseman käyttö.** Jos simin taidot eivät vielä riitä, asema kertoo, kuinka monta taitopistettä sen käyttöön tarvitaan. Vähintään **7 logiikkapisteellä ja 6 mekaniikkapisteellä** sim voi vaihtaa vuodenaikaa ja viikonpäivää sekä käynnistää sateen, ukkosen, raesateen, lumisateen, lumimyrskyn, sumun, taikasateen tai taikasumun. Jokaiselle sääilmiölle on kolme voimakkuutta, ja käynnissä olevan ilmiön voi lopettaa.
 - Sääpaneelista voi säätää erikseen kastumista, sadereaktioita, sairautta, talvivaatetusta, rakeilta suojautumista, sateen tai kuivumisen synnyttämiä lätäköitä, loiskuttelua, lumiukkoja, tulipalojen sammumista sateessa ja sateenjälkeistä sumua. Myös tehosteita, ääniä ja animaation suorituskykyä voi säätää. Sää seuraa taukoa, pelinopeutta, zoomausta ja kameraa.
 - Modissa on käännetyt latausruudut sekä oma latausmusiikki, *Pocztówka z doliny*.
 
@@ -51,9 +52,11 @@ Tarvitset 64-bittisen Windowsin, asennetun The Sims Legacy Collectionin täysver
 
 Anna asennusohjelman päivittää pelitiedostot. Se tarkistaa tiedostojen tarkistussummat ennen muutoksia ja niiden jälkeen. `sims.exe` säilyy ennallaan. Valinnaiset esineet päivitetään vain, jos niiden tuettu versio on jo asennettu.
 
-## Pelaaminen
+## Sääohjelman asetukset
 
-Kun lataat tontin, sää vaihtuu automaattisesti. Pikanäppäimellä `Ctrl+Alt+R` voit säätää sateita, ääntä, kalenteria ja sään vaikutuksia pelaamiseen. Esineiden valikot seuraavat pelin kieltä. Myös sääpaneeli käyttää oletuksena pelin kieltä. Jos valitset paneelille toisen kielen, muutos tulee voimaan seuraavalla käynnistyskerralla.
+Työpöydän pikakuvake käynnistää pelin, sääohjelman ja palvelun, joka sovittaa tontin sään ja kalenterin pelitallennukseen. Voit avata asetukset pelin aikana näppäinyhdistelmällä `Ctrl+Alt+R` tai kaksoisnapsauttamalla sääkuvaketta Windowsin ilmoitusalueella.
+
+Sateella, ukkosella, lumella ja sumulla on omat välilehtensä. Voit säätää esimerkiksi sateen voimakkuutta, sumun tiheyttä ja äänenvoimakkuutta. Tuulelle, pilvisyydelle ja tulikärpäsille on omat asetukset. Kalenterista voit vaihtaa viikonpäivää ja vuodenaikaa. Peliasetuksista voit valita, miten sää vaikuttaa simeihin. Esineiden valikot ja sääohjelma käyttävät oletuksena pelin kieltä. Ohjelman kielen vaihtaminen tulee voimaan seuraavalla käynnistyskerralla.
 
 ## Varmuuskopiot, päivitykset ja poistaminen
 
@@ -72,7 +75,7 @@ Jos asennus keskeytyi, valitse **Asetukset → Kumoa muutokset**. Jos palautus i
 
 | Syksyinen sade | Tontti sumun peitossa |
 | --- | --- |
-| ![Syksyinen sade](../media/autumn.png) | ![Tontti sumun peitossa](../media/weather.png) |
+| ![Syksyinen sade](../media/autumn.png) | ![Tontti sumun peitossa](../media/fog.png) |
 
 | Raesade puutarhassa | Taikasumu |
 | --- | --- |

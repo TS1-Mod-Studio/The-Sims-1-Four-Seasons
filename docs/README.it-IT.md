@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · **Italiano** · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
-Le quattro stagioni arrivano in The Sims Legacy Collection. Un temporale può far correre i tuoi Sim al riparo e la neve fresca si posa in giardino. Quando carichi una partita ritrovi il meteo e il calendario del lotto. Questa è una mod non ufficiale creata dagli appassionati.
+Con questa espansione creata dagli appassionati per The Sims Legacy Collection, ogni famiglia ha il proprio calendario delle stagioni e previsioni meteo locali. Nel fine settimana i Sim hanno due giorni liberi dal lavoro e dalla scuola. La pioggia innaffia il giardino, un Sim che resta a lungo fradicio può ammalarsi e, quando si accumula abbastanza neve, la famiglia può fare un pupazzo di neve. Con due nuovi incantesimi, i Sim dotati di bacchetta possono evocare fenomeni meteorologici magici sul lotto.
 
 ![Il giardino innevato](../media/winter.png)
 
@@ -22,9 +22,9 @@ Le quattro stagioni arrivano in The Sims Legacy Collection. Un temporale può fa
 ### Il tempo in giardino e in casa
 
 - Pioggia, temporali, grandine, neve, bufere e nebbia possono arrivare spontaneamente. Dopo un acquazzone può formarsi la nebbia. Il vento spinge la pioggia e le foglie autunnali attraverso il lotto. Ai lampi segue il tuono, l’acqua scorre dai tetti e la pioggia normale può spegnere un incendio all’aperto, anche se innescato da un fulmine.
-- La pioggia innaffia le piante a cielo aperto. Le grandinate forti possono danneggiare le piante ornamentali all’esterno. Di notte, soprattutto in estate, le lucciole si accendono vicino a cespugli e fiori. In autunno le foglie cambiano colore. In inverno brina e neve si depositano sul terreno, sui tetti, sulle strade, sulle recinzioni, sulle piante, sugli oggetti all’aperto e sulle lapidi, per poi sciogliersi quando sale la temperatura.
+- La pioggia innaffia le piante a cielo aperto. Le grandinate forti possono danneggiare le piante ornamentali all’esterno. Di notte, soprattutto in estate, le lucciole si accendono vicino a cespugli e fiori. In autunno le foglie cambiano colore. In inverno la neve ricopre il prato, i tetti, le strade, le recinzioni, le piante, gli oggetti all’aperto e le lapidi. Si scioglie gradualmente quando sale la temperatura.
 - Sim, gatti e cani si bagnano all’aperto e si asciugano più rapidamente al riparo. Possono cercare un tetto o lasciare una piccola pozzanghera che si può asciugare con lo spazzolone. Un Sim che rimane fradicio a lungo può ammalarsi, tossire e starnutire. Si riprenderà in un posto asciutto. I bambini possono sguazzare di propria iniziativa nelle pozzanghere all’aperto. Puoi chiedere sia agli adulti sia ai bambini di giocarci.
-- Quando la temperatura scende sotto zero, i Sim all’aperto possono indossare abiti invernali. Acquista per **1 §** una postazione per il pupazzo di neve e sistemala all’aperto. Quando la copertura nevosa raggiunge il **60%**, i Sim possono costruirvi un pupazzo di neve, anche sui lotti comunitari e di vacanza.
+- Sotto zero, i Sim all’aperto fanno una piroetta per indossare gli abiti invernali. Al rientro rimettono il completo precedente. Usano il completo invernale che hanno acquistato. Chi non ne ha uno ne riceve uno scelto a caso, che conserverà per le uscite successive. Acquista per **1 §** una postazione per il pupazzo di neve e sistemala all’aperto. Quando la copertura nevosa raggiunge il **60%**, i Sim possono costruirvi un pupazzo di neve, anche sui lotti comunitari e di vacanza. Sul posto crescono fiori di campo mentre le piante sono libere dalla neve. Quando le piante si coprono di neve, al posto dei fiori appare un mucchio di neve.
 
 ### Due nuovi incantesimi nel libro delle magie
 
@@ -36,7 +36,8 @@ Un Sim adulto con una bacchetta può preparare entrambe le ricette nel caricabac
 
 ### Stazione meteorologica, impostazioni e suono
 
-- Il meteo automatico funziona senza acquistare oggetti. La stazione meteorologica facoltativa costa **10.000 §**. Un Sim con **7 punti in logica** e **6 in meccanica** può usarla per cambiare il meteo e il calendario. Se lo stesso Sim arriva a **10 in entrambe le abilità**, la famiglia può ottenere una stazione gratuita una volta.
+- **Ottenere la stazione meteorologica.** La stazione si ottiene soltanto come ricompensa, una volta per famiglia. Un singolo Sim deve raggiungere **10 punti in logica e 10 in meccanica**. Il gioco colloca la stazione in una casella libera a cielo aperto sul lotto di casa e annuncia la ricompensa. Se il giardino è pieno, libera un po’ di spazio. La stazione segue la famiglia quando trasloca.
+- **Usare la stazione.** Seleziona un Sim con almeno **7 punti in logica e 6 in meccanica** e fai clic sulla stazione. Puoi scegliere l’intensità di pioggia, temporali, grandine, nevicate e bufere di neve, oppure la densità della nebbia. La pioggia e la nebbia magiche hanno comandi dedicati. Puoi anche interrompere il fenomeno in corso, cambiare stagione o scegliere il giorno della settimana. Un Sim meno esperto può consultare i requisiti. Il meteo è automatico fin dal caricamento del lotto.
 - Nel pannello meteo puoi attivare separatamente gli effetti del bagnarsi, le reazioni alla pioggia, le malattie, gli abiti invernali, la ricerca di riparo dalla grandine, le pozzanghere di pioggia, quelle lasciate quando ci si asciuga, i giochi nelle pozzanghere, i pupazzi di neve, lo spegnimento degli incendi con la pioggia e la nebbia dopo la pioggia. Puoi anche regolare gli effetti, il suono e le prestazioni delle animazioni. Il meteo segue la pausa, la velocità di gioco, lo zoom e la telecamera.
 - La mod comprende schermate di caricamento tradotte e un brano originale per il caricamento, *Pocztówka z doliny*.
 
@@ -51,9 +52,13 @@ Occorrono la versione completa di The Sims Legacy Collection **1.10.0** o **1.10
 
 Lascia che sia il programma di installazione ad applicare le modifiche. Verifica le somme di controllo dei file prima e dopo ogni modifica e lascia intatto `sims.exe`. Gli oggetti facoltativi vengono aggiornati solo se ne è già installata una versione supportata.
 
-## Durante il gioco
+## L’applicazione meteo per Windows
 
-Carica un lotto per attivare il meteo automatico. Premi `Ctrl+Alt+R` per regolare precipitazioni, audio, calendario ed effetti sul gioco. I menu degli oggetti usano la lingua del gioco. Il pannello meteo adotta la stessa lingua per impostazione predefinita. Se scegli una lingua diversa per il pannello, la modifica avrà effetto all’avvio successivo.
+Il collegamento della mod avvia l’applicazione meteo insieme al gioco. Per aprire i comandi, premi `Ctrl+Alt+R` mentre giochi o fai doppio clic sull’icona del meteo accanto all’orologio di Windows. Le impostazioni sono disponibili per ogni famiglia, anche prima che un Sim ottenga la stazione.
+
+Scegli un profilo per le precipitazioni oppure regola il numero di gocce di pioggia, la dimensione dei fiocchi di neve o il volume del vento durante i temporali. Puoi impostare il vento e la nuvolosità del lotto e poi ripristinare la gestione automatica. Nel calendario puoi cambiare la durata delle stagioni, il giorno e l’ora sul lotto residenziale attivo. Le opzioni di gioco determinano gli effetti del meteo sui Sim e sugli animali domestici. Puoi anche limitare gli effetti meteorologici a 30 fotogrammi al secondo.
+
+I menu degli oggetti usano la lingua del gioco. L’applicazione adotta la stessa lingua per impostazione predefinita. Se ne scegli un’altra per l’applicazione, la modifica avrà effetto al suo prossimo avvio.
 
 ## Backup, aggiornamento e disinstallazione
 
@@ -72,7 +77,7 @@ Se l’installazione si interrompe, scegli **Opzioni → Annulla modifiche**. Se
 
 | Pioggia autunnale | Nebbia sul lotto |
 | --- | --- |
-| ![Pioggia autunnale](../media/autumn.png) | ![Nebbia sul lotto](../media/weather.png) |
+| ![Pioggia autunnale](../media/autumn.png) | ![Nebbia sul lotto](../media/fog.png) |
 
 | Grandine in giardino | Nebbia magica |
 | --- | --- |

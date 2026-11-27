@@ -4,7 +4,7 @@
 
 **English** · [Polski](docs/README.pl-PL.md) · [Dansk](docs/README.da-DK.md) · [Deutsch](docs/README.de-DE.md) · [Español](docs/README.es-ES.md) · [Suomi](docs/README.fi-FI.md) · [Français](docs/README.fr-FR.md) · [Italiano](docs/README.it-IT.md) · [日本語](docs/README.ja-JP.md) · [한국어](docs/README.ko-KR.md) · [Norsk bokmål](docs/README.nb-NO.md) · [Nederlands](docs/README.nl-NL.md) · [Português (Brasil)](docs/README.pt-BR.md) · [Svenska](docs/README.sv-SE.md) · [ไทย](docs/README.th-TH.md) · [简体中文](docs/README.zh-CN.md) · [繁體中文](docs/README.zh-TW.md)
 
-Four seasons for The Sims Legacy Collection. A storm can send your Sims running indoors, fresh snow settles on the garden, and the lot’s weather and calendar pick up where you left them when you load your save. This is an unofficial fan mod.
+Four Seasons is a fan-made expansion for The Sims Legacy Collection. Each household has its own seasonal calendar and local weather forecast, with weekends off from school and work. Rain waters the garden, a Sim who stays soaked can fall ill, and deep winter snow gives the family a chance to build a snowman. Two new spells let Sims with wands summon magical mist or rain on their lot.
 
 ![A snow-covered garden](media/winter.png)
 
@@ -22,9 +22,9 @@ Four seasons for The Sims Legacy Collection. A storm can send your Sims running 
 ### Weather in the garden and in the house
 
 - Rain, thunderstorms, hail, snow, blizzards and fog can arrive on their own. Rain can give way to fog. Wind carries rain and autumn leaves across the lot. Lightning is followed by thunder, water runs off roofs, and ordinary rain can put out an outdoor fire, including one started by lightning.
-- Rain waters exposed plants. Heavy hail can damage outdoor ornamental plants. Fireflies appear near shrubs and flowers at night, especially in summer. In autumn the foliage changes colour. In winter frost and snow accumulate on the ground, roofs, roads, fences, plants, outdoor objects and gravestones, then melt as conditions warm.
+- Rain waters exposed plants. Heavy hail can damage outdoor ornamental plants. Fireflies appear near shrubs and flowers at night, especially in summer. In autumn the foliage changes colour. In winter, snow covers lawns, roofs, roads, fences, plants, outdoor objects and gravestones. It gradually melts as the weather warms up.
 - Sims, cats and dogs get wet outdoors and dry faster under cover. They may seek shelter or leave a small puddle that can be mopped up. After a long soaking, a Sim can fall ill, cough and sneeze, then recover somewhere dry. Children may splash in outdoor puddles on their own. Adults and children can do it for fun when directed.
-- Sims can change into winter clothes outdoors below freezing. Buy a snowman building spot for **§1** and place it outside. When snow cover reaches **60%**, Sims can build there, including on community and vacation lots.
+- Below freezing, Sims spin into their winter outfit outdoors and change back inside. They wear the outfit they bought. A Sim without one gets a randomly selected coat that they keep for future outings. Buy a snowman building spot for **§1** and place it outside. When snow cover reaches **60%**, Sims can build there, including on community and vacation lots. The spot blooms when plants are free of snow and turns into a snow pile when they become snow-covered.
 
 ### Two new spells for the spellbook
 
@@ -36,7 +36,8 @@ An adult Sim with a wand can prepare either recipe in the wand charger. Use one 
 
 ### Forecasts, weather control and sound
 
-- Automatic weather needs no purchased object. The optional weather station costs **§10,000**. A Sim with **7 Logic** and **6 Mechanical** can use its controls to change weather and calendar settings. If one Sim reaches **10 in both skills**, the household can earn a free station once.
+- **Earning the weather station.** The station is available only as a household reward. When one Sim reaches **10 Logic and 10 Mechanical**, the household earns a station, once per family. On the home lot, the game places it on a free outdoor tile and displays an achievement message. If space is tight, leave a clear spot in the yard. The station follows the family when it moves.
+- **Using the station.** Click it with a Sim who has at least **7 Logic and 6 Mechanical**. Choose the intensity of rain, thunderstorms, hail, snow or blizzards, or the density of fog. Magical rain and magical mist have their own controls. The station can also end the current effect or change the season and weekday. A Sim who needs more skill points can check the requirements there. Weather runs automatically from the moment you load a lot.
 - The weather panel has individual switches for wetness, rain reactions, illness, winter clothes, shelter from hail, rain puddles, drying puddles, splashing, snowmen, firefighting by rain and fog after rain. You can also tune effects, sound and animation performance. Weather follows the game’s pause, speed, zoom and camera.
 - The mod includes localized loading screens and an original loading theme, *Pocztówka z doliny*.
 
@@ -51,9 +52,13 @@ You need the full The Sims Legacy Collection installed on 64-bit Windows, game b
 
 Let the installer patch the game files. It checks their hashes before and after applying each patch and leaves `sims.exe` intact. It patches optional objects only when a supported version is already installed.
 
-## Playing
+## Weather settings for Windows
 
-Load a lot to see automatic weather. Press `Ctrl+Alt+R` to open the panel for precipitation, sound, the calendar and gameplay settings. Object menus follow the game language. The panel also follows the game language by default. A language you select in the panel takes effect on the next launch.
+The desktop shortcut starts the weather app alongside the game. Press `Ctrl+Alt+R` while playing, or double-click the weather icon in the Windows notification area, to open its controls. These settings are available to the player in every household, including before a Sim earns the station.
+
+Choose a precipitation preset or adjust details such as the number of raindrops, snowflake size, and the volume of storm wind. The wind and cloud controls let you set local conditions and return them to automatic control. In the calendar you can edit the season length, day and hour on the active home lot. Gameplay switches control how the weather affects Sims and pets. You can also limit weather effects to 30 frames per second.
+
+Object menus use the game’s language. The app follows that language by default. If you select another language for the app, it takes effect the next time you launch it.
 
 ## Backups, updates and removal
 
@@ -72,7 +77,7 @@ After an interrupted installation, use **Options → Roll back**. If restoration
 
 | Autumn rain | Fog over the lot |
 | --- | --- |
-| ![Autumn rain](media/autumn.png) | ![Fog over the lot](media/weather.png) |
+| ![Autumn rain](media/autumn.png) | ![Fog over the lot](media/fog.png) |
 
 | Hail in the garden | Magical mist |
 | --- | --- |

@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · **Français** · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
-Les quatre saisons arrivent dans The Sims Legacy Collection. Un orage peut pousser vos Sims à rentrer et la neige tient jusque dans le jardin. Lorsque vous chargez une sauvegarde, vous retrouvez la météo et le calendrier de votre terrain. Ce mod est une création non officielle de fans.
+Avec cette extension créée par des fans pour The Sims Legacy Collection, chaque foyer a un calendrier des saisons et des prévisions météo locales. L’école et le travail s’arrêtent le week-end. La pluie arrose le jardin, un Sim trempé peut prendre froid et, lorsque la couche de neige est assez épaisse, toute la famille peut faire un bonhomme de neige. Deux nouveaux sorts permettent aux Sims munis d’une baguette de invoquer une brume ou une pluie magique sur leur terrain.
 
 ![Jardin sous la neige](../media/winter.png)
 
@@ -22,9 +22,9 @@ Les quatre saisons arrivent dans The Sims Legacy Collection. Un orage peut pouss
 ### Au jardin et dans la maison
 
 - Pluie, orages, grêle, neige, blizzards et brouillard peuvent arriver spontanément. Le brouillard peut s’installer après une averse. Le vent emporte la pluie et les feuilles d’automne à travers le terrain. Le tonnerre suit les éclairs, l’eau ruisselle des toits et une pluie ordinaire peut éteindre un incendie en plein air, même si la foudre l’a provoqué.
-- La pluie arrose les plantes à découvert. Une forte grêle peut abîmer les plantes d’ornement à l’extérieur. La nuit, surtout en été, des lucioles s’allument près des buissons et des fleurs. En automne, le feuillage change de couleur. En hiver, le givre et la neige s’accumulent sur le sol, les routes, les toits, les clôtures, la végétation, les objets de jardin et les pierres tombales, puis fondent avec le redoux.
+- La pluie arrose les plantes à découvert. Une forte grêle peut abîmer les plantes d’ornement à l’extérieur. La nuit, surtout en été, des lucioles s’allument près des buissons et des fleurs. En automne, le feuillage change de couleur. En hiver, la neige recouvre les pelouses, les routes, les toits, les clôtures, la végétation, les objets de jardin et les pierres tombales. Elle fond peu à peu lorsque la température remonte.
 - Les Sims, les chats et les chiens se mouillent à l’extérieur et sèchent plus vite à l’abri. Ils peuvent chercher refuge ou laisser une petite flaque qu’un Sim pourra éponger. Un Sim trempé trop longtemps risque de tomber malade, de tousser et d’éternuer. Il peut se rétablir en restant au sec. Les enfants peuvent patauger de leur propre initiative dans les flaques à l’extérieur. Vous pouvez aussi demander aux adultes comme aux enfants d’y jouer.
-- Sous zéro, les Sims peuvent enfiler leurs vêtements d’hiver en sortant. Achetez pour **1 §** un emplacement de bonhomme de neige et placez-le dehors. À partir de **60 %** d’enneigement, les Sims peuvent y construire leur bonhomme, y compris sur les terrains communautaires et de vacances.
+- Quand il gèle, les Sims font un tour sur eux-mêmes pour enfiler leur tenue d’hiver dehors. À l’intérieur, ils reprennent leur tenue précédente. Ils portent la tenue d’hiver qu’ils ont achetée. Un Sim qui n’en a pas reçoit une tenue tirée au sort qu’il garde pour ses prochaines sorties. Achetez pour **1 §** un emplacement de bonhomme de neige et placez-le dehors. À partir de **60 %** d’enneigement, les Sims peuvent y construire leur bonhomme, y compris sur les terrains communautaires et de vacances. Des fleurs sauvages y poussent tant que les plantes sont dégagées. Quand la neige recouvre les plantes, les fleurs cèdent la place à un tas de neige.
 
 ### Deux nouveaux sorts dans le grimoire
 
@@ -36,7 +36,8 @@ Un Sim adulte muni d’une baguette peut préparer les deux recettes avec le cha
 
 ### Station météo, réglages et sons
 
-- La météo automatique fonctionne dès votre arrivée sur le terrain. La station météo facultative coûte **10 000 §**. Avec **7 points en logique** et **6 en mécanique**, un Sim peut s’en servir pour modifier la météo ou le calendrier. Si un même Sim atteint **10 dans les deux compétences**, le foyer peut recevoir une station gratuite une fois.
+- **Obtenir la station météo.** La station s’obtient uniquement en récompense, une fois par foyer. Un même Sim doit atteindre **10 points en logique et 10 en mécanique**. Le jeu place alors la station sur une case libre à ciel ouvert sur le terrain résidentiel et affiche un message. Si le jardin est encombré, libérez-y un emplacement. La station suit la famille lorsqu’elle déménage.
+- **Commander la station.** Sélectionnez un Sim ayant au moins **7 points en logique et 6 en mécanique**, puis cliquez sur la station. Vous pouvez choisir l’intensité de la pluie, de l’orage, de la grêle, de la neige ou du blizzard, ainsi que la densité du brouillard. La pluie et la brume magiques ont leurs propres commandes. Vous pouvez aussi arrêter le phénomène en cours, changer de saison ou choisir le jour de la semaine. Un Sim moins expérimenté peut consulter les compétences requises. La météo automatique fonctionne dès le chargement du terrain.
 - Le panneau météo permet de régler séparément les effets suivants : les vêtements et le pelage qui se mouillent, les réactions à la pluie, les maladies, les tenues d’hiver, la recherche d’un abri en cas de grêle, les flaques de pluie, les flaques laissées en séchant, les jeux dans les flaques, les bonshommes de neige, l’extinction des feux par la pluie et le brouillard après la pluie. Vous pouvez aussi régler les effets visuels, le son et les performances de l’animation. La météo suit la pause, la vitesse du jeu, le zoom et la caméra.
 - Le mod comprend des écrans de chargement traduits et un thème musical original, *Pocztówka z doliny*.
 
@@ -51,9 +52,13 @@ La version complète de The Sims Legacy Collection **1.10.0** ou **1.10.7** doit
 
 Laissez le programme d’installation modifier les fichiers du jeu. Il vérifie leurs sommes de contrôle avant et après chaque modification et conserve `sims.exe` intact. Les objets facultatifs sont mis à jour uniquement si une version compatible est déjà installée.
 
-## En jeu
+## L’application météo pour Windows
 
-Chargez un terrain pour activer la météo automatique. Appuyez sur `Ctrl+Alt+R` pour régler les précipitations, le son, le calendrier et les effets sur les Sims. Les menus des objets utilisent la langue du jeu. Le panneau météo l’adopte par défaut. Si vous choisissez une autre langue pour le panneau, elle sera utilisée au prochain démarrage.
+Le raccourci du mod lance l’application météo en même temps que le jeu. Pour ouvrir ses réglages, appuyez sur `Ctrl+Alt+R` en jouant ou double-cliquez sur l’icône météo près de l’horloge de Windows. Ces réglages sont accessibles dans chaque foyer, même avant l’obtention de la station.
+
+Choisissez un préréglage de précipitations ou ajustez vous-même le nombre de gouttes de pluie, la taille des flocons ou le volume du vent pendant un orage. Vous pouvez régler le vent et la couverture nuageuse sur le terrain, puis rétablir leur gestion automatique. Le calendrier permet de modifier la durée des saisons, le jour et l’heure sur le terrain résidentiel actif. Les options de jeu règlent les effets de la météo sur les Sims et leurs animaux. Vous pouvez aussi limiter les effets météo à 30 images par seconde.
+
+Les menus des objets utilisent la langue du jeu. L’application l’adopte par défaut. Si vous en choisissez une autre dans l’application, elle sera utilisée au prochain lancement.
 
 ## Sauvegardes, mises à jour et désinstallation
 
@@ -72,7 +77,7 @@ Si l’installation a été interrompue, choisissez **Options → Annuler les mo
 
 | Pluie d’automne | Brouillard sur le terrain |
 | --- | --- |
-| ![Pluie d’automne](../media/autumn.png) | ![Brouillard sur le terrain](../media/weather.png) |
+| ![Pluie d’automne](../media/autumn.png) | ![Brouillard sur le terrain](../media/fog.png) |
 
 | Grêle dans le jardin | Brume magique |
 | --- | --- |

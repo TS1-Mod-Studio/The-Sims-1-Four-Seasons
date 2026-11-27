@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · **Svenska** · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
-Fyra årstider i The Sims Legacy Collection. Ett åskväder kan få dina simmar att springa inomhus, och nysnö lägger sig i trädgården. När du laddar ett sparat spel får tomten tillbaka sitt väder och sin kalender. Det här är en inofficiell mod gjord av fans.
+Den här fanskapade modden ger hushållen i The Sims Legacy Collection ett år med fyra årstider och en kalender med lediga helger för både skolbarn och arbetande simmar. På hösten skiftar träden färg och på vintern täcks trädgården av snö. Simmarna kan se morgondagens väderprognos på tv, plaska i vattenpölar, bygga snögubbar och lära sig två besvärjelser som förändrar vädret.
 
 ![En snötäckt trädgård](../media/winter.png)
 
@@ -22,9 +22,9 @@ Fyra årstider i The Sims Legacy Collection. Ett åskväder kan få dina simmar 
 ### Vädret i trädgården och i huset
 
 - Regn, åskväder, hagel, snö, snöstormar och dimma kan dra in av sig själva. Efter regn kan det bli dimma. Vinden sveper med sig regn och höstlöv över tomten. Efter blixten hörs åskan, vatten rinner från taken och vanligt regn kan släcka en brand under bar himmel, även en som startats av ett blixtnedslag.
-- Regnet vattnar växterna under bar himmel. Kraftiga hagelskurar kan skada prydnadsväxter utomhus. På natten syns eldflugor kring buskar och blommor, särskilt på sommaren. Om hösten skiftar löven färg. På vintern lägger sig frost och snö på mark, tak, vägar, staket, växter och föremål utomhus, även på gravstenar. Allt tinar när det blir varmare.
+- Regnet vattnar växterna under bar himmel. Kraftiga hagelskurar kan skada prydnadsväxter utomhus. På natten syns eldflugor kring buskar och blommor, särskilt på sommaren. Om hösten skiftar löven färg. På vintern lägger sig snön på mark, tak, vägar, staket, växter och föremål utomhus, även på gravstenar. Snön smälter när det blir varmare.
 - Simmar, katter och hundar blir våta utomhus och torkar fortare under tak. De kan söka skydd eller lämna en liten pöl som går att torka upp. En sim som är genomblöt länge kan bli sjuk, hosta och nysa. Simmen kan tillfriskna på en torr plats. Barn kan självmant plaska i vattenpölar utomhus. Du kan också be både vuxna och barn att plaska för skojs skull.
-- När temperaturen går under noll kan simmarna byta till vinterkläder utomhus. Köp en plats för att bygga snögubbar för **1 §** och ställ den utomhus. När snötäcket når **60 %** kan simmarna bygga en snögubbe där, även på allmänna tomter och semestertomter.
+- När det är minusgrader snurrar simmarna runt och byter till vinterkläder utomhus. Inomhus byter de tillbaka. De har på sig vinterkläderna de har köpt. En sim som saknar vinterkläder får en slumpvis vald klädsel som också används vid nästa utflykt. Köp en plats för att bygga snögubbar för **1 §** och ställ den utomhus. När snötäcket når **60 %** kan simmarna bygga en snögubbe där, även på allmänna tomter och semestertomter. Det växer vilda blommor på platsen när växterna är snöfria. När växterna täcks av snö blir blommorna till en snöhög.
 
 ### Två nya besvärjelser i trollformelboken
 
@@ -36,7 +36,8 @@ En vuxen sim med trollstav kan tillreda båda recepten i trollstavsladdaren. Anv
 
 ### Väderstation, inställningar och ljud
 
-- Det automatiska vädret fungerar utan att du köper något föremål. Den valfria väderstationen kostar **10 000 §**. En sim med **7 poäng i logik** och **6 i mekanik** kan använda den för att ändra vädret och kalendern. Om samma sim når **10 i båda färdigheterna** kan hushållet få en gratis station en gång.
+- **Så får hushållet en väderstation.** När en och samma sim når **10 i både logik och mekanik** får hushållet en station som engångsbelöning. Den placeras på en ledig plats utomhus på bostadstomten. Stationen går bara att få som belöning. Det automatiska vädret fungerar redan från början.
+- **Så använder simmarna stationen.** En sim som ännu saknar de färdigheter som krävs kan få stationen att visa kraven. Med minst **7 i logik och 6 i mekanik** kan simmen välja årstid och veckodag eller sätta i gång regn, åska, hagel, snöfall, snöstorm, dimma, magiskt regn eller magisk dimma. Varje vädertyp har tre styrkor och kan stängas av igen.
 - I väderpanelen kan du styra varje effekt för sig: att bli blöt, reaktioner på regn, sjukdomar, vinterkläder, att söka skydd för hagel, pölar efter regn, pölar som blir kvar när någon torkar, plaskande, snögubbar, regn som släcker bränder och dimma efter regn. Du kan också justera effekter, ljud och animeringsprestanda. Vädret följer spelets pauser, hastighet, zoom och kamera.
 - Modden innehåller översatta laddningsskärmar och det nyskrivna laddningstemat *Pocztówka z doliny*.
 
@@ -51,9 +52,11 @@ Du behöver ha den fullständiga versionen av The Sims Legacy Collection **1.10.
 
 Låt installationsprogrammet ändra spelfilerna. Det kontrollerar filernas kontrollsummor före och efter varje ändring och lämnar `sims.exe` orörd. Valfria föremål uppdateras bara om en version som stöds redan är installerad.
 
-## I spelet
+## Väderprogrammets inställningar
 
-Ladda en tomt för att se det automatiska vädret. Med `Ctrl+Alt+R` öppnar du inställningarna för nederbörd, ljud, kalender och vädrets inverkan på spelet. Föremålens menyer använder spelets språk. Väderpanelen följer också spelets språk som standard. Ett annat språk för panelen börjar gälla nästa gång du startar spelet.
+Genvägen på skrivbordet startar spelet, väderprogrammet och tjänsten som kopplar tomtens väder och kalender till den sparade spelomgången. Öppna inställningarna medan du spelar med `Ctrl+Alt+R` eller genom att dubbelklicka på väderikonen i meddelandefältet i Windows.
+
+Regn, åska, snö och dimma har egna flikar där du bland annat kan ställa in nederbördens intensitet, tätheten på dimman och ljudnivån. Vind, molnighet och eldflugor har också egna inställningar. I kalendern kan du ändra veckodag och årstid. I spelinställningarna väljer du hur vädret påverkar simmarna. Föremålens menyer och väderprogrammet använder spelets språk som standard. Byter du språk för programmet gäller det från nästa start.
 
 ## Säkerhetskopior, uppdateringar och avinstallation
 
@@ -72,7 +75,7 @@ Om installationen avbröts väljer du **Alternativ → Ångra ändringar**. Om �
 
 | Höstregn | Dimma över tomten |
 | --- | --- |
-| ![Höstregn](../media/autumn.png) | ![Dimma över tomten](../media/weather.png) |
+| ![Höstregn](../media/autumn.png) | ![Dimma över tomten](../media/fog.png) |
 
 | Hagel i trädgården | Magisk dimma |
 | --- | --- |

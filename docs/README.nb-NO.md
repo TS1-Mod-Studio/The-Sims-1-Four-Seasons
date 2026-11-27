@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Polski](README.pl-PL.md) · [Dansk](README.da-DK.md) · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · **Norsk bokmål** · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
-Fire årstider i The Sims Legacy Collection. Et tordenvær kan få simmene dine til å løpe inn, og nysnø legger seg i hagen. Når du laster inn et lagret spill, får tomten tilbake været og kalenderen sin. Dette er en uoffisiell mod laget av fans.
+Denne fanlagde modden gir hver husstand i The Sims Legacy Collection et år med fire årstider og en uke med fri fra skole og jobb i helgene. Om høsten skifter trærne farge, og om vinteren legger snøen seg i hagen. Simmene kan se morgendagens værmelding på TV, plaske i sølepytter, bygge snømenn og lære to trylleformler som forandrer været.
 
 ![En snødekt hage](../media/winter.png)
 
@@ -22,9 +22,9 @@ Fire årstider i The Sims Legacy Collection. Et tordenvær kan få simmene dine 
 ### Været i hagen og i huset
 
 - Regn, tordenvær, hagl, snø, snøstorm og tåke kan komme av seg selv. Etter regn kan det legge seg tåke. Vinden driver regn og høstløv over tomten. Etter lynet kommer tordenen, vannet renner fra takene, og vanlig regn kan slukke en brann under åpen himmel, også en som er startet av et lynnedslag.
-- Regnet vanner planter under åpen himmel. Kraftig hagl kan skade prydplanter utendørs. Om natten lyser ildfluer ved busker og blomster, særlig om sommeren. Om høsten skifter løvet farge. Om vinteren legger rim og snø seg på bakken, tak, veier, gjerder, planter og gjenstander utendørs, også på gravsteiner. Når været blir mildere, smelter det igjen.
+- Regnet vanner planter under åpen himmel. Kraftig hagl kan skade prydplanter utendørs. Om natten lyser ildfluer ved busker og blomster, særlig om sommeren. Om høsten skifter løvet farge. Om vinteren legger snøen seg på bakken, tak, veier, gjerder, planter og gjenstander utendørs, også på gravsteiner. Når været blir mildere, smelter snøen igjen.
 - Simmer, katter og hunder blir våte utendørs og tørker raskere under tak. De kan søke ly eller etterlate en liten dam som en sim kan tørke opp. En sim som er gjennomvåt lenge, kan bli syk, hoste og nyse. Simmen kan bli frisk igjen på et tørt sted. Barn kan plaske i sølepytter utendørs på eget initiativ. Du kan også be både voksne og barn om å plaske for moro skyld.
-- Når temperaturen faller under frysepunktet, kan simmene ta på seg vinterklær utendørs. Kjøp en plass for å bygge en snømann for **1 §**, og plasser den ute. Når snødekket når **60 %**, kan simmene bygge en snømann der, også på fellestomter og ferietomter.
+- Når det er minusgrader, snurrer simmene rundt og skifter til vinterklær ute. Inne skifter de tilbake. De bruker vinterantrekket de har kjøpt. En sim som ikke har kjøpt et vinterantrekk, får et tilfeldig antrekk og bruker det også på senere turer. Kjøp en plass for å bygge en snømann for **1 §**, og plasser den ute. Når snødekket når **60 %**, kan simmene bygge en snømann der, også på fellestomter og ferietomter. Det vokser ville blomster på plassen når plantene er snøfrie. Når plantene dekkes av snø, blir blomstene til en snøhaug.
 
 ### To nye trylleformler i trolldomsboken
 
@@ -36,7 +36,8 @@ En voksen sim med tryllestav kan tilberede begge oppskriftene i tryllestavladere
 
 ### Værstasjon, innstillinger og lyd
 
-- Det automatiske været fungerer uten at du kjøper noen gjenstander. Den valgfrie værstasjonen koster **10 000 §**. En sim med **7 poeng i logikk** og **6 i mekanikk** kan bruke den til å endre været og kalenderen. Hvis én og samme sim når **10 i begge ferdighetene**, kan husstanden få en gratis stasjon én gang.
+- **Slik får husstanden en værstasjon.** Når én og samme sim når **10 i både logikk og mekanikk**, får husstanden en stasjon som engangsbelønning. Den plasseres på en ledig plass utendørs på boligtomten. Stasjonen kan bare fås som belønning. Det automatiske været fungerer fra første dag.
+- **Slik bruker simmene stasjonen.** En sim som ennå mangler de nødvendige ferdighetene, kan sjekke kravene ved stasjonen. Med minst **7 i logikk og 6 i mekanikk** kan simmen velge årstid og ukedag eller sette i gang regn, tordenvær, hagl, snø, snøstorm, tåke, magisk regn eller magisk tåke. Hver værtype har tre styrkegrader og kan slås av igjen.
 - I værpanelet kan du styre virkningene enkeltvis. Du kan blant annet velge om simmene blir våte, reagerer på regn, blir syke, tar på vinterklær eller søker ly for hagl. Det finnes egne brytere for sølepytter etter regn, dammer som blir igjen når noen tørker, plasking, snømenn, regn som slukker branner og tåke etter regn. Du kan også justere effekter, lyd og animasjonsytelse. Været følger spillets pauser, hastighet, zoom og kamera.
 - Modden inneholder oversatte innlastingsskjermer og en original melodi til innlastingen, *Pocztówka z doliny*.
 
@@ -51,9 +52,11 @@ Du trenger fullversjonen av The Sims Legacy Collection **1.10.0** eller **1.10.7
 
 La installasjonsprogrammet endre spillfilene. Det kontrollerer filenes sjekksummer før og etter hver endring, og `sims.exe` forblir uendret. Valgfrie gjenstander oppdateres bare hvis du allerede har installert en versjon som støttes.
 
-## I spillet
+## Innstillinger i værprogrammet
 
-Last inn en tomt for å se det automatiske været. Med `Ctrl+Alt+R` åpner du innstillingene for nedbør, lyd, kalender og virkninger på spillet. Menyene for gjenstander bruker spillets språk. Værpanelet bruker også dette språket som standard. Hvis du velger et annet språk i panelet, gjelder det fra neste gang du starter spillet.
+Skrivebordssnarveien starter spillet, værprogrammet og tjenesten som knytter været og kalenderen på tomten til det lagrede spillet. Åpne innstillingene mens du spiller med `Ctrl+Alt+R` eller ved å dobbeltklikke på værikonet i systemstatusfeltet i Windows.
+
+Regn, tordenvær, snø og tåke har egne faner. Her kan du blant annet justere nedbørsmengde, tåketetthet og lydnivå. Vind, skydekke og ildfluer har også egne innstillinger. I kalenderen kan du endre ukedag og årstid. Under spillinnstillinger velger du hvordan været påvirker simmene. Menyene for gjenstander og værprogrammet følger spillets språk som standard. Hvis du velger et annet språk for programmet, tas det i bruk ved neste oppstart.
 
 ## Sikkerhetskopier, oppdatering og avinstallering
 
@@ -72,7 +75,7 @@ Hvis installasjonen ble avbrutt, velger du **Alternativer → Tilbakestill endri
 
 | Høstregn | Tåke over tomten |
 | --- | --- |
-| ![Høstregn](../media/autumn.png) | ![Tåke over tomten](../media/weather.png) |
+| ![Høstregn](../media/autumn.png) | ![Tåke over tomten](../media/fog.png) |
 
 | Hagl i hagen | Magisk tåke |
 | --- | --- |

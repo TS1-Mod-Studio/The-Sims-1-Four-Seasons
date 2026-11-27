@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Polski](README.pl-PL.md) · **Dansk** · [Deutsch](README.de-DE.md) · [Español](README.es-ES.md) · [Suomi](README.fi-FI.md) · [Français](README.fr-FR.md) · [Italiano](README.it-IT.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md) · [Norsk bokmål](README.nb-NO.md) · [Nederlands](README.nl-NL.md) · [Português (Brasil)](README.pt-BR.md) · [Svenska](README.sv-SE.md) · [ไทย](README.th-TH.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
-Fire årstider i The Sims Legacy Collection. Et tordenvejr kan få dine simmere til at søge indendørs, og nyfalden sne lægger sig i haven. Når du indlæser et gemt spil, får grunden sit vejr og sin kalender tilbage. Dette er en uofficiel mod lavet af fans.
+Dette fanmod til The Sims Legacy Collection giver hver husstand et år med fire årstider og en uge med fri fra skole og arbejde i weekenden. Om efteråret skifter træerne farve, og om vinteren dækker sneen haven. Dine simmere kan se morgendagens vejrudsigt på tv, hoppe i vandpytter, bygge snemænd og lære to besværgelser, der ændrer vejret.
 
 ![En snedækket have](../media/winter.png)
 
@@ -22,9 +22,9 @@ Fire årstider i The Sims Legacy Collection. Et tordenvejr kan få dine simmere 
 ### Vejret i haven og i huset
 
 - Regn, tordenvejr, hagl, sne, snestorme og tåge kan opstå af sig selv. Efter regn kan der dannes tåge. Vinden fører regn og efterårsblade hen over grunden. Efter et lyn kommer der torden, vandet løber ned fra tagene, og almindelig regn kan slukke en brand under åben himmel, også efter et lynnedslag.
-- Regnen vander planter under åben himmel. Kraftige haglbyger kan skade prydplanter udendørs. Om natten lyser ildfluer op ved buske og blomster, især om sommeren. Om efteråret skifter løvet farve. Om vinteren lægger rim og sne sig på jorden, tagene, vejene, hegnene, planterne og udendørs genstande, også gravsten. Når det bliver varmere, smelter det igen.
+- Regnen vander planter under åben himmel. Kraftige haglbyger kan skade prydplanter udendørs. Om natten lyser ildfluer op ved buske og blomster, især om sommeren. Om efteråret skifter løvet farve. Om vinteren lægger sneen sig på jorden, tagene, vejene, hegnene, planterne og udendørs genstande, også gravsten. Når det bliver varmere, smelter sneen igen.
 - Simmere, katte og hunde bliver våde udendørs og tørrer hurtigere under tag. De kan søge ly eller efterlade en lille vandpyt, som en simmer kan tørre op. En simmer, der er gennemblødt længe, kan blive syg, hoste og nyse og derefter komme sig i tørvejr. Børn kan på eget initiativ plaske i vandpytter udenfor. Du kan også bede både voksne og børn om at plaske for sjov.
-- Når temperaturen er under frysepunktet, kan simmerne skifte til vintertøj udendørs. Køb en plads til at bygge en snemand for **1 §**, og anbring den udenfor. Når snedækket når **60 %**, kan simmerne bygge en snemand dér, også på fællesgrunde og feriegrunde.
+- Når det fryser, snurrer simmerne rundt og skifter til vintertøj udenfor. Indenfor skifter de tilbage. De bruger det vintertøj, de har købt. Har en simmer ikke købt noget, får simmeren et tilfældigt sæt til denne og fremtidige ture. Køb en plads til at bygge en snemand for **1 §**, og anbring den udenfor. Når snedækket når **60 %**, kan simmerne bygge en snemand dér, også på fællesgrunde og feriegrunde. Der vokser vilde blomster på pladsen, når planterne er fri for sne. Når de bliver dækket af sne, bliver blomsterne til en snebunke.
 
 ### To nye trylleformularer i tryllebogen
 
@@ -36,7 +36,8 @@ En voksen simmer med en tryllestav kan tilberede begge opskrifter i stavopladere
 
 ### Vejrstation, indstillinger og lyd
 
-- Vejret skifter automatisk, uden at du behøver at købe noget. Den valgfrie vejrstation koster **10.000 §**. En simmer med **7 point i logik** og **6 i mekanik** kan bruge den til at ændre vejret og kalenderen. Hvis samme simmer opnår **10 i begge færdigheder**, kan husstanden få en gratis station én gang.
+- **Sådan får husstanden en vejrstation.** Når den samme simmer når **10 i både logik og mekanik**, får husstanden en station som engangsbelønning. Den bliver placeret på et ledigt sted udendørs på boliggrunden. Stationen fås kun som belønning. Det automatiske vejr fungerer fra starten.
+- **Sådan bruger simmerne stationen.** En simmer, der mangler de nødvendige færdigheder, kan få stationen til at vise kravene. Med mindst **7 i logik og 6 i mekanik** kan simmeren vælge årstid og ugedag eller sætte regn, tordenvejr, hagl, sne, snestorm, tåge, magisk regn eller magisk tåge i gang. Hver vejrtype har tre styrker og kan slås fra igen.
 - I vejrpanelet kan du slå de enkelte virkninger til og fra. Det gælder, om simmerne bliver våde, deres reaktioner på regn, sygdom, vintertøj, at søge ly for hagl, vandpytter efter regn eller tørring, leg i vandpytter, snemænd, regn der slukker brande og tåge efter regn. Du kan også justere de visuelle effekter, lyden og animationens ydeevne. Vejret følger pauser, spilhastighed, zoom og kamera.
 - Moddet indeholder oversatte indlæsningsskærme og en original melodi til indlæsningen, *Pocztówka z doliny*.
 
@@ -51,9 +52,11 @@ Du skal have den fulde udgave af The Sims Legacy Collection **1.10.0** eller **1
 
 Lad installationsprogrammet opdatere spilfilerne. Det kontrollerer hver fils kontrolsum før og efter ændringen. `sims.exe` forbliver urørt. Valgfrie genstande opdateres kun, hvis der allerede er installeret en understøttet version.
 
-## I spillet
+## Indstillinger i vejrprogrammet
 
-Indlæs en grund for at se det automatiske vejr. Med `Ctrl+Alt+R` åbner du indstillingerne for nedbør, lyd, kalender og vejrets indflydelse på spillet. Genstandenes menuer bruger spillets sprog. Vejrpanelet følger som udgangspunkt også spillets sprog. Hvis du vælger et andet sprog til panelet, træder ændringen i kraft, næste gang du starter spillet.
+Genvejen på skrivebordet starter spillet, vejrprogrammet og den tjeneste, der holder husstandens vejr og kalender sammen med dens gemte spil. Du kan åbne indstillingerne under spillet med `Ctrl+Alt+R` eller ved at dobbeltklikke på vejrikonet i Windows’ meddelelsesområde.
+
+Regn, tordenvejr, sne og tåge har hver deres fane. Her kan du blandt andet justere nedbørens styrke, tætheden af tågen og lydstyrken. Der er også indstillinger for vind, skydække og ildfluer. I kalenderen kan du ændre ugedag og årstid. Under spilindstillingerne vælger du, hvilke virkninger vejret har på dine simmere. Genstandenes menuer og vejrprogrammet følger som udgangspunkt spillets sprog. Et andet sprog til programmet træder i kraft ved næste start.
 
 ## Sikkerhedskopier, opdatering og afinstallation
 
@@ -72,7 +75,7 @@ Hvis installationen blev afbrudt, skal du vælge **Indstillinger → Fortryd æn
 
 | Efterårsregn | Tåge over grunden |
 | --- | --- |
-| ![Efterårsregn](../media/autumn.png) | ![Tåge over grunden](../media/weather.png) |
+| ![Efterårsregn](../media/autumn.png) | ![Tåge over grunden](../media/fog.png) |
 
 | Hagl i haven | Magisk tåge |
 | --- | --- |
